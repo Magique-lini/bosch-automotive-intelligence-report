@@ -1,0 +1,4280 @@
+{
+  "2026-08-28": {
+    "generatedAt": "2026-08-28T08:34:33.344Z",
+    "sourceAudit": {
+      "qualityVersion": 3,
+      "provider": "zhipu",
+      "model": "glm-4.7-flashx",
+      "pageVerification": true,
+      "directSearch": true,
+      "publishable": true,
+      "directSearchCalls": 26,
+      "directSearchCandidates": 230,
+      "rotatingPartnerNames": [
+        "地平线",
+        "英伟达",
+        "高通",
+        "MTK",
+        "爱芯",
+        "长鑫科技",
+        "大疆",
+        "文远知行",
+        "轻舟智航",
+        "四维图新",
+        "斑马智行",
+        "极豆",
+        "魔视智能",
+        "车联天下",
+        "华勤",
+        "科博达",
+        "威孚智感",
+        "腾讯",
+        "阿里云",
+        "上研智联",
+        "中汽中心 CATARC"
+      ],
+      "attempts": 52,
+      "accepted": 48,
+      "rejected": 9,
+      "carriedForwardOnTransientFailure": 0,
+      "cacheHits": 1,
+      "rejectionReasons": {
+        "http_403": 4,
+        "blocked_title": 3,
+        "blocked_host:blog.csdn.net": 1,
+        "fetch_error:read ECONNRESET": 1
+      },
+      "incomplete": true,
+      "warnings": [
+        "首轮行业新闻来源绑定：拒绝 6 条非 Search-Pro 候选或非历史基线链接",
+        "英伟达 首轮来源绑定：拒绝 1 条非 Search-Pro 候选或非历史基线链接",
+        "高通 首轮来源绑定：拒绝 1 条非 Search-Pro 候选或非历史基线链接",
+        "文远知行 首轮来源绑定：拒绝 2 条非 Search-Pro 候选或非历史基线链接",
+        "四维图新 首轮来源绑定：拒绝 2 条非 Search-Pro 候选或非历史基线链接",
+        "阿里云 首轮来源绑定：拒绝 2 条非 Search-Pro 候选或非历史基线链接",
+        "上研智联 首轮来源绑定：拒绝 1 条非 Search-Pro 候选或非历史基线链接",
+        "中汽中心 CATARC 首轮来源绑定：拒绝 1 条非 Search-Pro 候选或非历史基线链接",
+        "补充行业栏目（第 1 次）：API 返回 JSON 缺少 industryNews 数组，已跳过本次结果",
+        "补充行业栏目（第 2 次）来源绑定：拒绝 4 条非 Search-Pro 候选或非历史基线链接",
+        "英伟达 补搜（第 1 次）来源绑定：拒绝 2 条非 Search-Pro 候选或非历史基线链接",
+        "英伟达 在来源过滤、补搜和历史复用后有 1 条有效动态，未达到 2-3 条目标",
+        "文远知行 补搜（第 1 次）来源绑定：拒绝 3 条非 Search-Pro 候选或非历史基线链接",
+        "文远知行 在来源过滤、补搜和历史复用后有 0 条有效动态，未达到 2-3 条目标",
+        "四维图新 补搜（第 1 次）来源绑定：拒绝 2 条非 Search-Pro 候选或非历史基线链接",
+        "四维图新 在来源过滤、补搜和历史复用后有 1 条有效动态，未达到 2-3 条目标",
+        "阿里云 在来源过滤、补搜和历史复用后有 0 条有效动态，未达到 2-3 条目标",
+        "上研智联 补搜（第 1 次）来源绑定：拒绝 2 条非 Search-Pro 候选或非历史基线链接",
+        "上研智联 在来源过滤、补搜和历史复用后有 1 条有效动态，未达到 2-3 条目标",
+        "补充检索后行业栏目仍不足：“零部件企业 | Parts Enterprises”只有 1 条；“人事变动 | Change of Personnel”只有 0 条",
+        "已对当天已验证基线执行确定性质量清洗：行业移除 2 条，Partner 移除 5 条。"
+      ],
+      "deterministicCleanup": true,
+      "cleanupRemovedIndustryItems": 2,
+      "cleanupRemovedPartnerItems": 5
+    },
+    "industryNews": [
+      {
+        "id": "7",
+        "category": "产经聚焦 | Industrial Economy",
+        "title": "China depresses global LV demand, but signs of improvement",
+        "source": "Automotive World",
+        "sourceUrl": "https://www.automotiveworld.com/news/china-depresses-global-lv-demand-but-signs-of-improvement/",
+        "publishedAt": "2026-08-27",
+        "summary": "全球轻型汽车销量因中国市场需求疲软而下降，但近期出现改善迹象。",
+        "highlight": "中国市场波动影响全球汽车产业链，可能影响零部件供应商的全球布局策略。",
+        "tags": [
+          "全球销量",
+          "中国市场",
+          "行业趋势",
+          "需求分析"
+        ],
+        "confidence": "高",
+        "detectedAt": "2026-08-28",
+        "isNew": true
+      },
+      {
+        "id": "8",
+        "category": "产经聚焦 | Industrial Economy",
+        "title": "Global light vehicle sales forecast – August 2026 edition",
+        "source": "Automotive World",
+        "sourceUrl": "https://www.automotiveworld.com/data/global-light-vehicle-sales-forecast-august-2026-edition/",
+        "publishedAt": "2026-08-27",
+        "summary": "Automotive World发布2026年8月全球轻型汽车销量预测，显示市场复苏迹象。",
+        "highlight": "可能影响汽车需求、价格与供应链节奏，建议持续跟踪区域市场和客户订单变化。",
+        "tags": [
+          "销量预测",
+          "全球市场",
+          "复苏",
+          "行业分析"
+        ],
+        "confidence": "高",
+        "detectedAt": "2026-08-28",
+        "isNew": true
+      },
+      {
+        "id": "9",
+        "category": "政策动态 | Policy Situation",
+        "title": "China launches yearlong campaign on connected-car safety",
+        "source": "Automotive World",
+        "sourceUrl": "https://www.automotiveworld.com/news/china-launches-yearlong-campaign-on-connected-car-safety/",
+        "publishedAt": "2026-08-27",
+        "summary": "中国启动为期一年的智能网联汽车安全专项行动，重点打击软件配置未锁定的风险。",
+        "highlight": "将提高整车及供应商的合规与验证要求，需评估认证、软件安全和项目交付影响。",
+        "tags": [
+          "智能网联安全",
+          "政策",
+          "合规",
+          "软件锁定"
+        ],
+        "confidence": "高",
+        "detectedAt": "2026-08-28",
+        "isNew": true
+      },
+      {
+        "id": "1",
+        "category": "车企动态 | OEM Trend",
+        "title": "Nio Firefly launches new special edition limited to 666 units at 13% premium",
+        "source": "CnEVPost",
+        "sourceUrl": "https://cnevpost.com/2026/08/28/nio-firefly-launches-new-special-edition-666-units/",
+        "publishedAt": "2026-08-28",
+        "summary": "蔚来旗下 Firefly 车型推出特别版，限量 666 台，售价 135,800 元，溢价 13%。差异化体现在独家车漆、贴花和内饰细节。",
+        "highlight": "可能影响车型导入、项目定点与配套节奏，需继续跟踪量产规模和区域扩张进展。",
+        "tags": [
+          "Nio",
+          "Firefly",
+          "Premium",
+          "Special Edition"
+        ],
+        "confidence": "高",
+        "detectedAt": "2026-08-28",
+        "isNew": true
+      },
+      {
+        "id": "2",
+        "category": "车企动态 | OEM Trend",
+        "title": "BYD flash charging network to hit 10,000 stations on August 28, doubling in 5 months",
+        "source": "CnEVPost",
+        "sourceUrl": "https://cnevpost.com/2026/08/27/byd-flash-charging-10000-stations-aug-28-2026/",
+        "publishedAt": "2026-08-27",
+        "summary": "比亚迪快充网络在 5 个月内实现翻倍，计划于 8 月 28 日在深圳完成新站点建设，总数达到 10,000 个。",
+        "highlight": "可能影响车型导入、项目定点与配套节奏，需继续跟踪量产规模和区域扩张进展。",
+        "tags": [
+          "BYD",
+          "Charging Network",
+          "Expansion"
+        ],
+        "confidence": "高",
+        "detectedAt": "2026-08-28",
+        "isNew": true
+      },
+      {
+        "id": "3",
+        "category": "车企动态 | OEM Trend",
+        "title": "Li Auto maps overseas push with i6 for Europe, L9 for Dubai",
+        "source": "CnEVPost",
+        "sourceUrl": "https://cnevpost.com/2026/08/27/li-auto-maps-overseas-push-i6-europe-l9-dubai/",
+        "publishedAt": "2026-08-27",
+        "summary": "理想汽车规划第四季度在欧洲销售 Li i6 SUV，9 月在迪拜销售 Li L9。",
+        "highlight": "可能影响车型导入、项目定点与配套节奏，需继续跟踪量产规模和区域扩张进展。",
+        "tags": [
+          "Li Auto",
+          "Overseas Expansion",
+          "Li i6",
+          "Li L9"
+        ],
+        "confidence": "高",
+        "detectedAt": "2026-08-28",
+        "isNew": true
+      },
+      {
+        "id": "5",
+        "category": "零部件企业 | Parts Enterprises",
+        "title": "AEM unveils new electric motor for heavy-duty commercial vehicles",
+        "source": "Electrive",
+        "sourceUrl": "https://www.electrive.com/2026/08/27/aem-unveils-new-electric-motor-for-heavy-duty-commercial-vehicles/",
+        "publishedAt": "2026-08-27",
+        "summary": "英国初创公司 Advanced Electric Machines (AEM) 将在德国 IAA 展会上发布其最大的高扭矩电机 3D 模型，适用于重载应用。",
+        "highlight": "反映零部件技术路线与供应格局变化，需评估成本、产能和项目定点机会。",
+        "tags": [
+          "AEM",
+          "Electric Motor",
+          "Heavy-duty",
+          "IEA Transportation"
+        ],
+        "confidence": "高",
+        "detectedAt": "2026-08-28",
+        "isNew": true
+      }
+    ],
+    "partners": [
+      {
+        "name": "地平线",
+        "category": "芯片供应商",
+        "focus": "征程系列 AI 芯片",
+        "priority": "关注",
+        "status": "BASELINE",
+        "news": [
+          {
+            "newsTitle": "刷新行业速度：地平线征程 6B 车载智能计算方案一次性点亮成功（发布时间：2025-07-14 20:52:29）",
+            "source": "新浪财经",
+            "sourceUrl": "https://finance.sina.com.cn/stock/t/2025-07-14/doc-inffmyai6402178.shtml?cref=cj",
+            "publishedAt": "2025-07-14",
+            "summary": "地平线宣布征程6B方案从回片上电到出图仅用时23分钟，刷新行业速度。",
+            "highlight": "技术迭代加快，有助于提升量产效率和成本竞争力。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "发布了地平线征程6计算方案以及Horizon SuperDriv",
+            "source": "易车",
+            "sourceUrl": "https://www.yiche.com/zhai/1931855/",
+            "publishedAt": "2024-04-26",
+            "summary": "地平线在发布会上推出了征程6系列计算方案（6B至6P）以及Horizon SuperDrive全场景智驾解决方案。征程6B配置纳什架构，算力10+TOPS；6E和6M分别面向高速NOA和性价比城区NOA；顶配6P算力达560TOPS。此外，地平线创始人余凯宣布征程系列芯片累计出货量超500万颗，应用车型超230款。",
+            "highlight": "征程6系列全阶产品布局（6B-6P），Horizon SuperDrive全场景智驾方案发布，累计出货超500万颗，合作车企30家。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "地平线与智能汽车计算平台方案商国汽智控签署战略合作协议-电子发烧友网",
+            "source": "电子发烧友网",
+            "sourceUrl": "https://m.elecfans.com/article/1558979.html",
+            "publishedAt": "2021-03-31",
+            "summary": "地平线与国汽智控签署战略合作协议，双方将围绕智能驾驶操作系统、计算基础平台、高级辅助驾驶等方面展开深度合作。双方将共同开发技术领先、市场认可、车规级的智能驾驶计算基础平台。",
+            "highlight": "与国汽智控签署战略合作，聚焦智能驾驶操作系统与计算基础平台，加速生态合作。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "英伟达",
+        "category": "芯片供应商",
+        "focus": "Orin / Thor 自动驾驶 SoC",
+        "priority": "关注",
+        "status": "BASELINE",
+        "news": []
+      },
+      {
+        "name": "高通",
+        "category": "芯片供应商",
+        "focus": "骁龙座舱 / 智驾芯片",
+        "priority": "活跃",
+        "status": "BASELINE",
+        "news": [
+          {
+            "newsTitle": "Qualcomm现场演示了DSRC技术 保护您远离车祸风险（发布时间：2023-01-06 13:35:09）",
+            "source": "电子发烧友网",
+            "sourceUrl": "https://www.elecfans.com/rengongzhineng/778674.html",
+            "publishedAt": "2019-03-18",
+            "summary": "在底特律举办的全球运输系统大会上，Qualcomm演示了基于DSRC技术的车与行人间系统前沿技术，展示了该技术在减少车祸方面的应用潜力。",
+            "highlight": "车辆之间每秒钟交换10次信息，汽车能360度全方位感知、侦测数百码内的危险状况。",
+            "confidence": "中"
+          },
+          {
+            "newsTitle": "Qualcomm与福特合作以改善安全、提升交通效率并支持自动驾驶（发布时间：2018-01-22 22:04:00）",
+            "source": "电子发烧友网",
+            "sourceUrl": "https://www.elecfans.com/qichedianzi/620935.html",
+            "publishedAt": "2018-01-22",
+            "summary": "高通与福特汽车公司合作，加速开发联网汽车，将长期合作关系扩展至福特汽车先进连接系统的开发及未来蜂窝车联网（C-V2X）技术测试中。",
+            "highlight": "双方合作开展美国首个公布的C-V2X试验，并计划于2018年上半年开始进一步外场测试。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "Qualcomm宣布推出面向下一代联网汽车的千兆级LTE",
+            "source": "电子发烧友网",
+            "sourceUrl": "https://www.elecfans.com/rengongzhineng/778775.html",
+            "publishedAt": "2017-01-03",
+            "summary": "Qualcomm在2017年国际消费电子展（CES）上宣布推出采用骁龙X16 LTE调制解调器的全新联网汽车参考平台，支持高达1 Gbps的峰值下载速度。",
+            "highlight": "骁龙X16 LTE调制解调器支持千兆级下载速率，帮助汽车制造商提供领先的车载信息服务和联网汽车服务所需的高速、优质与可靠连接。",
+            "confidence": "中"
+          }
+        ]
+      },
+      {
+        "name": "MTK",
+        "category": "芯片供应商",
+        "focus": "Dimensity Auto 车载座舱与连接平台",
+        "priority": "待定",
+        "status": "BASELINE",
+        "news": [
+          {
+            "newsTitle": "MediaTek结合NVIDIA技术推出Dimensity Auto座舱平台，为汽车带来先进的AI技术（发布时间：2024-03-19 15:32:00）",
+            "source": "太平洋电脑网",
+            "sourceUrl": "https://news.pconline.com.cn/1722/17229749.html",
+            "publishedAt": "2024-03-19",
+            "summary": "联发科在NVIDIA GTC大会上推出支持NVIDIA RTX的座舱平台，支持大语言模型。",
+            "highlight": "与NVIDIA合作提升AI算力，增强智能座舱竞争力。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "MediaTek 发布 Dimensity Auto 汽车平台，赋能智能汽车科技创新",
+            "source": "微信公众平台",
+            "sourceUrl": "https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HIk8kWqjjXBI7agK-1MOruhwqMmn6cRJEkePXG7C&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzAxOTA5NTU4OA%3D%3D%26mid%3D2649622130%26idx%3D1%26sn%3Dbd65fa3918a6cf17c78aec23f5c481f0",
+            "publishedAt": "2023-04-19",
+            "summary": "联发科发布Dimensity Auto平台，整合显示、定位、AI等技术。",
+            "highlight": "多平台整合提升系统性能，满足多样化车载需求。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "爱芯",
+        "category": "芯片供应商",
+        "focus": "9031E、M57 芯片",
+        "priority": "关注",
+        "status": "UPDATED",
+        "previousPublishedAt": "2026-06-23",
+        "news": [
+          {
+            "newsTitle": "【投融资动态】爱芯元智IPO上市融资，融资额29.59亿港元，投资方为公开发行（发布时间：2026-02-10 19:47:14）",
+            "source": "网易",
+            "sourceUrl": "https://www.163.com/dy/article/KLEADEST051984TV.html?spss=dy_author",
+            "publishedAt": "2026-02-10",
+            "summary": "爱芯元智通过港交所上市融资29.59亿港元，成为“中国边缘AI芯片第一股”。",
+            "highlight": "IPO成功增强资本实力，有助于加速产品研发和市场拓展。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "爱芯元智通过聆讯 中金、国泰海通、交银国际为联席保荐人（发布时间：2026-01-26 09:31:18）",
+            "source": "网易",
+            "sourceUrl": "https://www.163.com/dy/article/KK6J6RE2053469RG.html?spss=dy_author",
+            "publishedAt": "2026-01-26",
+            "summary": "爱芯元智通过港交所主板上市聆讯，保荐机构为多家知名投行。",
+            "highlight": "上市进程加速，提升品牌知名度和行业地位。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "长鑫科技",
+        "category": "芯片供应商",
+        "focus": "DRAM 存储芯片",
+        "priority": "待定",
+        "status": "BASELINE",
+        "news": [
+          {
+            "newsTitle": "文俊探新丨长鑫科技登顶A股创多项纪录 撼动全球寡头竞争格局",
+            "source": "湖北日报",
+            "sourceUrl": "https://news.hubeidaily.net/pc/c_5801657.html",
+            "publishedAt": "2026-07-28",
+            "summary": "长鑫科技登陆科创板，市值突破3万亿元，成为A股市值第一。",
+            "highlight": "市值领先提升行业影响力，为国产存储芯片提供背标。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "A股迎市值“新王”:为何说未来18个月对长鑫科技至关重要?",
+            "source": "每日经济新闻",
+            "sourceUrl": "https://m.nbd.com.cn/articles/2026-07-27/4517351.html",
+            "publishedAt": "2026-07-27",
+            "summary": "长鑫科技上市后面临HBM技术突破的关键期，影响未来竞争力。",
+            "highlight": "HBM技术是存储芯片高端市场关键，决定未来盈利能力。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "大疆",
+        "category": "算法供应商",
+        "focus": "8650 / J6M 海外项目",
+        "priority": "关注",
+        "status": "BASELINE",
+        "news": [
+          {
+            "newsTitle": "卓驭科技获得中国一汽战略投资超36亿元（发布时间：2025-11-21 15:39:06）",
+            "source": "网易",
+            "sourceUrl": "https://www.163.com/dy/article/KETA0SC405119MAU.html?spss=dy_author",
+            "publishedAt": "2025-11-21",
+            "summary": "卓驭科技获中国一汽战略投资超36亿元，投后估值超百亿元。",
+            "highlight": "巨头投资强化技术落地，推动高阶智驾方案量产。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "比亚迪等入股卓驭科技（发布时间：2024-12-09 18:11:13）",
+            "source": "新浪财经",
+            "sourceUrl": "https://finance.sina.com.cn/roll/2024-12-09/doc-incywkcr2536557.shtml",
+            "publishedAt": "2024-12-09",
+            "summary": "卓驭科技新增比亚迪等股东，注册资本增加。",
+            "highlight": "车企入股支持商业化落地，提升供应链稳定性。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "文远知行",
+        "category": "算法供应商",
+        "focus": "L4 Robotaxi、L2++ ADAS",
+        "priority": "待定",
+        "status": "BASELINE",
+        "news": []
+      },
+      {
+        "name": "轻舟智航",
+        "category": "算法供应商",
+        "focus": "城市 NOA、高速 NOA",
+        "priority": "关注",
+        "status": "BASELINE",
+        "news": [
+          {
+            "newsTitle": "轻舟智航软硬一体“高速+城市”NOA高阶辅助驾驶方案简介",
+            "source": "微信公众平台",
+            "sourceUrl": "https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HIw8kWqjUYawiWb1bCArMBXMBbb09DJSJfXTi5G3&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzkyMzQ4MTk0Mg%3D%3D%26mid%3D2247486357%26idx%3D1%26sn%3D6cb68b40867f3034d4c36a432485a36e",
+            "publishedAt": "2023-09-04",
+            "summary": "轻舟智航展示高速+城市NOA方案，融合超融合BEV感知技术。",
+            "highlight": "方案强调性价比与可扩展性，适合量产落地。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "轻舟智航：智能驾驶构建智慧未来生活",
+            "source": "微信公众平台",
+            "sourceUrl": "https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HIw8kWqjMGe6P9ORzJAlW_NcaC3skjlq9mOrmyvr&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzU4MjIzMzkzNw%3D%3D%26mid%3D2247538413%26idx%3D1%26sn%3Dfd810a66b1b37a4aeeaaf2378b47b58b",
+            "publishedAt": "2019-08-07",
+            "summary": "轻舟智航介绍其无人驾驶解决方案和战略。",
+            "highlight": "早期战略布局，强调技术落地与商业化。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "四维图新",
+        "category": "座舱 / 软件供应商",
+        "focus": "座舱软硬一体、操作系统",
+        "priority": "待定",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "四维图新披露座舱新增定点 150 万套",
+            "source": "新华网",
+            "sourceUrl": "https://www.news.cn/auto/20260425/ea218722c9794a1486bd9a8f7338f68f/c.html",
+            "publishedAt": "2026-04-25",
+            "summary": "四维图新在北京车展展示云、驾、舱、芯全栈方案，并披露座舱新增定点 135 万套。",
+            "highlight": "定点规模显示其软硬一体座舱与出海数据服务开始形成量产基础。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "斑马智行",
+        "category": "座舱 / 软件供应商",
+        "focus": "智能座舱操作系统（阿里系）",
+        "priority": "待定",
+        "status": "BASELINE",
+        "news": [
+          {
+            "newsTitle": "车内点外卖，加油刷车牌，斑马智行情境让智能驱动服务找人（发布时间：2019-07-07 23:36:00）",
+            "source": "搜狐",
+            "sourceUrl": "https://www.autor.com.cn/index/technology/9838.html",
+            "publishedAt": "2019-07-07",
+            "summary": "斑马智行情境智能服务介绍，支持点餐、加油等功能。",
+            "highlight": "早期智能座舱生态布局，强调场景化服务。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "极豆",
+        "category": "座舱 / 软件供应商",
+        "focus": "AI 座舱、云平台运营",
+        "priority": "待定",
+        "status": "UPDATED",
+        "previousPublishedAt": "2026-04-26",
+        "news": [
+          {
+            "newsTitle": "极豆科技完成C轮融资（发布时间：2025-11-19 04:06:04）",
+            "source": "网易",
+            "sourceUrl": "https://www.163.com/dy/article/KEMTIF6M05118K7K.html?spss=dy_author",
+            "publishedAt": "2025-11-19",
+            "summary": "极豆科技完成C轮融资，定位车主服务运营商。",
+            "highlight": "融资支持业务拓展，强化智能座舱生态服务能力。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "极豆科技完成近亿元新一轮融资 国际芯片巨头领投（发布时间：2025-11-18 11:24:00）",
+            "source": "搜狐",
+            "sourceUrl": "https://www.sohu.com/a/955606748_120988576",
+            "publishedAt": "2025-11-18",
+            "summary": "极豆科技完成近亿元融资，由国际芯片巨头领投。",
+            "highlight": "资本注入加速大模型迭代与海外市场拓展。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "魔视智能",
+        "category": "座舱 / 软件供应商",
+        "focus": "泊车方案、AI 驱动第三方方案",
+        "priority": "待定",
+        "status": "NEW",
+        "previousPublishedAt": "2023-07-14",
+        "news": [
+          {
+            "newsTitle": "魔视智能递表港交所，为智能驾驶板块扩容再添新动能（发布时间：2025-09-29 08:11:10）",
+            "source": "腾讯新闻",
+            "sourceUrl": "https://news.qq.com/rain/a/20250929A01HCH00",
+            "publishedAt": "2025-09-29",
+            "summary": "魔视智能递交上市申请书，聚焦L0-L4全栈解决方案。",
+            "highlight": "全栈技术能力满足主机厂多元化需求。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "魔视智能递表港交所，交付超过330万套智能驾驶解决方案（发布时间：2025-09-28 21:08:52）",
+            "source": "新浪财经",
+            "sourceUrl": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2025-09-28/doc-infrzitv3007250.shtml",
+            "publishedAt": "2025-09-28",
+            "summary": "魔视智能向港交所递交上市申请书，解决方案已交付超330万套。",
+            "highlight": "量产规模验证技术实力，上市助力行业影响力提升。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "车联天下",
+        "category": "座舱 / 软件供应商",
+        "focus": "座舱域控制器、生态运营",
+        "priority": "待定",
+        "status": "UPDATED",
+        "previousPublishedAt": "2026-06-15",
+        "news": [
+          {
+            "newsTitle": "车联天下递表港交所（发布时间：2025-11-30 11:21:14）",
+            "source": "腾讯新闻",
+            "sourceUrl": "https://news.qq.com/rain/a/20251130A02X8000",
+            "publishedAt": "2025-11-30",
+            "summary": "车联天下递表港交所，专注汽车E/E架构演进。",
+            "highlight": "E/E架构演进是行业趋势，公司定位领先者。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "车联天下，递交IPO招股书，拟赴香港上市，中金公司、海通国际联席保荐（发布时间：2025-11-29 15:14:00）",
+            "source": "搜狐",
+            "sourceUrl": "https://www.sohu.com/a/959794831_121948396",
+            "publishedAt": "2025-11-29",
+            "summary": "车联天下递交港交所招股书，专注智能座舱域控制器。",
+            "highlight": "IPO进程加速，提升行业地位与市场竞争力。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "华勤",
+        "category": "EMS / 代工",
+        "focus": "车载 EMS 代工、智能汽车电子",
+        "priority": "待定",
+        "status": "UPDATED",
+        "previousPublishedAt": "2026-05-02",
+        "news": [
+          {
+            "newsTitle": "从智能座舱到智驾大脑，华勤汽车四大产品线集体“上车”（发布时间：2025-05-01 09:30:18）",
+            "source": "网易新闻客户端",
+            "sourceUrl": "https://c.m.163.com/news/a/JUFBOE9I0511RIVP.html",
+            "publishedAt": "2025-04-23",
+            "summary": "华勤展示智能座舱、智驾域控等产品，布局全栈智能车载解决方案。",
+            "highlight": "产品布局完善，助力Tier1实现智能化转型。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "华勤展示自研CMS、ADAS等车载产品",
+            "source": "微信公众平台",
+            "sourceUrl": "https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HI48kWqjRkFoBuh-78gQ2RGeQYEzyt9fQXS7SemZ&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5NDIxNzkyMA%3D%3D%26mid%3D2656058567%26idx%3D3%26sn%3D1a12282e74647a3cf733e55bac8e2bb1",
+            "publishedAt": "2023-11-10",
+            "summary": "华勤展示智能座舱、ADAS等产品，具备全栈服务能力。",
+            "highlight": "产品线覆盖全面，支撑Tier1全栈解决方案需求。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "科博达",
+        "category": "传统 Tier 1 / 零部件",
+        "focus": "照明控制、电机控制、中央计算平台",
+        "priority": "关注",
+        "status": "BASELINE",
+        "news": [
+          {
+            "newsTitle": "科博达：东方资管投资者于1月28日调研我司（发布时间：2026-02-03 19:01:00）",
+            "source": "搜狐",
+            "sourceUrl": "https://www.sohu.com/a/983330278_115377",
+            "publishedAt": "2026-02-03",
+            "summary": "科博达接待东方资管调研，探讨客户战略与研发模式。",
+            "highlight": "与客户深度合作，推动智能驾驶等领域创新。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "威孚智感",
+        "category": "传统 Tier 1 / 零部件",
+        "focus": "毫米波雷达、博世在华合作",
+        "priority": "待定",
+        "status": "UPDATED",
+        "previousPublishedAt": "2026-01-20",
+        "news": [
+          {
+            "newsTitle": "威孚高科：第六代毫米波角雷达已实现量产（发布时间：2026-01-20 12:06:05）",
+            "source": "网易",
+            "sourceUrl": "https://www.163.com/dy/article/KJNDLUVI051984TV.html?spss=dy_author",
+            "publishedAt": "2026-01-20",
+            "summary": "威孚高科子公司威孚智感第六代毫米波角雷达实现量产，获取多家主机厂定点。",
+            "highlight": "量产落地验证技术能力，拓展全球市场。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "【智能化】威孚智感联合博世量产第六代毫米波雷达（发布时间：2025-10-30 16:54:31）",
+            "source": "腾讯新闻",
+            "sourceUrl": "https://news.qq.com/rain/a/20251030A04SO100",
+            "publishedAt": "2025-10-30",
+            "summary": "威孚智感与博世合作量产第六代毫米波角雷达，探测距离210米。",
+            "highlight": "与博世合作提升技术可靠性，拓展高阶智驾感知市场。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "腾讯",
+        "category": "云 / AI 平台",
+        "focus": "云合作、座舱 AI、智驾方案",
+        "priority": "活跃",
+        "status": "UPDATED",
+        "previousPublishedAt": "2026-06-01",
+        "news": [
+          {
+            "newsTitle": "腾讯参与孵化，途虎养车今日上市，市值逾240亿港元（发布时间：2023-09-26 13:46:00）",
+            "source": "搜狐",
+            "sourceUrl": "https://www.sohu.com/a/723673054_115377",
+            "publishedAt": "2023-09-26",
+            "summary": "途虎养车上市，腾讯参与孵化，提供流量扶持。",
+            "highlight": "生态合作支持汽车服务行业数字化发展。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "阿里云",
+        "category": "云 / AI 平台",
+        "focus": "PAI、通义千问、数据流水线",
+        "priority": "活跃",
+        "status": "BASELINE",
+        "news": []
+      },
+      {
+        "name": "上研智联",
+        "category": "测试 / 合规",
+        "focus": "自动驾驶测试、数据跨境合规",
+        "priority": "关注",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "展示 AIGC 场景生成、数字孪生与智能网联测试能力",
+            "source": "MBAChina 企业参访",
+            "sourceUrl": "https://www.mba.org.cn/article?id=2927",
+            "publishedAt": "2026-01-05",
+            "summary": "公开参访信息展示上研智联在自动驾驶测试、AIGC 场景泛化、数字孪生和测试数据服务方面的能力。",
+            "highlight": "公开新闻频率较低，本条作为现有最新基线；应额外监测临港测试项目、数据跨境合规资质与 OEM 客户案例。",
+            "confidence": "中"
+          }
+        ]
+      },
+      {
+        "name": "中汽中心 CATARC",
+        "category": "测试 / 合规",
+        "focus": "标准与测试",
+        "priority": "待定",
+        "status": "BASELINE",
+        "news": [
+          {
+            "newsTitle": "中汽研汽车检验中心（武汉）有限公司获得“武汉市企业技术创新项目”支持（发布时间：2020-08-28 16:50:00）",
+            "source": "搜狐",
+            "sourceUrl": "https://www.sohu.com/a/415377215_372882",
+            "publishedAt": "2020-08-28",
+            "summary": "中汽研汽车检验中心（武汉）有限公司的“高可靠性燃料电池发动机测试技术及设备应用研究”项目成功获得2020年度武汉市企业技术创新项目支持，项目旨在开发模块化的燃料电池发动机测试平台。",
+            "highlight": "获得武汉市企业技术创新项目支持，聚焦燃料电池发动机测试技术研发。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "建立燃料电池发动机模拟碰撞测试能力",
+            "source": "微信公众平台",
+            "sourceUrl": "https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HHA9kWqjn1K4U3W2D_PwdvhIDq4yJoPjgmty2zet&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI2NDY2NzQxMA%3D%3D%26mid%3D2247494519%26idx%3D1%26sn%3D92b3f10ac4260d4334c690adeb0a82db",
+            "publishedAt": "2020-08-28",
+            "summary": "中汽中心武汉检验中心成功设计并完成了燃料电池发动机的模拟碰撞测试，填补了国内相关标暂未涉及整车碰撞及部件系统动态冲击测试方法的空白。",
+            "highlight": "成功建立燃料电池发动机模拟碰撞测试能力，填补国内测试方法空白。",
+            "confidence": "高"
+          }
+        ]
+      }
+    ]
+  },
+  "2026-08-27": {
+    "generatedAt": "2026-08-27T11:10:17.301Z",
+    "sourceAudit": {
+      "provider": "zhipu",
+      "model": "glm-4.7-flashx",
+      "pageVerification": true,
+      "attempts": 84,
+      "accepted": 18,
+      "rejected": 74,
+      "cacheHits": 8,
+      "rejectionReasons": {
+        "listing_or_homepage": 4,
+        "http_404": 29,
+        "fetch_error:805D2BF601000000:error:0A000410:SSL routines:ssl3_read_bytes:ssl/tls alert handshake failure:ssl/record/rec_layer_s3.c:918:SSL alert number 40\n": 1,
+        "fetch_error:Connect Timeout Error (attempted addresses: 202.160.128.238:443, 2001::80f2:f09d:443, timeout: 10000ms)": 1,
+        "page_text_too_short:67": 1,
+        "unsupported_content_type:": 1,
+        "published_date_missing": 3,
+        "fetch_error:read ECONNRESET": 1,
+        "page_text_too_short:66": 2,
+        "fetch_error:connect EHOSTUNREACH 64.98.135.79:443": 1,
+        "fetch_error:getaddrinfo ENOTFOUND www.mowiselab.com": 1,
+        "page_text_too_short:57": 1,
+        "page_text_too_short:0": 2,
+        "page_text_too_short:59": 2,
+        "page_text_too_short:237": 2,
+        "fetch_error:Connect Timeout Error (attempted address: www.caam.org.cn:443, timeout: 10000ms)": 1,
+        "fetch_error:getaddrinfo ENOTFOUND www.horizon.auto": 2,
+        "fetch_error:getaddrinfo ENOTFOUND nvidianews.nvidia.com": 1,
+        "fetch_error:getaddrinfo ENOTFOUND blogs.nvidia.com": 1,
+        "fetch_error:getaddrinfo ENOTFOUND www.qualcomm.com": 2,
+        "fetch_error:getaddrinfo ENOTFOUND www.techinsights.com": 1,
+        "fetch_error:getaddrinfo ENOTFOUND www.mediatek.com": 1,
+        "fetch_error:getaddrinfo ENOTFOUND epaper.cena.com.cn": 1,
+        "fetch_error:getaddrinfo ENOTFOUND www.nbd.com.cn": 1,
+        "fetch_error:getaddrinfo ENOTFOUND www.xinhuanet.com": 1,
+        "fetch_error:getaddrinfo ENOTFOUND www.zyt.com": 1,
+        "fetch_error:getaddrinfo ENOTFOUND zh.weride.ai": 1,
+        "fetch_error:getaddrinfo ENOTFOUND www.qcraft.ai": 1,
+        "fetch_error:getaddrinfo ENOTFOUND finance.sina.com.cn": 1,
+        "fetch_error:getaddrinfo ENOTFOUND www.zebred.com": 1,
+        "fetch_error:getaddrinfo ENOTFOUND assets.kpmg.com": 1,
+        "fetch_error:getaddrinfo ENOTFOUND www.axera-tech.com": 1,
+        "fetch_error:getaddrinfo ENOTFOUND pdf.dfcfw.com": 1,
+        "fetch_error:getaddrinfo ENOTFOUND www.news.cn": 1,
+        "fetch_error:getaddrinfo ENOTFOUND news.sdju.edu.cn": 1
+      },
+      "incomplete": true,
+      "warnings": [
+        "补充行业栏目（第 1 次）失败，已跳过本次结果：补充行业栏目（第 1 次）：智谱 API 连接失败（https://open.bigmodel.cn/api/paas/v4/chat/completions）：The operation was aborted due to timeout",
+        "补充行业栏目（第 2 次）失败，已跳过本次结果：补充行业栏目（第 2 次）：智谱 API 连接失败（https://open.bigmodel.cn/api/paas/v4/chat/completions）：The operation was aborted due to timeout",
+        "地平线 补搜（第 1 次）失败，已跳过本次结果：地平线 补搜（第 1 次）：智谱 API 连接失败（https://open.bigmodel.cn/api/paas/v4/chat/completions）：getaddrinfo ENOTFOUND open.bigmodel.cn",
+        "地平线 补搜（第 2 次）失败，已跳过本次结果：地平线 补搜（第 2 次）：智谱 API 连接失败（https://open.bigmodel.cn/api/paas/v4/chat/completions）：getaddrinfo ENOTFOUND open.bigmodel.cn",
+        "地平线 在来源过滤、补搜和历史复用后有 0 条有效动态，未达到 2-3 条目标",
+        "英伟达 补搜（第 1 次）失败，已跳过本次结果：英伟达 补搜（第 1 次）：智谱 API 连接失败（https://open.bigmodel.cn/api/paas/v4/chat/completions）：getaddrinfo ENOTFOUND open.bigmodel.cn",
+        "英伟达 补搜（第 2 次）失败，已跳过本次结果：英伟达 补搜（第 2 次）：智谱 API 连接失败（https://open.bigmodel.cn/api/paas/v4/chat/completions）：getaddrinfo ENOTFOUND open.bigmodel.cn",
+        "英伟达 在来源过滤、补搜和历史复用后有 0 条有效动态，未达到 2-3 条目标",
+        "高通 补搜（第 1 次）失败，已跳过本次结果：高通 补搜（第 1 次）：智谱 API 连接失败（https://open.bigmodel.cn/api/paas/v4/chat/completions）：getaddrinfo ENOTFOUND open.bigmodel.cn",
+        "高通 补搜（第 2 次）失败，已跳过本次结果：高通 补搜（第 2 次）：智谱 API 连接失败（https://open.bigmodel.cn/api/paas/v4/chat/completions）：getaddrinfo ENOTFOUND open.bigmodel.cn",
+        "高通 在来源过滤、补搜和历史复用后有 0 条有效动态，未达到 2-3 条目标",
+        "MTK 补搜（第 1 次）失败，已跳过本次结果：MTK 补搜（第 1 次）：智谱 API 连接失败（https://open.bigmodel.cn/api/paas/v4/chat/completions）：getaddrinfo ENOTFOUND open.bigmodel.cn",
+        "MTK 补搜（第 2 次）失败，已跳过本次结果：MTK 补搜（第 2 次）：智谱 API 连接失败（https://open.bigmodel.cn/api/paas/v4/chat/completions）：getaddrinfo ENOTFOUND open.bigmodel.cn",
+        "MTK 在来源过滤、补搜和历史复用后有 0 条有效动态，未达到 2-3 条目标",
+        "长鑫科技 补搜（第 1 次）失败，已跳过本次结果：长鑫科技 补搜（第 1 次）：智谱 API 连接失败（https://open.bigmodel.cn/api/paas/v4/chat/completions）：getaddrinfo ENOTFOUND open.bigmodel.cn",
+        "长鑫科技 补搜（第 2 次）失败，已跳过本次结果：长鑫科技 补搜（第 2 次）：智谱 API 连接失败（https://open.bigmodel.cn/api/paas/v4/chat/completions）：getaddrinfo ENOTFOUND open.bigmodel.cn",
+        "长鑫科技 在来源过滤、补搜和历史复用后有 0 条有效动态，未达到 2-3 条目标",
+        "大疆 补搜（第 1 次）失败，已跳过本次结果：大疆 补搜（第 1 次）：智谱 API 连接失败（https://open.bigmodel.cn/api/paas/v4/chat/completions）：getaddrinfo ENOTFOUND open.bigmodel.cn",
+        "大疆 补搜（第 2 次）失败，已跳过本次结果：大疆 补搜（第 2 次）：智谱 API 连接失败（https://open.bigmodel.cn/api/paas/v4/chat/completions）：getaddrinfo ENOTFOUND open.bigmodel.cn",
+        "大疆 在来源过滤、补搜和历史复用后有 0 条有效动态，未达到 2-3 条目标",
+        "文远知行 补搜（第 1 次）失败，已跳过本次结果：文远知行 补搜（第 1 次）：智谱 API 连接失败（https://open.bigmodel.cn/api/paas/v4/chat/completions）：getaddrinfo ENOTFOUND open.bigmodel.cn",
+        "文远知行 补搜（第 2 次）失败，已跳过本次结果：文远知行 补搜（第 2 次）：智谱 API 连接失败（https://open.bigmodel.cn/api/paas/v4/chat/completions）：getaddrinfo ENOTFOUND open.bigmodel.cn",
+        "文远知行 在来源过滤、补搜和历史复用后有 0 条有效动态，未达到 2-3 条目标",
+        "轻舟智航 补搜（第 1 次）失败，已跳过本次结果：轻舟智航 补搜（第 1 次）：智谱 API 连接失败（https://open.bigmodel.cn/api/paas/v4/chat/completions）：getaddrinfo ENOTFOUND open.bigmodel.cn",
+        "轻舟智航 补搜（第 2 次）失败，已跳过本次结果：轻舟智航 补搜（第 2 次）：智谱 API 连接失败（https://open.bigmodel.cn/api/paas/v4/chat/completions）：getaddrinfo ENOTFOUND open.bigmodel.cn",
+        "轻舟智航 在来源过滤、补搜和历史复用后有 0 条有效动态，未达到 2-3 条目标",
+        "四维图新 补搜（第 1 次）失败，已跳过本次结果：四维图新 补搜（第 1 次）：智谱 API 连接失败（https://open.bigmodel.cn/api/paas/v4/chat/completions）：getaddrinfo ENOTFOUND open.bigmodel.cn",
+        "四维图新 补搜（第 2 次）失败，已跳过本次结果：四维图新 补搜（第 2 次）：智谱 API 连接失败（https://open.bigmodel.cn/api/paas/v4/chat/completions）：getaddrinfo ENOTFOUND open.bigmodel.cn",
+        "四维图新 在来源过滤、补搜和历史复用后有 1 条有效动态，未达到 2-3 条目标",
+        "斑马智行 补搜（第 1 次）失败，已跳过本次结果：斑马智行 补搜（第 1 次）：智谱 API 连接失败（https://open.bigmodel.cn/api/paas/v4/chat/completions）：getaddrinfo ENOTFOUND open.bigmodel.cn",
+        "斑马智行 补搜（第 2 次）失败，已跳过本次结果：斑马智行 补搜（第 2 次）：智谱 API 连接失败（https://open.bigmodel.cn/api/paas/v4/chat/completions）：getaddrinfo ENOTFOUND open.bigmodel.cn",
+        "斑马智行 在来源过滤、补搜和历史复用后有 0 条有效动态，未达到 2-3 条目标",
+        "极豆 补搜（第 1 次）失败，已跳过本次结果：极豆 补搜（第 1 次）：智谱 API 连接失败（https://open.bigmodel.cn/api/paas/v4/chat/completions）：getaddrinfo ENOTFOUND open.bigmodel.cn",
+        "极豆 补搜（第 2 次）失败，已跳过本次结果：极豆 补搜（第 2 次）：智谱 API 连接失败（https://open.bigmodel.cn/api/paas/v4/chat/completions）：getaddrinfo ENOTFOUND open.bigmodel.cn",
+        "极豆 在来源过滤、补搜和历史复用后有 1 条有效动态，未达到 2-3 条目标",
+        "魔视智能 补搜（第 1 次）失败，已跳过本次结果：魔视智能 补搜（第 1 次）：智谱 API 连接失败（https://open.bigmodel.cn/api/paas/v4/chat/completions）：getaddrinfo ENOTFOUND open.bigmodel.cn",
+        "魔视智能 补搜（第 2 次）失败，已跳过本次结果：魔视智能 补搜（第 2 次）：智谱 API 连接失败（https://open.bigmodel.cn/api/paas/v4/chat/completions）：getaddrinfo ENOTFOUND open.bigmodel.cn",
+        "魔视智能 在来源过滤、补搜和历史复用后有 1 条有效动态，未达到 2-3 条目标",
+        "科博达 补搜（第 1 次）失败，已跳过本次结果：科博达 补搜（第 1 次）：智谱 API 连接失败（https://open.bigmodel.cn/api/paas/v4/chat/completions）：getaddrinfo ENOTFOUND open.bigmodel.cn",
+        "科博达 补搜（第 2 次）失败，已跳过本次结果：科博达 补搜（第 2 次）：智谱 API 连接失败（https://open.bigmodel.cn/api/paas/v4/chat/completions）：getaddrinfo ENOTFOUND open.bigmodel.cn",
+        "科博达 在来源过滤、补搜和历史复用后有 0 条有效动态，未达到 2-3 条目标",
+        "阿里云 补搜（第 1 次）失败，已跳过本次结果：阿里云 补搜（第 1 次）：智谱 API 连接失败（https://open.bigmodel.cn/api/paas/v4/chat/completions）：getaddrinfo ENOTFOUND open.bigmodel.cn",
+        "阿里云 补搜（第 2 次）失败，已跳过本次结果：阿里云 补搜（第 2 次）：智谱 API 连接失败（https://open.bigmodel.cn/api/paas/v4/chat/completions）：getaddrinfo ENOTFOUND open.bigmodel.cn",
+        "阿里云 在来源过滤、补搜和历史复用后有 0 条有效动态，未达到 2-3 条目标",
+        "上研智联 补搜（第 1 次）失败，已跳过本次结果：上研智联 补搜（第 1 次）：智谱 API 连接失败（https://open.bigmodel.cn/api/paas/v4/chat/completions）：getaddrinfo ENOTFOUND open.bigmodel.cn",
+        "上研智联 补搜（第 2 次）失败，已跳过本次结果：上研智联 补搜（第 2 次）：智谱 API 连接失败（https://open.bigmodel.cn/api/paas/v4/chat/completions）：getaddrinfo ENOTFOUND open.bigmodel.cn",
+        "上研智联 在来源过滤、补搜和历史复用后有 1 条有效动态，未达到 2-3 条目标",
+        "中汽中心 CATARC 补搜（第 1 次）失败，已跳过本次结果：中汽中心 CATARC 补搜（第 1 次）：智谱 API 连接失败（https://open.bigmodel.cn/api/paas/v4/chat/completions）：getaddrinfo ENOTFOUND open.bigmodel.cn",
+        "中汽中心 CATARC 补搜（第 2 次）失败，已跳过本次结果：中汽中心 CATARC 补搜（第 2 次）：智谱 API 连接失败（https://open.bigmodel.cn/api/paas/v4/chat/completions）：getaddrinfo ENOTFOUND open.bigmodel.cn",
+        "中汽中心 CATARC 在来源过滤、补搜和历史复用后有 0 条有效动态，未达到 2-3 条目标",
+        "补充检索后行业栏目仍不足：“车企动态 | OEM Trend”只有 0 条；“零部件企业 | Parts Enterprises”只有 0 条；“产经聚焦 | Industrial Economy”只有 0 条；“政策动态 | Policy Situation”只有 0 条；“人事变动 | Change of Personnel”只有 0 条"
+      ]
+    },
+    "industryNews": [],
+    "partners": [
+      {
+        "name": "地平线",
+        "category": "芯片供应商",
+        "focus": "征程系列 AI 芯片",
+        "priority": "关注",
+        "status": "NO CHANGE",
+        "news": []
+      },
+      {
+        "name": "英伟达",
+        "category": "芯片供应商",
+        "focus": "Orin / Thor 自动驾驶 SoC",
+        "priority": "关注",
+        "status": "NO CHANGE",
+        "news": []
+      },
+      {
+        "name": "高通",
+        "category": "芯片供应商",
+        "focus": "骁龙座舱 / 智驾芯片",
+        "priority": "活跃",
+        "status": "NO CHANGE",
+        "news": []
+      },
+      {
+        "name": "MTK",
+        "category": "芯片供应商",
+        "focus": "Dimensity Auto 车载座舱与连接平台",
+        "priority": "待定",
+        "status": "NO CHANGE",
+        "news": []
+      },
+      {
+        "name": "爱芯",
+        "category": "芯片供应商",
+        "focus": "9031E、M57 芯片",
+        "priority": "关注",
+        "status": "UPDATED",
+        "previousPublishedAt": "2026-07-10",
+        "news": [
+          {
+            "newsTitle": "爱芯元智发布 M72 车规级 MCU 芯片",
+            "source": "爱芯元智官网",
+            "sourceUrl": "https://www.axera-tech.com/zh-hans/news/3221.html",
+            "publishedAt": "2026-06-23",
+            "summary": "爱芯元智发布 M72 车规级 MCU 芯片，支持 ISO 26262 ASIL B 标准，主要应用于车身控制与安全系统。",
+            "highlight": "产品线向车身域延伸，有助于提高客户粘性，形成“智驾+车身”的协同效应。",
+            "confidence": "中"
+          },
+          {
+            "newsTitle": "爱芯 M57 赋能魔视智能泊车方案量产",
+            "source": "爱芯元智官网",
+            "sourceUrl": "https://www.axera-tech.com/zh-hans/news/3220.html",
+            "publishedAt": "2026-06-23",
+            "summary": "魔视智能基于爱芯 M57 的新一代泊车域控已获得多家车企定点，预计 2027 年量产。",
+            "highlight": "M57 在泊车场景的落地表明国产芯片在细分市场具备替代能力。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "长鑫科技",
+        "category": "芯片供应商",
+        "focus": "DRAM 存储芯片",
+        "priority": "待定",
+        "status": "NO CHANGE",
+        "news": []
+      },
+      {
+        "name": "大疆",
+        "category": "算法供应商",
+        "focus": "8650 / J6M 海外项目",
+        "priority": "关注",
+        "status": "NO CHANGE",
+        "news": []
+      },
+      {
+        "name": "文远知行",
+        "category": "算法供应商",
+        "focus": "L4 Robotaxi、L2++ ADAS",
+        "priority": "待定",
+        "status": "NO CHANGE",
+        "news": []
+      },
+      {
+        "name": "轻舟智航",
+        "category": "算法供应商",
+        "focus": "城市 NOA、高速 NOA",
+        "priority": "关注",
+        "status": "NO CHANGE",
+        "news": []
+      },
+      {
+        "name": "四维图新",
+        "category": "座舱 / 软件供应商",
+        "focus": "座舱软硬一体、操作系统",
+        "priority": "待定",
+        "status": "UPDATED",
+        "previousPublishedAt": "2026-07-01",
+        "news": [
+          {
+            "newsTitle": "四维图新披露座舱新增定点 150 万套",
+            "source": "新华网",
+            "sourceUrl": "https://www.news.cn/auto/20260425/ea218722c9794a1486bd9a8f7338f68f/c.html",
+            "publishedAt": "2026-04-25",
+            "summary": "四维图新在北京车展展示云、驾、舱、芯全栈方案，并披露座舱新增定点 135 万套。",
+            "highlight": "定点规模显示其软硬一体座舱与出海数据服务开始形成量产基础。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "斑马智行",
+        "category": "座舱 / 软件供应商",
+        "focus": "智能座舱操作系统（阿里系）",
+        "priority": "待定",
+        "status": "NO CHANGE",
+        "news": []
+      },
+      {
+        "name": "极豆",
+        "category": "座舱 / 软件供应商",
+        "focus": "AI 座舱、云平台运营",
+        "priority": "待定",
+        "status": "NEW",
+        "previousPublishedAt": "2026-04-24",
+        "news": [
+          {
+            "newsTitle": "极豆展示“沧海大模型”AI 汽车座舱方案",
+            "source": "2026 北京国际车展参展信息",
+            "sourceUrl": "https://www.bagevent.com/event/9164418",
+            "publishedAt": "2026-04-26",
+            "summary": "公开车展信息显示，极豆科技在 2026 北京车展展示“沧海大模型”AI 汽车座舱与相关云端运营能力。",
+            "highlight": "公开信息较少，本条保留为当前可验证基线；下一步重点监测车企定点、量产车型及云运营项目。",
+            "confidence": "中"
+          }
+        ]
+      },
+      {
+        "name": "魔视智能",
+        "category": "座舱 / 软件供应商",
+        "focus": "泊车方案、AI 驱动第三方方案",
+        "priority": "待定",
+        "status": "UPDATED",
+        "previousPublishedAt": "2026-05-25",
+        "news": [
+          {
+            "newsTitle": "魔视智能披露 L0–L4 全产品线与规模化前装能力",
+            "source": "DOIT",
+            "sourceUrl": "https://www.doit.com.cn/itnews/819442016522309.html",
+            "publishedAt": "2023-07-14",
+            "summary": "魔视智能介绍 Magic Drive、Magic Parking 与 Magic Safety 三条产品线，并强调行泊一体方案已规模化前装落地。",
+            "highlight": "产品线覆盖面和实际量产规模，是评估其第三方智驾方案竞争力的核心。",
+            "confidence": "中"
+          }
+        ]
+      },
+      {
+        "name": "车联天下",
+        "category": "座舱 / 软件供应商",
+        "focus": "座舱域控制器、生态运营",
+        "priority": "待定",
+        "status": "UPDATED",
+        "previousPublishedAt": "2026-06-15",
+        "news": [
+          {
+            "newsTitle": "车联天下与小米汽车合作推出智能座舱域控制器",
+            "source": "车联天下官网",
+            "sourceUrl": "https://www.auto-link.com.cn/news/details_490_2739.html",
+            "publishedAt": "2026-06-15",
+            "summary": "车联天下宣布与小米汽车合作，基于高通平台推出定制化座舱域控制器。",
+            "highlight": "产品线已从座舱域控向中央计算平台迁移，可能扩大与高通平台、AI Agent 和整车电子电气架构的合作面。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "从全系域控扩展至中央计算，AL-A2 支持 13B 端侧大模型",
+            "source": "车联天下官网",
+            "sourceUrl": "https://www.auto-link.com.cn/news/details_490_2738.html",
+            "publishedAt": "2026-06-15",
+            "summary": "车联天下展示覆盖座舱、舱驾融合和中央计算的产品矩阵；基于骁龙 8797 的 AL-A2 支持 13B 端侧大模型本地部署。",
+            "highlight": "产品线已从座舱域控向中央计算平台迁移，可能扩大与高通平台、AI Agent 和整车电子电气架构的合作面。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "华勤",
+        "category": "EMS / 代工",
+        "focus": "车载 EMS 代工、智能汽车电子",
+        "priority": "待定",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "华勤展示单 Thor、双 Thor 与 J6M 全系列 ADAS 域控",
+            "source": "华勤技术官网",
+            "sourceUrl": "https://www.huaqin.com/about/news/193",
+            "publishedAt": "2026-05-02",
+            "summary": "华勤在北京车展展示覆盖座舱、智驾、车身与全域 SOA 的汽车电子方案，包括单/双 NVIDIA Thor 和地平线 J6M 域控。",
+            "highlight": "华勤已从 EMS 制造延伸至全栈域控设计，单 Thor 域控计划在 2026 年第三季度于主流车企量产。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "华勤发布单 Thor ADAS 域控制器，计划 Q3 量产",
+            "source": "华勤技术官网",
+            "sourceUrl": "https://www.huaqin.com/about/news/194",
+            "publishedAt": "2026-04-13",
+            "summary": "华勤技术宣布推出单 NVIDIA Thor ADAS 域控制器，计划于 2026 年第三季度在主流车企量产。",
+            "highlight": "华勤已从 EMS 制造延伸至全栈域控设计，单 Thor 域控计划在 2026 年第三季度于主流车企量产。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "科博达",
+        "category": "传统 Tier 1 / 零部件",
+        "focus": "照明控制、电机控制、中央计算平台",
+        "priority": "关注",
+        "status": "NO CHANGE",
+        "news": []
+      },
+      {
+        "name": "威孚智感",
+        "category": "传统 Tier 1 / 零部件",
+        "focus": "毫米波雷达、博世在华合作",
+        "priority": "待定",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "博世第六代角雷达进入量产，威孚智感获得多家车企定点",
+            "source": "每日经济新闻",
+            "sourceUrl": "https://www.nbd.com.cn/articles/2026-01-20/4227403.html",
+            "publishedAt": "2026-01-20",
+            "summary": "公开报道显示，威孚智感参与的博世第六代角雷达已进入量产，并获得多家车企项目定点。",
+            "highlight": "虽然发布时间较早，但仍是当前最新有效汽车业务基线；需持续追踪量产爬坡、客户车型和博世合作边界。",
+            "confidence": "中"
+          },
+          {
+            "newsTitle": "博世雷达团队与威孚智感推进 CR60 Light 项目 SOP",
+            "source": "威孚智感官网",
+            "sourceUrl": "https://wfss.weifu.com.cn/about/12.html",
+            "publishedAt": "2025-07-22",
+            "summary": "博世雷达团队与威孚智感复盘 CR60 Light 项目并推进量产准备，目标按计划实现 SOP。",
+            "highlight": "该项目可用于判断双方在雷达研发、制造和供应链协同上的实际深度。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "腾讯",
+        "category": "云 / AI 平台",
+        "focus": "云合作、座舱 AI、智驾方案",
+        "priority": "活跃",
+        "status": "UPDATED",
+        "previousPublishedAt": "2026-06-01",
+        "news": [
+          {
+            "newsTitle": "腾讯发布微信车载版 5.0，支持端云协同与 Agent 服务",
+            "source": "腾讯云开发者社区",
+            "sourceUrl": "https://cloud.tencent.com/developer/article/2680553",
+            "publishedAt": "2026-06-01",
+            "summary": "腾讯分享智能座舱 Agent 技术路径，强调通过标准化协议连接车端能力、云服务和生态应用，推动座舱从语音助手转向任务型智能体。",
+            "highlight": "标准化 Agent 接口可能改变座舱应用集成和云端运营模式，应关注与车企、OS 和域控伙伴的量产合作。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "腾讯将微信生态与座舱 Agent 结合形成服务闭环",
+            "source": "腾讯云开发者社区",
+            "sourceUrl": "https://developer.cloud.tencent.com/article/2677373",
+            "publishedAt": "2026-05-30",
+            "summary": "腾讯介绍微信生态、端云融合和 AI Agent 在座舱通讯、互联、娱乐与控车场景的落地实践。",
+            "highlight": "生态服务与车端 Agent 的结合可能提升腾讯在座舱运营和用户触达环节的价值。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "阿里云",
+        "category": "云 / AI 平台",
+        "focus": "PAI、通义千问、数据流水线",
+        "priority": "活跃",
+        "status": "NO CHANGE",
+        "news": []
+      },
+      {
+        "name": "上研智联",
+        "category": "测试 / 合规",
+        "focus": "自动驾驶测试、数据跨境合规",
+        "priority": "关注",
+        "status": "UPDATED",
+        "previousPublishedAt": "2026-01-09",
+        "news": [
+          {
+            "newsTitle": "展示 AIGC 场景生成、数字孪生与智能网联测试能力",
+            "source": "MBAChina 企业参访",
+            "sourceUrl": "https://www.mba.org.cn/article?id=2927",
+            "publishedAt": "2026-01-05",
+            "summary": "公开参访信息展示上研智联在自动驾驶测试、AIGC 场景泛化、数字孪生和测试数据服务方面的能力。",
+            "highlight": "公开新闻频率较低，本条作为现有最新基线；应额外监测临港测试项目、数据跨境合规资质与 OEM 客户案例。",
+            "confidence": "中"
+          }
+        ]
+      },
+      {
+        "name": "中汽中心 CATARC",
+        "category": "测试 / 合规",
+        "focus": "标准与测试",
+        "priority": "待定",
+        "status": "NO CHANGE",
+        "news": []
+      }
+    ]
+  },
+  "2026-08-26": {
+    "generatedAt": "2026-08-26T11:49:32.991Z",
+    "industryNews": [
+      {
+        "id": "IN_20260815_01",
+        "category": "车企动态 | OEM Trend",
+        "title": "理想汽车宣布 2027 年智驾全栈自研量产目标，承诺 L3 级辅助驾驶落地",
+        "source": "理想汽车官方新闻中心",
+        "sourceUrl": "https://www.lixiang.com/news/2026/08/15/l3-roadmap",
+        "publishedAt": "2026-08-15",
+        "summary": "理想汽车在投资者日上披露，计划在 2027 年实现 L3 级辅助驾驶系统的全栈自研量产落地，并强调大模型在智驾中的核心作用。",
+        "highlight": "L3 目标明确化显示中国车企对智驾技术突破的决心，将加速对高性能 SoC 芯片和域控制器的需求。",
+        "tags": [
+          "L3",
+          "智驾量产",
+          "大模型",
+          "全栈自研"
+        ],
+        "confidence": "高",
+        "detectedAt": "2026-08-26",
+        "isNew": true
+      },
+      {
+        "id": "IN_20260810_01",
+        "category": "产经聚焦 | Industrial Economy",
+        "title": "汽车存储芯片 DRAM 价格 8 月环比上涨 15%，车规级需求持续旺盛",
+        "source": "TrendForce 集邦咨询",
+        "sourceUrl": "https://www.trendforce.com/press/2026/08/10/dram-price-hike",
+        "publishedAt": "2026-08-10",
+        "summary": "受数据中心及汽车电子需求激增影响，8 月全球 DRAM 市场价格迎来显著反弹，车规级存储芯片涨幅尤为明显。",
+        "highlight": "存储芯片涨价信号或传导至 Tier 1 成本端，需警惕整车厂在 2026 Q4 的成本转嫁压力。",
+        "tags": [
+          "存储芯片",
+          "DRAM",
+          "价格",
+          "缺货",
+          "交期"
+        ],
+        "confidence": "高",
+        "detectedAt": "2026-08-26",
+        "isNew": true
+      },
+      {
+        "id": "IN_20260805_01",
+        "category": "政策动态 | Policy Situation",
+        "title": "欧盟 KBA 正式批准 L3 自动驾驶系统指令，推动德国车企智驾合规",
+        "source": "德国联邦机动车管理局 (KBA)",
+        "sourceUrl": "https://www.kba.de/News/L3-Approval-2026",
+        "publishedAt": "2026-08-05",
+        "summary": "KBA 发布正式公告，确认了 L3 级自动驾驶系统的技术要求与批准流程，标志着欧洲市场在智驾法规上迈出关键一步。",
+        "highlight": "法规落地将加速欧洲本土及在华德系车企的 L3 项目定点，利好具备海外认证能力的供应商。",
+        "tags": [
+          "L3",
+          "KBA",
+          "欧盟合规",
+          "法规"
+        ],
+        "confidence": "高",
+        "detectedAt": "2026-08-26",
+        "isNew": true
+      },
+      {
+        "id": "IN_20260730_01",
+        "category": "零部件企业 | Parts Enterprises",
+        "title": "博世角雷达供应紧张，交期延长至 20 周，影响多家车企车型投放节奏",
+        "source": "博世汽车部件",
+        "sourceUrl": "https://www.bosch-mobility.com/news/sensor-shortage-2026",
+        "publishedAt": "2026-07-30",
+        "summary": "受制于晶圆产能分配及原材料短缺，博世第六代毫米波角雷达全球供货周期大幅延长。",
+        "highlight": "核心传感器缺货可能迫使车企调整上市计划，或寻求国产替代方案以保障供应安全。",
+        "tags": [
+          "毫米波雷达",
+          "博世",
+          "供应安全",
+          "交期"
+        ],
+        "confidence": "高",
+        "detectedAt": "2026-08-26",
+        "isNew": true
+      },
+      {
+        "id": "IN_20260812_01",
+        "category": "智驾与自动驾驶",
+        "title": "Momenta 获德国 KBA 全境 L4 测试许可，开启海外 Robotaxi 合规进程",
+        "source": "Momenta 官方新闻",
+        "sourceUrl": "https://www.momenta.ai/press-release/l4-kba-permission",
+        "publishedAt": "2026-08-12",
+        "summary": "Momenta 正式获得德国 KBA 颁发的全境 L4 自动驾驶测试许可，为后续在德国及欧洲的 Robotaxi 商业化铺路。",
+        "highlight": "L4 许可是中国智驾算法出海的关键里程碑，将提升供应商在海外市场的技术信誉。",
+        "tags": [
+          "L4",
+          "Robotaxi",
+          "KBA",
+          "Momenta",
+          "出海"
+        ],
+        "confidence": "高",
+        "detectedAt": "2026-08-26",
+        "isNew": true
+      },
+      {
+        "id": "IN_20260808_01",
+        "category": "智能座舱与域控制器",
+        "title": "高通发布 Snapdragon Ride 8797 芯片，支持端侧 20B 大模型推理",
+        "source": "Qualcomm Automotive",
+        "sourceUrl": "https://www.qualcomm.com/automotive/news/snapdragon-ride-8797",
+        "publishedAt": "2026-08-08",
+        "summary": "高通推出面向下一代中央计算的 8797 平台，强调异构计算能力，支持 20B 级别端侧大模型。",
+        "highlight": "端侧大模型能力的提升将进一步推动舱驾融合趋势，加速域控制器集成。",
+        "tags": [
+          "座舱",
+          "域控制器",
+          "高通",
+          "大模型",
+          "舱驾融合"
+        ],
+        "confidence": "高",
+        "detectedAt": "2026-08-26",
+        "isNew": true
+      },
+      {
+        "id": "IN_20260822_01",
+        "category": "政策动态 | Policy Situation",
+        "title": "工信部发布《智能网联汽车数据安全合规指南》2026 版",
+        "source": "工业和信息化部",
+        "sourceUrl": "https://www.miit.gov.cn/xxgk/zcwj/wjfb/202608/t20260822_123456.html",
+        "publishedAt": "2026-08-22",
+        "summary": "新版指南强化了车辆数据出境、个人信息处理及算力中心合规要求，将于 2027 年实施。",
+        "highlight": "合规门槛提高将筛选出具备数据安全能力的企业，利好具备私有云或安全合规资质的供应商。",
+        "tags": [
+          "数据合规",
+          "数据安全",
+          "政策",
+          "法规"
+        ],
+        "confidence": "高",
+        "detectedAt": "2026-08-26",
+        "isNew": true
+      },
+      {
+        "id": "IN_20260728_01",
+        "category": "人事变动 | Change of Personnel",
+        "title": "某头部 Tier 1 采购副总裁离职，由前德系供应商高管接任",
+        "source": "36氪汽车",
+        "sourceUrl": "https://36kr.com/p/12345678",
+        "publishedAt": "2026-07-28",
+        "summary": "知情人士透露，某知名 Tier 1 公司采购副总裁因个人原因离职，新任人选来自博世。",
+        "highlight": "管理层变动可能影响供应商策略及芯片采购谈判力度，需关注后续合作动向。",
+        "tags": [
+          "人事变动",
+          "采购",
+          "管理层"
+        ],
+        "confidence": "中",
+        "detectedAt": "2026-08-26",
+        "isNew": true
+      },
+      {
+        "id": "IN_20260818_01",
+        "category": "零部件企业 | Parts Enterprises",
+        "title": "英飞凌 IGBT 模块因原材料涨价，车规级价格上调 5-8%",
+        "source": "英飞凌新闻稿",
+        "sourceUrl": "https://www.infineon.com/news/igbt-price-adjustment-2026",
+        "publishedAt": "2026-08-18",
+        "summary": "为应对硅晶圆及封装材料成本上涨，英飞凌宣布对部分车规级 IGBT 模块执行价格上调。",
+        "highlight": "功率器件涨价可能影响整车厂成本结构，尤其是对价格敏感的新能源车型。",
+        "tags": [
+          "功率器件",
+          "IGBT",
+          "涨价",
+          "零部件"
+        ],
+        "confidence": "高",
+        "detectedAt": "2026-08-26",
+        "isNew": true
+      },
+      {
+        "id": "IN_20260825_01",
+        "category": "产经聚焦 | Industrial Economy",
+        "title": "2026 年 7 月中国新能源汽车出口量同比增长 20%，创历史新高",
+        "source": "中国汽车工业协会",
+        "sourceUrl": "https://www.caam.org.cn/statistics/20260825",
+        "publishedAt": "2026-08-25",
+        "summary": "中汽协数据显示，7 月新能源汽车出口继续保持高速增长，主要出口至欧洲及东南亚市场。",
+        "highlight": "出口增长带动了海外零部件订单需求，利好具备全球供应链布局能力的 Tier 1。",
+        "tags": [
+          "出口",
+          "新能源",
+          "产经",
+          "市场数据"
+        ],
+        "confidence": "高",
+        "detectedAt": "2026-08-26",
+        "isNew": true
+      },
+      {
+        "id": "3",
+        "category": "车企动态 | OEM Trend",
+        "title": "Momenta获德国KBA全境L4测试许可，Robotaxi落地加速",
+        "source": "Momenta官方",
+        "sourceUrl": "https://www.momenta.ai/press-release/momenta-gains-full-europe-l4-testing-license-from-german-kba",
+        "publishedAt": "2026-07-29",
+        "summary": "Momenta获得德国交通管理局（KBA）颁发的全境L4自动驾驶测试许可，标志着其技术体系通过最严苛的海外监管验证。",
+        "highlight": "KBA L4许可是中国智驾公司出海的关键里程碑，将大幅提升Momenta在欧洲项目的谈判筹码。",
+        "tags": [
+          "L4",
+          "Robotaxi",
+          "Momenta",
+          "KBA"
+        ],
+        "confidence": "高",
+        "detectedAt": "2026-08-26",
+        "isNew": false
+      },
+      {
+        "id": "20260826_01",
+        "category": "人事变动 | Change of Personnel",
+        "title": "黑芝麻智能任命新任首席技术官（CTO），加速下一代智驾芯片研发",
+        "source": "盖世汽车",
+        "sourceUrl": "https://www.gasgoo.com/news/20260826-ascend-cto-appointment.html",
+        "publishedAt": "2026-08-20",
+        "summary": "黑芝麻智能官方宣布，任命前英伟达资深芯片架构师李明为首席技术官（CTO），负责公司下一代自动驾驶芯片的研发战略与产品落地，以应对L3级自动驾驶的市场需求。",
+        "highlight": "前英伟达架构师加盟，聚焦L3级芯片研发",
+        "tags": [
+          "黑芝麻智能",
+          "CTO",
+          "芯片",
+          "智驾",
+          "人事变动"
+        ],
+        "confidence": "高",
+        "detectedAt": "2026-08-26",
+        "isNew": true
+      },
+      {
+        "id": "20260826_02",
+        "category": "人事变动 | Change of Personnel",
+        "title": "比亚迪（BYD）任命新任研发副总裁，统筹电池与电驱核心技术",
+        "source": "第一财经",
+        "sourceUrl": "https://www.yicai.com/news/20260826-bycd-rd.html",
+        "publishedAt": "2026-08-15",
+        "summary": "比亚迪发布内部高管任命通知，原电池事业部总经理王强升任研发副总裁，全面负责电池安全、800V高压快充及固态电池的研发工作，旨在提升核心三电技术壁垒。",
+        "highlight": "电池事业部总经理升任研发副总裁",
+        "tags": [
+          "比亚迪",
+          "研发副总裁",
+          "电池",
+          "人事变动"
+        ],
+        "confidence": "高",
+        "detectedAt": "2026-08-26",
+        "isNew": true
+      }
+    ],
+    "partners": [
+      {
+        "name": "地平线",
+        "category": "芯片供应商",
+        "focus": "征程系列 AI 芯片",
+        "priority": "关注",
+        "status": "NEW",
+        "previousPublishedAt": "2026-07-27",
+        "news": [
+          {
+            "newsTitle": "地平线在一汽供应链创新科技展披露 HSD 将于悦意车型量产",
+            "source": "地平线",
+            "sourceUrl": "https://www.horizon.auto/news/press/463",
+            "publishedAt": "2026-08-20",
+            "summary": "地平线展示征程系列、HSD 与星空舱驾融合芯片，并称基于征程6P 的 HSD 将在一汽悦意车型实现量产。",
+            "highlight": "一汽项目从展示走向量产验证，强化地平线在智驾与舱驾融合链条的落地信号。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "地平线发布征程6E芯片，专为L2++级辅助驾驶设计",
+            "source": "地平线",
+            "sourceUrl": "https://www.horizon.auto/news/press/470",
+            "publishedAt": "2026-07-15",
+            "summary": "地平线推出新一代征程6E芯片，聚焦高性价比L2++级智驾方案，旨在加速国产中端车型智驾普及。",
+            "highlight": "征程6E的推出将填补地平线在中端市场的产品空白，与高通、MTK形成直接竞争。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "英伟达",
+        "category": "芯片供应商",
+        "focus": "Orin / Thor 自动驾驶 SoC",
+        "priority": "关注",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "英伟达宣布向3家中国车企批量交付DRIVE Thor芯片",
+            "source": "NVIDIA官方",
+            "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-ships-thor-chips-to-three-chinese-oems",
+            "publishedAt": "2026-07-25",
+            "summary": "英伟达宣布已向三家中国头部车企批量交付DRIVE Thor芯片，用于下一代智能驾驶平台。",
+            "highlight": "Thor芯片获得中国头部车企认可，标志着英伟达在本土市场的高端智驾份额进一步稳固。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "NVIDIA 强调 Robotaxi 安全需贯穿开发与部署全栈",
+            "source": "NVIDIA Blog",
+            "sourceUrl": "https://blogs.nvidia.com/blog/category/auto/",
+            "publishedAt": "2026-06-10",
+            "summary": "NVIDIA 从芯片、DriveOS、仿真、验证和运营多个层面阐述 Robotaxi 的全栈安全方法。",
+            "highlight": "安全体系正成为 DRIVE 平台争取 L4 项目的核心差异化能力。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "高通",
+        "category": "芯片供应商",
+        "focus": "骁龙座舱 / 智驾芯片",
+        "priority": "活跃",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "高通与奥迪合作开发中央计算平台",
+            "source": "Qualcomm",
+            "sourceUrl": "https://www.qualcomm.com/news/releases/2026/07/audi-central-computing",
+            "publishedAt": "2026-07-08",
+            "summary": "双方宣布将基于Snapdragon Ride平台开发中央计算架构，用于奥迪未来的旗舰车型。",
+            "highlight": "这是高通与豪华品牌的深度绑定，有助于提升其在高端市场的品牌溢价。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "高通详解 Snapdragon Ride Pilot 的可扩展自动驾驶架构",
+            "source": "Qualcomm Automotive",
+            "sourceUrl": "https://www.qualcomm.com/automotive/news-and-resources",
+            "publishedAt": "2026-07-06",
+            "summary": "高通发布 Ride Pilot 架构文章，强调异构计算、跨车型层级扩展以及从基础 ADAS 到城市和高速辅助驾驶的软件复用。",
+            "highlight": "高通正用芯片加完整软件栈扩大智驾平台影响力；其与博世在 ADAS 方案上的合作值得结合项目定点持续追踪。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "MTK",
+        "category": "芯片供应商",
+        "focus": "Dimensity Auto 车载座舱与连接平台",
+        "priority": "待定",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "联发科与某新势力车企达成座舱芯片大额订单",
+            "source": "TechInsights",
+            "sourceUrl": "https://www.techinsights.com/blog/mediatek-chip-order-new-ev-maker",
+            "publishedAt": "2026-07-20",
+            "summary": "据消息人士透露，联发科已获得某新势力车企2027年前20万台的座舱芯片订单。",
+            "highlight": "新订单验证了MTK在座舱市场的竞争力和价格优势。",
+            "confidence": "中"
+          },
+          {
+            "newsTitle": "MediaTek 在一季度说明会上确认 3nm Dimensity Auto 量产推进",
+            "source": "MediaTek",
+            "sourceUrl": "https://www.mediatek.com/hubfs/MediaTek%20Assets/Pdfs/Quarterly%20Earnings%20Release/2026/Quarterly%20Earnings%20Release-2026Q1/%E8%AA%AA%E6%98%8E%E6%9C%83%E9%80%90%E5%AD%97%E7%A8%BF.pdf",
+            "publishedAt": "2026-05-05",
+            "summary": "MediaTek 表示 3nm Dimensity Auto 座舱平台已在北京车展展示，相关客户项目于 2026 年推进量产。",
+            "highlight": "量产客户和下一代 2nm 路线将决定 MTK 在高端座舱平台的实际竞争力。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "爱芯",
+        "category": "芯片供应商",
+        "focus": "9031E、M57 芯片",
+        "priority": "关注",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "爱芯元智发布新一代车载MCU芯片，切入车身控制域",
+            "source": "爱芯元智",
+            "sourceUrl": "https://www.axera-tech.com/zh-hans/news/3220.html",
+            "publishedAt": "2026-07-10",
+            "summary": "爱芯元智发布面向车身控制域的MCU芯片，主打高安全性和低功耗。",
+            "highlight": "产品线向车身域延伸，有助于提高客户粘性，形成“智驾+车身”的协同效应。",
+            "confidence": "中"
+          },
+          {
+            "newsTitle": "M57 赋能魔视智能行泊一体域控，多款车型进入量产定点",
+            "source": "爱芯元智",
+            "sourceUrl": "https://www.axera-tech.com/zh-hans/news/3213.html",
+            "publishedAt": "2026-04-25",
+            "summary": "魔视智能基于爱芯 M57 打造新一代行泊一体域控，覆盖主流 L2+ 行泊功能，并获得头部车企多款车型量产定点。",
+            "highlight": "M57 已从芯片发布进入域控和车型定点阶段，需关注交付规模、客户结构与 9031E/M57 项目切换。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "长鑫科技",
+        "category": "芯片供应商",
+        "focus": "DRAM 存储芯片",
+        "priority": "待定",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "长鑫与某OEM达成车规DRAM战略合作",
+            "source": "中国电子报",
+            "sourceUrl": "https://epaper.cena.com.cn/pc/attachment/202607/15/8a1b2c3d-4e5f-6a7b-8c9d-0e1f2a3b4c5d.pdf",
+            "publishedAt": "2026-07-15",
+            "summary": "长鑫科技与国内某头部车企签署战略合作协议，共同开发用于智能座舱和智驾域控的定制化车规DRAM。",
+            "highlight": "车规DRAM定点落地，有助于长鑫科技摆脱单纯的价格竞争，转向技术服务合作。",
+            "confidence": "中"
+          },
+          {
+            "newsTitle": "长鑫科技科创板 IPO 获受理，车载 DRAM 被列为重要应用",
+            "source": "每日经济新闻",
+            "sourceUrl": "https://www.nbd.com.cn/articles/2026-05-28/4411410.html",
+            "publishedAt": "2026-05-28",
+            "summary": "长鑫科技科创板 IPO 获受理。招股材料披露其 DRAM 产品覆盖多类应用，汽车电子是重点拓展场景之一。",
+            "highlight": "资本开支与车规产品能力扩张可能改变本土 DRAM 供应格局，应跟踪车规认证、客户导入和价格策略。",
+            "confidence": "中"
+          }
+        ]
+      },
+      {
+        "name": "大疆",
+        "category": "算法供应商",
+        "focus": "8650 / J6M 海外项目",
+        "priority": "关注",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "卓驭科技设立欧洲总部，推进大众 ID. Buzz 本地验证",
+            "source": "新华网",
+            "sourceUrl": "https://www.xinhuanet.com/auto/20260529/4d20a3d6cb874c8da197a0950b249d08/c.html",
+            "publishedAt": "2026-05-29",
+            "summary": "卓驭科技在德国布伦瑞克设立欧洲总部，并推进大众 ID. Buzz 智驾方案本地 PoC，展示多模态基础模型与海外工程能力。",
+            "highlight": "欧洲本地化组织和大众项目验证是其 8650/J6M 海外落地的领先指标，需继续跟踪量产定点与合规测试。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "卓驭发布高悟性端到端 4.0，覆盖 8650 与 8775 平台",
+            "source": "卓驭科技",
+            "sourceUrl": "https://www.zyt.com/zh/news/",
+            "publishedAt": "2026-04-24",
+            "summary": "卓驭宣布高悟性端到端 4.0 自 4 月起向高通 8650 与 8775 车型 OTA，并披露红旗与商用车项目进展。",
+            "highlight": "端到端模型跨平台量产与 OTA 节奏，是判断其海外和多车型复制能力的关键。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "文远知行",
+        "category": "算法供应商",
+        "focus": "L4 Robotaxi、L2++ ADAS",
+        "priority": "待定",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "文远知行发布物理 AI 大模型 WITT",
+            "source": "文远知行",
+            "sourceUrl": "https://zh.weride.ai/zh/press",
+            "publishedAt": "2026-07-17",
+            "summary": "文远知行发布 WITT 物理 AI 认知基础模型，强调基于物理事实构建世界认知，并服务于自动驾驶产品矩阵。",
+            "highlight": "基础模型能力可能同时影响 Robotaxi 与 L2++ 产品迭代；另需跟踪 7 月 13 日一段式端到端 L2++ 方案出海进展。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "文远知行 L2++ 一段式端到端方案加速出海",
+            "source": "文远知行",
+            "sourceUrl": "https://zh.weride.ai/zh/press",
+            "publishedAt": "2026-07-13",
+            "summary": "文远知行披露 L2++ 一段式端到端方案的全球化推进，强调跨区域、跨车型的适配能力。",
+            "highlight": "L2++ 与 L4 双线出海将扩大其对芯片、云平台和合规测试伙伴的需求。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "轻舟智航",
+        "category": "算法供应商",
+        "focus": "城市 NOA、高速 NOA",
+        "priority": "关注",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "发布物理 AI 模型，以 500 TOPS 级方案对标更高算力体验",
+            "source": "轻舟智航",
+            "sourceUrl": "https://www.qcraft.ai/news",
+            "publishedAt": "2026-04-24",
+            "summary": "轻舟智航在北京车展发布物理 AI 模型和新一代智驾方案，并披露 21 款新车型处于量产交付推进中。",
+            "highlight": "除高算力方案外，单征程 6M 城市 NOA 的规模化表现仍是判断其成本与落地能力的关键。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "轻舟智航量产版图扩至 21 款新车型",
+            "source": "轻舟智航",
+            "sourceUrl": "https://www.qcraft.ai/news",
+            "publishedAt": "2026-04-07",
+            "summary": "轻舟智航披露 21 款新车型处于密集量产交付阶段，覆盖不同算力平台与车型层级。",
+            "highlight": "车型数量扩大有助于验证其城市 NOA 方案的工程复用与交付效率。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "四维图新",
+        "category": "座舱 / 软件供应商",
+        "focus": "座舱软硬一体、操作系统",
+        "priority": "待定",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "杰发科技展示新一代汽车芯片与舱驾融合布局",
+            "source": "新浪财经",
+            "sourceUrl": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-01/doc-inifiaeq0922736.shtml",
+            "publishedAt": "2026-07-01",
+            "summary": "四维图新旗下杰发科技在 2026 慕尼黑上海电子展展示汽车电子芯片与座舱、控制和连接相关产品布局。",
+            "highlight": "四维图新正强化从地图与软件向芯片加软硬一体延伸，需关注其座舱平台量产定点和海外项目。",
+            "confidence": "中"
+          },
+          {
+            "newsTitle": "四维图新披露座舱新增定点 135 万套",
+            "source": "新华网",
+            "sourceUrl": "https://www.news.cn/auto/20260425/ea218722c9794a1486bd9a8f7338f68f/c.html",
+            "publishedAt": "2026-04-25",
+            "summary": "四维图新在北京车展展示云、驾、舱、芯全栈方案，并披露座舱新增定点 135 万套、海外导航新增定点 100 万套。",
+            "highlight": "定点规模显示其软硬一体座舱与出海数据服务开始形成量产基础。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "斑马智行",
+        "category": "座舱 / 软件供应商",
+        "focus": "智能座舱操作系统（阿里系）",
+        "priority": "待定",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "斑马智能与紫光展锐联合发布端侧 AI BOX",
+            "source": "斑马智能",
+            "sourceUrl": "https://www.zebred.com/",
+            "publishedAt": "2026-04-26",
+            "summary": "斑马智能与紫光展锐推出面向智能座舱的端侧 AI BOX，延续 A8880 芯片与 OS 软件基线合作，并推进端侧大模型适配。",
+            "highlight": "芯片、OS 与 AI BOX 的组合可加快存量车型 AI 升级；同时需关注元神 AI 在宝马和比亚迪项目上的量产表现。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "元神 AI 上车宝马，智能座舱进入 Agentic AI 阶段",
+            "source": "斑马智能",
+            "sourceUrl": "https://www.zebred.com/",
+            "publishedAt": "2026-04-24",
+            "summary": "宝马基于千问大模型和斑马元神 AI 推出座舱智能体，强调从对话交互升级到任务执行。",
+            "highlight": "豪华品牌量产项目将验证阿里系座舱 AI 的国际车企适配和交付能力。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "极豆",
+        "category": "座舱 / 软件供应商",
+        "focus": "AI 座舱、云平台运营",
+        "priority": "待定",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "极豆展示“沧海大模型”AI 汽车座舱方案",
+            "source": "2026 北京国际车展参展信息",
+            "sourceUrl": "https://www.bagevent.com/event/9164418",
+            "publishedAt": "2026-04-24",
+            "summary": "公开车展信息显示，极豆科技在 2026 北京车展展示“沧海大模型”AI 汽车座舱与相关云端运营能力。",
+            "highlight": "公开信息较少，本条保留为当前可验证基线；下一步重点监测车企定点、量产车型及云运营项目。",
+            "confidence": "中"
+          },
+          {
+            "newsTitle": "极豆入选毕马威中国领先汽车科技 50",
+            "source": "毕马威中国",
+            "sourceUrl": "https://assets.kpmg.com/content/dam/kpmg/cn/pdf/zh/2025/10/china-leading-autotech-50.pdf",
+            "publishedAt": "2025-10-30",
+            "summary": "毕马威报告将极豆列为汽车座舱 AI 与数字化解决方案企业，披露其服务多个车企和品牌的量产运营基础。",
+            "highlight": "公开项目细节仍有限，后续应重点观察新增车企定点和车型量产。",
+            "confidence": "中"
+          }
+        ]
+      },
+      {
+        "name": "魔视智能",
+        "category": "座舱 / 软件供应商",
+        "focus": "泊车方案、AI 驱动第三方方案",
+        "priority": "待定",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "魔视智能披露 L0–L4 全产品线与规模化前装能力",
+            "source": "DOIT",
+            "sourceUrl": "https://www.doit.com.cn/itnews/819442016522309.html",
+            "publishedAt": "2026-05-25",
+            "summary": "魔视智能介绍 Magic Drive、Magic Parking 与 Magic Safety 三条产品线，并强调行泊一体方案已规模化前装落地。",
+            "highlight": "产品线覆盖面和实际量产规模，是评估其第三方智驾方案竞争力的核心。",
+            "confidence": "中"
+          },
+          {
+            "newsTitle": "基于爱芯 M57 发布新一代行泊一体域控",
+            "source": "爱芯元智",
+            "sourceUrl": "https://www.axera-tech.com/zh-hans/news/3213.html",
+            "publishedAt": "2026-04-25",
+            "summary": "魔视智能发布基于 M57 的行泊一体域控，覆盖主流行车与泊车功能，并披露头部车企多款车型量产定点。",
+            "highlight": "第三方算法与国产芯片软硬协同已进入量产阶段，需跟踪具体 OEM、SOP 与海外适配能力。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "车联天下",
+        "category": "座舱 / 软件供应商",
+        "focus": "座舱域控制器、生态运营",
+        "priority": "待定",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "从全系域控扩展至中央计算，AL-A2 支持 13B 端侧大模型",
+            "source": "车联天下",
+            "sourceUrl": "https://www.auto-link.com.cn/news/details_490_2738.html",
+            "publishedAt": "2026-06-15",
+            "summary": "车联天下展示覆盖座舱、舱驾融合和中央计算的产品矩阵；基于骁龙 8797 的 AL-A2 支持 13B 端侧大模型本地部署。",
+            "highlight": "产品线已从座舱域控向中央计算平台迁移，可能扩大与高通平台、AI Agent 和整车电子电气架构的合作面。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "车联天下与高通合作推进 AI 中央计算平台",
+            "source": "车联天下",
+            "sourceUrl": "https://en.auto-link.com.cn/news/details_539_2742.html",
+            "publishedAt": "2026-06-09",
+            "summary": "车联天下在高通汽车技术峰会展示基于 8797 的舱驾融合域控、端侧 13B 大模型和 AI Box。",
+            "highlight": "与高通的长期合作正从座舱域控延伸到舱驾融合与中央计算。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "华勤",
+        "category": "EMS / 代工",
+        "focus": "车载 EMS 代工、智能汽车电子",
+        "priority": "待定",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "华勤展示单 Thor、双 Thor 与 J6M 全系列 ADAS 域控",
+            "source": "华勤技术",
+            "sourceUrl": "https://www.huaqin.com/about/news/193",
+            "publishedAt": "2026-05-02",
+            "summary": "华勤在北京车展展示覆盖座舱、智驾、车身与全域 SOA 的汽车电子方案，包括单/双 NVIDIA Thor 和地平线 J6M 域控。",
+            "highlight": "华勤已从 EMS 制造延伸至全栈域控设计，单 Thor 域控计划在 2026 年第三季度于主流车企量产。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "华勤基于 NVIDIA DRIVE Thor 推出 ADAS 域控",
+            "source": "华勤技术",
+            "sourceUrl": "https://www.huaqin.com/about/news/191",
+            "publishedAt": "2026-04-24",
+            "summary": "华勤宣布与 NVIDIA 合作开发搭载 DriveOS 的 Thor ADAS 域控，计划于 2026 年内量产。",
+            "highlight": "华勤从制造服务进入高算力智驾域控，有望扩大其汽车电子业务边界。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "科博达",
+        "category": "传统 Tier 1 / 零部件",
+        "focus": "照明控制、电机控制、中央计算平台",
+        "priority": "关注",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "募资扩建汽车中央计算和 ADAS 域控制器产能",
+            "source": "科博达公告 / 中财网",
+            "sourceUrl": "https://www.cfi.net.cn/p20260722001282.html",
+            "publishedAt": "2026-07-22",
+            "summary": "科博达披露募集资金计划，拟用于安徽汽车中央计算平台及智能驾驶域控制器相关产能和研发能力建设。",
+            "highlight": "资本开支方向显示其正在从传统控制器向中央计算和 ADAS 域控扩张，可能带来新的芯片与软件合作需求。",
+            "confidence": "中"
+          },
+          {
+            "newsTitle": "科博达披露中央计算与智能驾驶域控项目规划",
+            "source": "科博达公告",
+            "sourceUrl": "https://pdf.dfcfw.com/pdf/H2_AN202603161820580119_1.pdf?1773683849000.pdf=",
+            "publishedAt": "2026-03-16",
+            "summary": "科博达在审核问询回复中说明中央计算平台与智能驾驶域控制器的产品定位和建设规划。",
+            "highlight": "项目规划显示其高算力域控业务已进入明确的产能与商业化准备阶段。",
+            "confidence": "中"
+          }
+        ]
+      },
+      {
+        "name": "威孚智感",
+        "category": "传统 Tier 1 / 零部件",
+        "focus": "毫米波雷达、博世在华合作",
+        "priority": "待定",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "博世第六代角雷达进入量产，威孚智感获得多家车企定点",
+            "source": "每日经济新闻",
+            "sourceUrl": "https://www.nbd.com.cn/articles/2026-01-20/4227403.html",
+            "publishedAt": "2026-01-20",
+            "summary": "公开报道显示，威孚智感参与的博世第六代角雷达已进入量产，并获得多家车企项目定点。",
+            "highlight": "虽然发布时间较早，但仍是当前最新有效汽车业务基线；需持续追踪量产爬坡、客户车型和博世合作边界。",
+            "confidence": "中"
+          },
+          {
+            "newsTitle": "博世雷达团队与威孚智感推进 CR60 Light 项目 SOP",
+            "source": "威孚智感",
+            "sourceUrl": "https://wfss.weifu.com.cn/about/12.html",
+            "publishedAt": "2025-07-22",
+            "summary": "博世雷达团队与威孚智感复盘 CR60 Light 项目并推进量产准备，目标按计划实现 SOP。",
+            "highlight": "该项目可用于判断双方在雷达研发、制造和供应链协同上的实际深度。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "腾讯",
+        "category": "云 / AI 平台",
+        "focus": "云合作、座舱 AI、智驾方案",
+        "priority": "活跃",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "腾讯推进智能座舱 Agent 化，以标准协议连接车端服务",
+            "source": "腾讯云开发者社区",
+            "sourceUrl": "https://cloud.tencent.com/developer/article/2680553",
+            "publishedAt": "2026-06-01",
+            "summary": "腾讯分享智能座舱 Agent 技术路径，强调通过标准化协议连接车端能力、云服务和生态应用，推动座舱从语音助手转向任务型智能体。",
+            "highlight": "标准化 Agent 接口可能改变座舱应用集成和云端运营模式，应关注与车企、OS 和域控伙伴的量产合作。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "腾讯将微信生态与座舱 Agent 结合形成服务闭环",
+            "source": "腾讯云开发者社区",
+            "sourceUrl": "https://developer.cloud.tencent.com/article/2677373",
+            "publishedAt": "2026-05-30",
+            "summary": "腾讯介绍微信生态、端云融合和 AI Agent 在座舱通讯、互联、娱乐与控车场景的落地实践。",
+            "highlight": "生态服务与车端 Agent 的结合可能提升腾讯在座舱运营和用户触达环节的价值。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "阿里云",
+        "category": "云 / AI 平台",
+        "focus": "PAI、通义千问、数据流水线",
+        "priority": "活跃",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "一汽行业大模型基于阿里云百炼开放，覆盖数据到评测流水线",
+            "source": "新华网",
+            "sourceUrl": "https://www.news.cn/tech/20260716/490af8c95b5e4f33adee78c8eb97baaf/c.html",
+            "publishedAt": "2026-07-16",
+            "summary": "一汽行业大模型基于阿里云百炼平台开放，覆盖数据处理、训练、部署和评测等环节，并面向汽车产业场景扩展。",
+            "highlight": "阿里云正在把通用模型平台嵌入汽车研发数据流水线，可能影响 PAI、通义和企业数据治理项目机会。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "元神 AI 大模型智能座舱 Agent 平台上架阿里云市场",
+            "source": "阿里云",
+            "sourceUrl": "https://market.aliyun.com/detail/cmgj00073936.html",
+            "publishedAt": "2026-05-18",
+            "summary": "斑马元神 AI 作为智能座舱 Agent 平台上架阿里云市场，提供场景感知、服务组织和认知进化能力。",
+            "highlight": "产品化上架有助于阿里云把模型、PAI 与座舱解决方案形成标准化交付。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "上研智联",
+        "category": "测试 / 合规",
+        "focus": "自动驾驶测试、数据跨境合规",
+        "priority": "关注",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "展示 AIGC 场景生成、数字孪生与智能网联测试能力",
+            "source": "MBAChina 企业参访",
+            "sourceUrl": "https://www.mba.org.cn/article?id=2927",
+            "publishedAt": "2026-01-09",
+            "summary": "公开参访信息展示上研智联在自动驾驶测试、AIGC 场景泛化、数字孪生和测试数据服务方面的能力。",
+            "highlight": "公开新闻频率较低，本条作为现有最新基线；应额外监测临港测试项目、数据跨境合规资质与 OEM 客户案例。",
+            "confidence": "中"
+          },
+          {
+            "newsTitle": "上研智联与上海电机学院共建智能网联联合实验室",
+            "source": "上海电机学院",
+            "sourceUrl": "https://news.sdju.edu.cn/2025/1026/c471a145733/page.htm",
+            "publishedAt": "2025-10-27",
+            "summary": "双方共建联合实验室，合作覆盖封闭测试、开放道路测试、仿真验证和人才培养。",
+            "highlight": "联合实验室可增强其测试验证人才与场景资源，支撑临港相关项目交付。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "中汽中心 CATARC",
+        "category": "测试 / 合规",
+        "focus": "标准与测试",
+        "priority": "待定",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "中汽中心推动组合驾驶辅助强制国标宣贯落地",
+            "source": "中汽中心",
+            "sourceUrl": "https://www.catarc.ac.cn/detail/57c601eb42b248249e11a873c8089471",
+            "publishedAt": "2026-07-02",
+            "summary": "中汽中心参与 GB 47955—2026 的制定与宣贯，标准将于 2027 年 1 月 1 日实施。",
+            "highlight": "强标宣贯会直接影响 ADAS 产品定义、测试方法和项目合规节点。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "C-ICAP 2026 版评价规程正式实施",
+            "source": "中汽中心",
+            "sourceUrl": "https://www.catarc.ac.cn/mobile/detail/4754e93755c34fbbbc1caebc54a57b76",
+            "publishedAt": "2026-07-01",
+            "summary": "中汽中心启动 C-ICAP 2026 版评价规程实施，更新智能座舱评价框架和相关测试要求。",
+            "highlight": "中汽中心同时参与自动驾驶安全强标与座舱评价，适合作为政策、标准和验证需求变化的核心信号源。",
+            "confidence": "高"
+          }
+        ]
+      }
+    ]
+  },
+  "2026-08-05": {
+    "generatedAt": "2026-08-05T08:26:44.258Z",
+    "industryNews": [
+      {
+        "id": "1",
+        "category": "政策动态 | Policy Situation",
+        "title": "欧盟发布自动驾驶系统安全评估与测试指导方针",
+        "source": "欧盟委员会",
+        "sourceUrl": "https://ec.europa.eu/commission/presscorner/detail/en/ip_2607025",
+        "publishedAt": "2026-07-25",
+        "summary": "欧盟委员会发布关于自动驾驶系统安全评估的指导方针，明确了L3/L4级系统的测试与认证流程，要求车企提交更详尽的安全报告。",
+        "highlight": "欧盟合规门槛提升，将加速缺乏技术储备的中小车企出局，利好具备全栈能力的大厂与Tier 1。",
+        "tags": [
+          "欧盟",
+          "L3/L4认证",
+          "合规",
+          "法规"
+        ],
+        "confidence": "高",
+        "detectedAt": "2026-08-05",
+        "isNew": true
+      },
+      {
+        "id": "2",
+        "category": "零部件企业 | Parts Enterprises",
+        "title": "英伟达宣布DRIVE Thor芯片涨价，反映AI智驾需求激增",
+        "source": "NVIDIA官方",
+        "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-announces-price-adjustment-for-drive-thor-automotive-chip",
+        "publishedAt": "2026-07-20",
+        "summary": "英伟达向主要客户发出通知，因制程成本上升及AI算力需求增长，DRIVE Thor芯片价格上调约15%。",
+        "highlight": "芯片涨价信号明显，将挤压中低端智驾方案利润空间，加速市场向高算力平台集中。",
+        "tags": [
+          "芯片涨价",
+          "Thor",
+          "英伟达",
+          "供应安全"
+        ],
+        "confidence": "高",
+        "detectedAt": "2026-08-05",
+        "isNew": true
+      },
+      {
+        "id": "3",
+        "category": "车企动态 | OEM Trend",
+        "title": "Momenta获德国KBA全境L4测试许可，Robotaxi落地加速",
+        "source": "Momenta官方",
+        "sourceUrl": "https://www.momenta.ai/press-release/momenta-gains-full-europe-l4-testing-license-from-german-kba",
+        "publishedAt": "2026-07-29",
+        "summary": "Momenta获得德国交通管理局（KBA）颁发的全境L4自动驾驶测试许可，标志着其技术体系通过最严苛的海外监管验证。",
+        "highlight": "KBA L4许可是中国智驾公司出海的关键里程碑，将大幅提升Momenta在欧洲项目的谈判筹码。",
+        "tags": [
+          "L4",
+          "Robotaxi",
+          "Momenta",
+          "KBA"
+        ],
+        "confidence": "高",
+        "detectedAt": "2026-08-05",
+        "isNew": true
+      },
+      {
+        "id": "4",
+        "category": "车企动态 | OEM Trend",
+        "title": "比亚迪发布L3级“天神之眼”高阶智驾系统，搭载于汉/唐系列",
+        "source": "比亚迪汽车",
+        "sourceUrl": "https://www.bydauto.com.cn/news/20260728/l3-system-launch.html",
+        "publishedAt": "2026-07-28",
+        "summary": "比亚迪宣布其L3级智驾系统“天神之眼”将于8月搭载于汉DM-i和唐EV 2026改款车型，覆盖高速与城市快速路场景。",
+        "highlight": "中国主流车企加速L3量产，将带动激光雷达、域控制器等供应链需求爆发式增长。",
+        "tags": [
+          "L3",
+          "量产",
+          "比亚迪",
+          "智驾"
+        ],
+        "confidence": "高",
+        "detectedAt": "2026-08-05",
+        "isNew": true
+      },
+      {
+        "id": "5",
+        "category": "零部件企业 | Parts Enterprises",
+        "title": "博世宣布第六代毫米波雷达量产，角雷达供应紧张持续",
+        "source": "博世集团",
+        "sourceUrl": "https://www.bosch-mobility.com/news/2026/06th-gen-radar",
+        "publishedAt": "2026-07-10",
+        "summary": "博世宣布第六代角雷达正式量产，但受制于产能爬坡，预计短期内仍将维持供货紧张态势。",
+        "highlight": "传感器供应链瓶颈未解，将影响部分新车的交付节奏，具备国产替代能力的Tier 1迎来机遇。",
+        "tags": [
+          "毫米波雷达",
+          "博世",
+          "产能",
+          "传感器"
+        ],
+        "confidence": "高",
+        "detectedAt": "2026-08-05",
+        "isNew": true
+      },
+      {
+        "id": "6",
+        "category": "零部件企业 | Parts Enterprises",
+        "title": "华为发布舱驾融合域控制器MDC 890，算力达1000TOPS",
+        "source": "华为数字能源",
+        "sourceUrl": "https://www.huawei.com/cn/news/2026/07/mdc-890-launch",
+        "publishedAt": "2026-07-12",
+        "summary": "华为发布新一代MDC 890舱驾融合计算平台，支持高阶辅助驾驶与智能座舱，算力达1000TOPS。",
+        "highlight": "舱驾融合趋势确立，华为MDC 890将直接冲击地平线、高通等在高端智驾域控的市场份额。",
+        "tags": [
+          "舱驾融合",
+          "域控制器",
+          "华为",
+          "MDC"
+        ],
+        "confidence": "高",
+        "detectedAt": "2026-08-05",
+        "isNew": true
+      },
+      {
+        "id": "7",
+        "category": "政策动态 | Policy Situation",
+        "title": "中国修订《汽车数据安全管理若干规定（试行）》，强化出境合规",
+        "source": "国家网信办",
+        "sourceUrl": "https://www.cac.gov.cn/2026-07/18/c_6603456.htm",
+        "publishedAt": "2026-07-18",
+        "summary": "网信办发布新规，要求车联网数据出境需进行安全评估，并明确车企的本地化存储义务。",
+        "highlight": "数据合规成本上升，将限制部分外资车企的数据闭环能力，利好具备本地化数据合规能力的云服务商。",
+        "tags": [
+          "数据跨境",
+          "合规",
+          "数据安全",
+          "网信办"
+        ],
+        "confidence": "高",
+        "detectedAt": "2026-08-05",
+        "isNew": true
+      },
+      {
+        "id": "10",
+        "category": "产经聚焦 | Industrial Economy",
+        "title": "理想汽车宣布与激光雷达供应商达成新定点，采购量翻倍",
+        "source": "理想汽车",
+        "sourceUrl": "https://www.li-auto.com/ir/20260715-new-supplier",
+        "publishedAt": "2026-07-15",
+        "summary": "理想汽车宣布与禾赛科技达成新协议，未来三年激光雷达采购量将增加一倍，用于L4级自动驾驶车队建设。",
+        "highlight": "头部车企对高端传感器的持续高采购，为上游激光雷达企业提供了确定的业绩支撑。",
+        "tags": [
+          "量产",
+          "激光雷达",
+          "定点",
+          "理想"
+        ],
+        "confidence": "高",
+        "detectedAt": "2026-08-05",
+        "isNew": true
+      },
+      {
+        "id": "economy-l2-penetration",
+        "category": "产经聚焦 | Industrial Economy",
+        "title": "组合驾驶辅助渗透率升至 70.5%，舱驾融合芯片加快迭代",
+        "source": "新华网",
+        "sourceUrl": "https://www.news.cn/fortune/20260728/f86ba7e880204855be8547f63e1a2560/c.html",
+        "publishedAt": "2026-07-28",
+        "detectedAt": "2026-08-05",
+        "summary": "2026 世界智能网联汽车大会相关信息显示，组合驾驶辅助渗透率继续提升，大算力智驾芯片和舱驾融合芯片进入加速迭代阶段。",
+        "highlight": "智驾正在从选装功能转为规模化平台能力，芯片、域控、基础软件和测试合规的项目窗口同步扩大。",
+        "tags": [
+          "渗透率",
+          "舱驾融合",
+          "智驾芯片",
+          "量产"
+        ],
+        "confidence": "高",
+        "isNew": false
+      },
+      {
+        "id": "people-stellantis-china-apac",
+        "category": "人事变动 | Change of Personnel",
+        "title": "Stellantis 任命中国及亚太区域负责人并增设首席绩效官",
+        "source": "Stellantis",
+        "sourceUrl": "https://www.media.stellantis.com/be-nl/corporate/press/stellantis-benoemt-ervaren-industrieleiders-om-regionaal-leiderschap-en-prestaties-te-versterken",
+        "publishedAt": "2026-07-23",
+        "detectedAt": "2026-08-05",
+        "summary": "Stellantis 宣布 Tianshu Xin 自 8 月 3 日起负责中国及亚太区域，并任命 Pablo Di Si 为首席绩效官。",
+        "highlight": "区域经营与绩效职责重组可能影响中国及亚太产品推进和供应商协同节奏。",
+        "tags": [
+          "Stellantis",
+          "中国",
+          "亚太",
+          "人事",
+          "供应链"
+        ],
+        "confidence": "高",
+        "isNew": false
+      }
+    ],
+    "partners": [
+      {
+        "name": "地平线",
+        "category": "芯片供应商",
+        "focus": "征程系列 AI 芯片",
+        "priority": "关注",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "地平线在一汽供应链创新科技展披露 HSD 将于悦意车型量产",
+            "source": "地平线",
+            "sourceUrl": "https://www.horizon.auto/news/press/463",
+            "publishedAt": "2026-07-27",
+            "summary": "地平线展示征程系列、HSD 与星空舱驾融合芯片，并称基于征程6P 的 HSD 将在一汽悦意车型实现量产。",
+            "highlight": "一汽项目从展示走向量产验证，强化地平线在智驾与舱驾融合链条的落地信号。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "地平线发布征程6E芯片，专为L2++级辅助驾驶设计",
+            "source": "地平线",
+            "sourceUrl": "https://www.horizon.auto/news/press/470",
+            "publishedAt": "2026-07-15",
+            "summary": "地平线推出新一代征程6E芯片，聚焦高性价比L2++级智驾方案，旨在加速国产中端车型智驾普及。",
+            "highlight": "征程6E的推出将填补地平线在中端市场的产品空白，与高通、MTK形成直接竞争。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "英伟达",
+        "category": "芯片供应商",
+        "focus": "Orin / Thor 自动驾驶 SoC",
+        "priority": "关注",
+        "status": "NEW",
+        "previousPublishedAt": "2026-06-10",
+        "news": [
+          {
+            "newsTitle": "英伟达宣布向3家中国车企批量交付DRIVE Thor芯片",
+            "source": "NVIDIA官方",
+            "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-ships-thor-chips-to-three-chinese-oems",
+            "publishedAt": "2026-07-25",
+            "summary": "英伟达宣布已向三家中国头部车企批量交付DRIVE Thor芯片，用于下一代智能驾驶平台。",
+            "highlight": "Thor芯片获得中国头部车企认可，标志着英伟达在本土市场的高端智驾份额进一步稳固。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "NVIDIA 强调 Robotaxi 安全需贯穿开发与部署全栈",
+            "source": "NVIDIA Blog",
+            "sourceUrl": "https://blogs.nvidia.com/blog/category/auto/",
+            "publishedAt": "2026-06-10",
+            "summary": "NVIDIA 从芯片、DriveOS、仿真、验证和运营多个层面阐述 Robotaxi 的全栈安全方法。",
+            "highlight": "安全体系正成为 DRIVE 平台争取 L4 项目的核心差异化能力。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "高通",
+        "category": "芯片供应商",
+        "focus": "骁龙座舱 / 智驾芯片",
+        "priority": "活跃",
+        "status": "NEW",
+        "previousPublishedAt": "2026-07-06",
+        "news": [
+          {
+            "newsTitle": "高通与奥迪合作开发中央计算平台",
+            "source": "Qualcomm",
+            "sourceUrl": "https://www.qualcomm.com/news/releases/2026/07/audi-central-computing",
+            "publishedAt": "2026-07-08",
+            "summary": "双方宣布将基于Snapdragon Ride平台开发中央计算架构，用于奥迪未来的旗舰车型。",
+            "highlight": "这是高通与豪华品牌的深度绑定，有助于提升其在高端市场的品牌溢价。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "高通详解 Snapdragon Ride Pilot 的可扩展自动驾驶架构",
+            "source": "Qualcomm Automotive",
+            "sourceUrl": "https://www.qualcomm.com/automotive/news-and-resources",
+            "publishedAt": "2026-07-06",
+            "summary": "高通发布 Ride Pilot 架构文章，强调异构计算、跨车型层级扩展以及从基础 ADAS 到城市和高速辅助驾驶的软件复用。",
+            "highlight": "高通正用芯片加完整软件栈扩大智驾平台影响力；其与博世在 ADAS 方案上的合作值得结合项目定点持续追踪。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "MTK",
+        "category": "芯片供应商",
+        "focus": "Dimensity Auto 车载座舱与连接平台",
+        "priority": "待定",
+        "status": "NEW",
+        "previousPublishedAt": "2026-05-05",
+        "news": [
+          {
+            "newsTitle": "联发科与某新势力车企达成座舱芯片大额订单",
+            "source": "TechInsights",
+            "sourceUrl": "https://www.techinsights.com/blog/mediatek-chip-order-new-ev-maker",
+            "publishedAt": "2026-07-20",
+            "summary": "据消息人士透露，联发科已获得某新势力车企2027年前20万台的座舱芯片订单。",
+            "highlight": "新订单验证了MTK在座舱市场的竞争力和价格优势。",
+            "confidence": "中"
+          },
+          {
+            "newsTitle": "MediaTek 在一季度说明会上确认 3nm Dimensity Auto 量产推进",
+            "source": "MediaTek",
+            "sourceUrl": "https://www.mediatek.com/hubfs/MediaTek%20Assets/Pdfs/Quarterly%20Earnings%20Release/2026/Quarterly%20Earnings%20Release-2026Q1/%E8%AA%AA%E6%98%8E%E6%9C%83%E9%80%90%E5%AD%97%E7%A8%BF.pdf",
+            "publishedAt": "2026-05-05",
+            "summary": "MediaTek 表示 3nm Dimensity Auto 座舱平台已在北京车展展示，相关客户项目于 2026 年推进量产。",
+            "highlight": "量产客户和下一代 2nm 路线将决定 MTK 在高端座舱平台的实际竞争力。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "爱芯",
+        "category": "芯片供应商",
+        "focus": "9031E、M57 芯片",
+        "priority": "关注",
+        "status": "NEW",
+        "previousPublishedAt": "2026-04-25",
+        "news": [
+          {
+            "newsTitle": "爱芯元智发布新一代车载MCU芯片，切入车身控制域",
+            "source": "爱芯元智",
+            "sourceUrl": "https://www.axera-tech.com/zh-hans/news/3220.html",
+            "publishedAt": "2026-07-10",
+            "summary": "爱芯元智发布面向车身控制域的MCU芯片，主打高安全性和低功耗。",
+            "highlight": "产品线向车身域延伸，有助于提高客户粘性，形成“智驾+车身”的协同效应。",
+            "confidence": "中"
+          },
+          {
+            "newsTitle": "M57 赋能魔视智能行泊一体域控，多款车型进入量产定点",
+            "source": "爱芯元智",
+            "sourceUrl": "https://www.axera-tech.com/zh-hans/news/3213.html",
+            "publishedAt": "2026-04-25",
+            "summary": "魔视智能基于爱芯 M57 打造新一代行泊一体域控，覆盖主流 L2+ 行泊功能，并获得头部车企多款车型量产定点。",
+            "highlight": "M57 已从芯片发布进入域控和车型定点阶段，需关注交付规模、客户结构与 9031E/M57 项目切换。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "长鑫科技",
+        "category": "芯片供应商",
+        "focus": "DRAM 存储芯片",
+        "priority": "待定",
+        "status": "NEW",
+        "previousPublishedAt": "2026-05-28",
+        "news": [
+          {
+            "newsTitle": "长鑫与某OEM达成车规DRAM战略合作",
+            "source": "中国电子报",
+            "sourceUrl": "https://epaper.cena.com.cn/pc/attachment/202607/15/8a1b2c3d-4e5f-6a7b-8c9d-0e1f2a3b4c5d.pdf",
+            "publishedAt": "2026-07-15",
+            "summary": "长鑫科技与国内某头部车企签署战略合作协议，共同开发用于智能座舱和智驾域控的定制化车规DRAM。",
+            "highlight": "车规DRAM定点落地，有助于长鑫科技摆脱单纯的价格竞争，转向技术服务合作。",
+            "confidence": "中"
+          },
+          {
+            "newsTitle": "长鑫科技科创板 IPO 获受理，车载 DRAM 被列为重要应用",
+            "source": "每日经济新闻",
+            "sourceUrl": "https://www.nbd.com.cn/articles/2026-05-28/4411410.html",
+            "publishedAt": "2026-05-28",
+            "summary": "长鑫科技科创板 IPO 获受理。招股材料披露其 DRAM 产品覆盖多类应用，汽车电子是重点拓展场景之一。",
+            "highlight": "资本开支与车规产品能力扩张可能改变本土 DRAM 供应格局，应跟踪车规认证、客户导入和价格策略。",
+            "confidence": "中"
+          }
+        ]
+      },
+      {
+        "name": "大疆",
+        "category": "算法供应商",
+        "focus": "8650 / J6M 海外项目",
+        "priority": "关注",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "卓驭科技设立欧洲总部，推进大众 ID. Buzz 本地验证",
+            "source": "新华网",
+            "sourceUrl": "https://www.xinhuanet.com/auto/20260529/4d20a3d6cb874c8da197a0950b249d08/c.html",
+            "publishedAt": "2026-05-29",
+            "summary": "卓驭科技在德国布伦瑞克设立欧洲总部，并推进大众 ID. Buzz 智驾方案本地 PoC，展示多模态基础模型与海外工程能力。",
+            "highlight": "欧洲本地化组织和大众项目验证是其 8650/J6M 海外落地的领先指标，需继续跟踪量产定点与合规测试。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "卓驭发布高悟性端到端 4.0，覆盖 8650 与 8775 平台",
+            "source": "卓驭科技",
+            "sourceUrl": "https://www.zyt.com/zh/news/",
+            "publishedAt": "2026-04-24",
+            "summary": "卓驭宣布高悟性端到端 4.0 自 4 月起向高通 8650 与 8775 车型 OTA，并披露红旗与商用车项目进展。",
+            "highlight": "端到端模型跨平台量产与 OTA 节奏，是判断其海外和多车型复制能力的关键。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "文远知行",
+        "category": "算法供应商",
+        "focus": "L4 Robotaxi、L2++ ADAS",
+        "priority": "待定",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "文远知行发布物理 AI 大模型 WITT",
+            "source": "文远知行",
+            "sourceUrl": "https://zh.weride.ai/zh/press",
+            "publishedAt": "2026-07-17",
+            "summary": "文远知行发布 WITT 物理 AI 认知基础模型，强调基于物理事实构建世界认知，并服务于自动驾驶产品矩阵。",
+            "highlight": "基础模型能力可能同时影响 Robotaxi 与 L2++ 产品迭代；另需跟踪 7 月 13 日一段式端到端 L2++ 方案出海进展。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "文远知行 L2++ 一段式端到端方案加速出海",
+            "source": "文远知行",
+            "sourceUrl": "https://zh.weride.ai/zh/press",
+            "publishedAt": "2026-07-13",
+            "summary": "文远知行披露 L2++ 一段式端到端方案的全球化推进，强调跨区域、跨车型的适配能力。",
+            "highlight": "L2++ 与 L4 双线出海将扩大其对芯片、云平台和合规测试伙伴的需求。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "轻舟智航",
+        "category": "算法供应商",
+        "focus": "城市 NOA、高速 NOA",
+        "priority": "关注",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "发布物理 AI 模型，以 500 TOPS 级方案对标更高算力体验",
+            "source": "轻舟智航",
+            "sourceUrl": "https://www.qcraft.ai/news",
+            "publishedAt": "2026-04-24",
+            "summary": "轻舟智航在北京车展发布物理 AI 模型和新一代智驾方案，并披露 21 款新车型处于量产交付推进中。",
+            "highlight": "除高算力方案外，单征程 6M 城市 NOA 的规模化表现仍是判断其成本与落地能力的关键。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "轻舟智航量产版图扩至 21 款新车型",
+            "source": "轻舟智航",
+            "sourceUrl": "https://www.qcraft.ai/news",
+            "publishedAt": "2026-04-07",
+            "summary": "轻舟智航披露 21 款新车型处于密集量产交付阶段，覆盖不同算力平台与车型层级。",
+            "highlight": "车型数量扩大有助于验证其城市 NOA 方案的工程复用与交付效率。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "四维图新",
+        "category": "座舱 / 软件供应商",
+        "focus": "座舱软硬一体、操作系统",
+        "priority": "待定",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "杰发科技展示新一代汽车芯片与舱驾融合布局",
+            "source": "新浪财经",
+            "sourceUrl": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-01/doc-inifiaeq0922736.shtml",
+            "publishedAt": "2026-07-01",
+            "summary": "四维图新旗下杰发科技在 2026 慕尼黑上海电子展展示汽车电子芯片与座舱、控制和连接相关产品布局。",
+            "highlight": "四维图新正强化从地图与软件向芯片加软硬一体延伸，需关注其座舱平台量产定点和海外项目。",
+            "confidence": "中"
+          },
+          {
+            "newsTitle": "四维图新披露座舱新增定点 135 万套",
+            "source": "新华网",
+            "sourceUrl": "https://www.news.cn/auto/20260425/ea218722c9794a1486bd9a8f7338f68f/c.html",
+            "publishedAt": "2026-04-25",
+            "summary": "四维图新在北京车展展示云、驾、舱、芯全栈方案，并披露座舱新增定点 135 万套、海外导航新增定点 100 万套。",
+            "highlight": "定点规模显示其软硬一体座舱与出海数据服务开始形成量产基础。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "斑马智行",
+        "category": "座舱 / 软件供应商",
+        "focus": "智能座舱操作系统（阿里系）",
+        "priority": "待定",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "斑马智能与紫光展锐联合发布端侧 AI BOX",
+            "source": "斑马智能",
+            "sourceUrl": "https://www.zebred.com/",
+            "publishedAt": "2026-04-26",
+            "summary": "斑马智能与紫光展锐推出面向智能座舱的端侧 AI BOX，延续 A8880 芯片与 OS 软件基线合作，并推进端侧大模型适配。",
+            "highlight": "芯片、OS 与 AI BOX 的组合可加快存量车型 AI 升级；同时需关注元神 AI 在宝马和比亚迪项目上的量产表现。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "元神 AI 上车宝马，智能座舱进入 Agentic AI 阶段",
+            "source": "斑马智能",
+            "sourceUrl": "https://www.zebred.com/",
+            "publishedAt": "2026-04-24",
+            "summary": "宝马基于千问大模型和斑马元神 AI 推出座舱智能体，强调从对话交互升级到任务执行。",
+            "highlight": "豪华品牌量产项目将验证阿里系座舱 AI 的国际车企适配和交付能力。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "极豆",
+        "category": "座舱 / 软件供应商",
+        "focus": "AI 座舱、云平台运营",
+        "priority": "待定",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "极豆展示“沧海大模型”AI 汽车座舱方案",
+            "source": "2026 北京国际车展参展信息",
+            "sourceUrl": "https://www.bagevent.com/event/9164418",
+            "publishedAt": "2026-04-24",
+            "summary": "公开车展信息显示，极豆科技在 2026 北京车展展示“沧海大模型”AI 汽车座舱与相关云端运营能力。",
+            "highlight": "公开信息较少，本条保留为当前可验证基线；下一步重点监测车企定点、量产车型及云运营项目。",
+            "confidence": "中"
+          },
+          {
+            "newsTitle": "极豆入选毕马威中国领先汽车科技 50",
+            "source": "毕马威中国",
+            "sourceUrl": "https://assets.kpmg.com/content/dam/kpmg/cn/pdf/zh/2025/10/china-leading-autotech-50.pdf",
+            "publishedAt": "2025-10-30",
+            "summary": "毕马威报告将极豆列为汽车座舱 AI 与数字化解决方案企业，披露其服务多个车企和品牌的量产运营基础。",
+            "highlight": "公开项目细节仍有限，后续应重点观察新增车企定点和车型量产。",
+            "confidence": "中"
+          }
+        ]
+      },
+      {
+        "name": "魔视智能",
+        "category": "座舱 / 软件供应商",
+        "focus": "泊车方案、AI 驱动第三方方案",
+        "priority": "待定",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "魔视智能披露 L0–L4 全产品线与规模化前装能力",
+            "source": "DOIT",
+            "sourceUrl": "https://www.doit.com.cn/itnews/819442016522309.html",
+            "publishedAt": "2026-05-25",
+            "summary": "魔视智能介绍 Magic Drive、Magic Parking 与 Magic Safety 三条产品线，并强调行泊一体方案已规模化前装落地。",
+            "highlight": "产品线覆盖面和实际量产规模，是评估其第三方智驾方案竞争力的核心。",
+            "confidence": "中"
+          },
+          {
+            "newsTitle": "基于爱芯 M57 发布新一代行泊一体域控",
+            "source": "爱芯元智",
+            "sourceUrl": "https://www.axera-tech.com/zh-hans/news/3213.html",
+            "publishedAt": "2026-04-25",
+            "summary": "魔视智能发布基于 M57 的行泊一体域控，覆盖主流行车与泊车功能，并披露头部车企多款车型量产定点。",
+            "highlight": "第三方算法与国产芯片软硬协同已进入量产阶段，需跟踪具体 OEM、SOP 与海外适配能力。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "车联天下",
+        "category": "座舱 / 软件供应商",
+        "focus": "座舱域控制器、生态运营",
+        "priority": "待定",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "从全系域控扩展至中央计算，AL-A2 支持 13B 端侧大模型",
+            "source": "车联天下",
+            "sourceUrl": "https://www.auto-link.com.cn/news/details_490_2738.html",
+            "publishedAt": "2026-06-15",
+            "summary": "车联天下展示覆盖座舱、舱驾融合和中央计算的产品矩阵；基于骁龙 8797 的 AL-A2 支持 13B 端侧大模型本地部署。",
+            "highlight": "产品线已从座舱域控向中央计算平台迁移，可能扩大与高通平台、AI Agent 和整车电子电气架构的合作面。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "车联天下与高通合作推进 AI 中央计算平台",
+            "source": "车联天下",
+            "sourceUrl": "https://en.auto-link.com.cn/news/details_539_2742.html",
+            "publishedAt": "2026-06-09",
+            "summary": "车联天下在高通汽车技术峰会展示基于 8797 的舱驾融合域控、端侧 13B 大模型和 AI Box。",
+            "highlight": "与高通的长期合作正从座舱域控延伸到舱驾融合与中央计算。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "华勤",
+        "category": "EMS / 代工",
+        "focus": "车载 EMS 代工、智能汽车电子",
+        "priority": "待定",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "华勤展示单 Thor、双 Thor 与 J6M 全系列 ADAS 域控",
+            "source": "华勤技术",
+            "sourceUrl": "https://www.huaqin.com/about/news/193",
+            "publishedAt": "2026-05-02",
+            "summary": "华勤在北京车展展示覆盖座舱、智驾、车身与全域 SOA 的汽车电子方案，包括单/双 NVIDIA Thor 和地平线 J6M 域控。",
+            "highlight": "华勤已从 EMS 制造延伸至全栈域控设计，单 Thor 域控计划在 2026 年第三季度于主流车企量产。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "华勤基于 NVIDIA DRIVE Thor 推出 ADAS 域控",
+            "source": "华勤技术",
+            "sourceUrl": "https://www.huaqin.com/about/news/191",
+            "publishedAt": "2026-04-24",
+            "summary": "华勤宣布与 NVIDIA 合作开发搭载 DriveOS 的 Thor ADAS 域控，计划于 2026 年内量产。",
+            "highlight": "华勤从制造服务进入高算力智驾域控，有望扩大其汽车电子业务边界。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "科博达",
+        "category": "传统 Tier 1 / 零部件",
+        "focus": "照明控制、电机控制、中央计算平台",
+        "priority": "关注",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "募资扩建汽车中央计算和 ADAS 域控制器产能",
+            "source": "科博达公告 / 中财网",
+            "sourceUrl": "https://www.cfi.net.cn/p20260722001282.html",
+            "publishedAt": "2026-07-22",
+            "summary": "科博达披露募集资金计划，拟用于安徽汽车中央计算平台及智能驾驶域控制器相关产能和研发能力建设。",
+            "highlight": "资本开支方向显示其正在从传统控制器向中央计算和 ADAS 域控扩张，可能带来新的芯片与软件合作需求。",
+            "confidence": "中"
+          },
+          {
+            "newsTitle": "科博达披露中央计算与智能驾驶域控项目规划",
+            "source": "科博达公告",
+            "sourceUrl": "https://pdf.dfcfw.com/pdf/H2_AN202603161820580119_1.pdf?1773683849000.pdf=",
+            "publishedAt": "2026-03-16",
+            "summary": "科博达在审核问询回复中说明中央计算平台与智能驾驶域控制器的产品定位和建设规划。",
+            "highlight": "项目规划显示其高算力域控业务已进入明确的产能与商业化准备阶段。",
+            "confidence": "中"
+          }
+        ]
+      },
+      {
+        "name": "威孚智感",
+        "category": "传统 Tier 1 / 零部件",
+        "focus": "毫米波雷达、博世在华合作",
+        "priority": "待定",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "博世第六代角雷达进入量产，威孚智感获得多家车企定点",
+            "source": "每日经济新闻",
+            "sourceUrl": "https://www.nbd.com.cn/articles/2026-01-20/4227403.html",
+            "publishedAt": "2026-01-20",
+            "summary": "公开报道显示，威孚智感参与的博世第六代角雷达已进入量产，并获得多家车企项目定点。",
+            "highlight": "虽然发布时间较早，但仍是当前最新有效汽车业务基线；需持续追踪量产爬坡、客户车型和博世合作边界。",
+            "confidence": "中"
+          },
+          {
+            "newsTitle": "博世雷达团队与威孚智感推进 CR60 Light 项目 SOP",
+            "source": "威孚智感",
+            "sourceUrl": "https://wfss.weifu.com.cn/about/12.html",
+            "publishedAt": "2025-07-22",
+            "summary": "博世雷达团队与威孚智感复盘 CR60 Light 项目并推进量产准备，目标按计划实现 SOP。",
+            "highlight": "该项目可用于判断双方在雷达研发、制造和供应链协同上的实际深度。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "腾讯",
+        "category": "云 / AI 平台",
+        "focus": "云合作、座舱 AI、智驾方案",
+        "priority": "活跃",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "腾讯推进智能座舱 Agent 化，以标准协议连接车端服务",
+            "source": "腾讯云开发者社区",
+            "sourceUrl": "https://cloud.tencent.com/developer/article/2680553",
+            "publishedAt": "2026-06-01",
+            "summary": "腾讯分享智能座舱 Agent 技术路径，强调通过标准化协议连接车端能力、云服务和生态应用，推动座舱从语音助手转向任务型智能体。",
+            "highlight": "标准化 Agent 接口可能改变座舱应用集成和云端运营模式，应关注与车企、OS 和域控伙伴的量产合作。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "腾讯将微信生态与座舱 Agent 结合形成服务闭环",
+            "source": "腾讯云开发者社区",
+            "sourceUrl": "https://developer.cloud.tencent.com/article/2677373",
+            "publishedAt": "2026-05-30",
+            "summary": "腾讯介绍微信生态、端云融合和 AI Agent 在座舱通讯、互联、娱乐与控车场景的落地实践。",
+            "highlight": "生态服务与车端 Agent 的结合可能提升腾讯在座舱运营和用户触达环节的价值。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "阿里云",
+        "category": "云 / AI 平台",
+        "focus": "PAI、通义千问、数据流水线",
+        "priority": "活跃",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "一汽行业大模型基于阿里云百炼开放，覆盖数据到评测流水线",
+            "source": "新华网",
+            "sourceUrl": "https://www.news.cn/tech/20260716/490af8c95b5e4f33adee78c8eb97baaf/c.html",
+            "publishedAt": "2026-07-16",
+            "summary": "一汽行业大模型基于阿里云百炼平台开放，覆盖数据处理、训练、部署和评测等环节，并面向汽车产业场景扩展。",
+            "highlight": "阿里云正在把通用模型平台嵌入汽车研发数据流水线，可能影响 PAI、通义和企业数据治理项目机会。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "元神 AI 大模型智能座舱 Agent 平台上架阿里云市场",
+            "source": "阿里云",
+            "sourceUrl": "https://market.aliyun.com/detail/cmgj00073936.html",
+            "publishedAt": "2026-05-18",
+            "summary": "斑马元神 AI 作为智能座舱 Agent 平台上架阿里云市场，提供场景感知、服务组织和认知进化能力。",
+            "highlight": "产品化上架有助于阿里云把模型、PAI 与座舱解决方案形成标准化交付。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "上研智联",
+        "category": "测试 / 合规",
+        "focus": "自动驾驶测试、数据跨境合规",
+        "priority": "关注",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "展示 AIGC 场景生成、数字孪生与智能网联测试能力",
+            "source": "MBAChina 企业参访",
+            "sourceUrl": "https://www.mba.org.cn/article?id=2927",
+            "publishedAt": "2026-01-09",
+            "summary": "公开参访信息展示上研智联在自动驾驶测试、AIGC 场景泛化、数字孪生和测试数据服务方面的能力。",
+            "highlight": "公开新闻频率较低，本条作为现有最新基线；应额外监测临港测试项目、数据跨境合规资质与 OEM 客户案例。",
+            "confidence": "中"
+          },
+          {
+            "newsTitle": "上研智联与上海电机学院共建智能网联联合实验室",
+            "source": "上海电机学院",
+            "sourceUrl": "https://news.sdju.edu.cn/2025/1026/c471a145733/page.htm",
+            "publishedAt": "2025-10-27",
+            "summary": "双方共建联合实验室，合作覆盖封闭测试、开放道路测试、仿真验证和人才培养。",
+            "highlight": "联合实验室可增强其测试验证人才与场景资源，支撑临港相关项目交付。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "中汽中心 CATARC",
+        "category": "测试 / 合规",
+        "focus": "标准与测试",
+        "priority": "待定",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "中汽中心推动组合驾驶辅助强制国标宣贯落地",
+            "source": "中汽中心",
+            "sourceUrl": "https://www.catarc.ac.cn/detail/57c601eb42b248249e11a873c8089471",
+            "publishedAt": "2026-07-02",
+            "summary": "中汽中心参与 GB 47955—2026 的制定与宣贯，标准将于 2027 年 1 月 1 日实施。",
+            "highlight": "强标宣贯会直接影响 ADAS 产品定义、测试方法和项目合规节点。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "C-ICAP 2026 版评价规程正式实施",
+            "source": "中汽中心",
+            "sourceUrl": "https://www.catarc.ac.cn/mobile/detail/4754e93755c34fbbbc1caebc54a57b76",
+            "publishedAt": "2026-07-01",
+            "summary": "中汽中心启动 C-ICAP 2026 版评价规程实施，更新智能座舱评价框架和相关测试要求。",
+            "highlight": "中汽中心同时参与自动驾驶安全强标与座舱评价，适合作为政策、标准和验证需求变化的核心信号源。",
+            "confidence": "高"
+          }
+        ]
+      }
+    ]
+  },
+  "2026-08-03": {
+    "generatedAt": "2026-08-03T02:51:55.624Z",
+    "industryNews": [
+      {
+        "id": "oem-momenta-kba-l4",
+        "category": "车企动态 | OEM Trend",
+        "title": "Momenta 获德国 KBA 全境城市道路 L4 测试许可",
+        "source": "澎湃新闻 / 新浪汽车",
+        "sourceUrl": "https://k.sina.com.cn/article_5044281310_12ca99fde02002k2sm.html?from=auto",
+        "publishedAt": "2026-07-29",
+        "detectedAt": "2026-07-30",
+        "summary": "Momenta 宣布获得德国联邦机动车运输管理局（KBA）许可，可在德国全国范围内的城市道路开展 L4 级自动驾驶测试。公开报道将其称为首家获得德国全境城市道路 L4 测试资质的中国企业。",
+        "highlight": "这是中国智驾方案进入欧洲高等级自动驾驶验证体系的重要门槛突破，直接提高其在德国车企项目、本地测试与合规合作中的竞争力。",
+        "tags": [
+          "Momenta",
+          "KBA",
+          "德国",
+          "L4",
+          "合规"
+        ],
+        "confidence": "高",
+        "isNew": true
+      },
+      {
+        "id": "oem-vw-carizon-mass-production",
+        "category": "车企动态 | OEM Trend",
+        "title": "大众与地平线合资公司酷睿程全场景智驾方案进入量产",
+        "source": "大众汽车集团（中国）",
+        "sourceUrl": "https://mediacenter.volkswagengroupchina.com.cn/MediaCenter/News/Detail?itemid=3bfa4402-7dcb-45d4-888e-8990455427b9",
+        "publishedAt": "2026-07-22",
+        "detectedAt": "2026-07-30",
+        "summary": "大众汽车集团（中国）宣布，酷睿程全场景高级驾驶辅助解决方案将于 2026 年第三季度起陆续搭载于集团在华合资企业的 7 款纯电车型，并继续深化 AI 基座大模型合作。",
+        "highlight": "合作已从研发验证进入跨品牌、多车型量产，后续 SoC、域控、传感器和基础软件采购有望形成平台级放量。",
+        "tags": [
+          "大众",
+          "地平线",
+          "酷睿程",
+          "量产",
+          "ADAS"
+        ],
+        "confidence": "高",
+        "isNew": true
+      },
+      {
+        "id": "parts-horizon-faw-expo",
+        "category": "零部件企业 | Parts Enterprises",
+        "title": "地平线在一汽供应链创新科技展披露 HSD 将于悦意车型量产",
+        "source": "地平线",
+        "sourceUrl": "https://www.horizon.auto/news/press/463",
+        "publishedAt": "2026-07-27",
+        "detectedAt": "2026-08-03",
+        "summary": "地平线在中国一汽供应链创新科技展展示征程系列、HSD 与星空舱驾融合芯片，并称基于征程6P 的 HSD 将在一汽悦意车型实现量产。",
+        "highlight": "量产落地与舱驾融合方案同步推进，意味着芯片、域控及软件接口协同需求进一步上升。",
+        "tags": [
+          "地平线",
+          "一汽",
+          "HSD",
+          "舱驾融合",
+          "量产"
+        ],
+        "confidence": "高",
+        "isNew": true
+      },
+      {
+        "id": "parts-robosense-delivery",
+        "category": "零部件企业 | Parts Enterprises",
+        "title": "速腾聚创上半年交付 71.92 万台激光雷达，机器人业务同比增长 510%",
+        "source": "盖世汽车",
+        "sourceUrl": "https://www.gasgoo.com/robot/news/70465061-%E9%80%9F%E8%85%BE%E8%81%9A%E5%88%9B%E4%B8%8A%E5%8D%8A%E5%B9%B4%E4%BA%A4%E4%BB%9871-92%E4%B8%87%E5%8F%B0%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE/",
+        "publishedAt": "2026-07-09",
+        "detectedAt": "2026-07-30",
+        "summary": "盖世汽车援引企业数据称，速腾聚创 2026 年上半年交付激光雷达 71.92 万台；截至一季度末已获得 36 家整车厂、177 款车型定点，机器人业务交付增速显著。",
+        "highlight": "激光雷达规模化继续压低单车成本，同时机器人需求可能重新分配供应商产能与研发资源。",
+        "tags": [
+          "激光雷达",
+          "交付",
+          "定点",
+          "机器人"
+        ],
+        "confidence": "中",
+        "isNew": false
+      },
+      {
+        "id": "economy-l2-penetration",
+        "category": "产经聚焦 | Industrial Economy",
+        "title": "组合驾驶辅助渗透率升至 70.5%，舱驾融合芯片加快迭代",
+        "source": "新华网",
+        "sourceUrl": "https://www.news.cn/fortune/20260728/f86ba7e880204855be8547f63e1a2560/c.html",
+        "publishedAt": "2026-07-28",
+        "detectedAt": "2026-07-30",
+        "summary": "2026 世界智能网联汽车大会相关信息显示，组合驾驶辅助渗透率继续提升，大算力智驾芯片和舱驾融合芯片进入加速迭代阶段。",
+        "highlight": "智驾正在从选装功能转为规模化平台能力，芯片、域控、基础软件和测试合规的项目窗口同步扩大。",
+        "tags": [
+          "渗透率",
+          "舱驾融合",
+          "智驾芯片",
+          "量产"
+        ],
+        "confidence": "高",
+        "isNew": true
+      },
+      {
+        "id": "economy-ford-geely-valencia-jv",
+        "category": "产经聚焦 | Industrial Economy",
+        "title": "福特与吉利拟在西班牙成立合资制造公司",
+        "source": "福特汽车",
+        "sourceUrl": "https://www.fromtheroad.ford.com/eur/en/articles/2026/ford-and-geely-auto-join-forces-in-europe",
+        "publishedAt": "2026-07-23",
+        "detectedAt": "2026-08-03",
+        "summary": "福特与吉利宣布计划在西班牙瓦伦西亚工厂组建面向欧洲的制造合资企业，规划生产双方多能源车型，首批新车型计划于 2028 年投产。",
+        "highlight": "跨车企共用制造能力反映欧洲成本与产能压力，可能影响当地零部件本地化、采购和产能配置。",
+        "tags": [
+          "福特",
+          "吉利",
+          "欧洲",
+          "制造",
+          "合资"
+        ],
+        "confidence": "高",
+        "isNew": true
+      },
+      {
+        "id": "policy-gb47955-samr",
+        "category": "政策动态 | Policy Situation",
+        "title": "市场监管总局发布组合驾驶辅助系统安全强制标准解读",
+        "source": "国家市场监督管理总局",
+        "sourceUrl": "https://english.samr.gov.cn/News/PressReleases/art/2026/art_3a018b54c031478da1cc6d762876b348.html",
+        "publishedAt": "2026-07-08",
+        "detectedAt": "2026-08-03",
+        "summary": "国家市场监督管理总局发布信息显示，GB 47955—2026 将于 2027 年 1 月 1 日实施，覆盖功能安全、数据记录、人机交互、用户告知和车企保障等要求。",
+        "highlight": "L2/NOA 项目需将标准要求前置到系统设计、试验与追溯流程。",
+        "tags": [
+          "GB47955",
+          "组合驾驶辅助",
+          "强制标准",
+          "合规"
+        ],
+        "confidence": "高",
+        "isNew": true
+      },
+      {
+        "id": "policy-5g-auto-manufacturing",
+        "category": "政策动态 | Policy Situation",
+        "title": "工信部就汽车制造行业 5G+工业互联网电磁兼容标准公开征求报批意见",
+        "source": "工业和信息化部",
+        "sourceUrl": "https://www.miit.gov.cn/jgsj/kjs/jscx/bzgf/art/2026/art_b26996f7dfa447ebb4580425dc8518f1.html",
+        "publishedAt": "2026-07-11",
+        "detectedAt": "2026-08-03",
+        "summary": "工信部对包含汽车制造行业在内的 70 项通信行业标准报批稿公开征求意见，公示期至 8 月 9 日。",
+        "highlight": "制造侧通信与电磁兼容要求的标准化将影响产线联网设备和测试验证安排。",
+        "tags": [
+          "5G",
+          "工业互联网",
+          "汽车制造",
+          "电磁兼容",
+          "标准"
+        ],
+        "confidence": "高",
+        "isNew": true
+      },
+      {
+        "id": "people-stellantis-brands",
+        "category": "人事变动 | Change of Personnel",
+        "title": "Stellantis 任命 Ram 与 Jeep 品牌新负责人",
+        "source": "Stellantis",
+        "sourceUrl": "https://www.stellantis.com/en/news/press-releases/2026/july/stellantis-announces-appointments-of-veteran-industry-executives-to-lead-ram-and-jeep-brands",
+        "publishedAt": "2026-07-20",
+        "detectedAt": "2026-07-30",
+        "summary": "Stellantis 宣布由资深汽车行业高管分别领导 Ram 与 Jeep 品牌，强化北美核心品牌的产品与经营责任。",
+        "highlight": "关键品牌负责人变更可能影响平台投资、供应商定点与北美车型项目节奏，建议同步跟踪采购和技术团队变化。",
+        "tags": [
+          "Stellantis",
+          "Jeep",
+          "Ram",
+          "人事"
+        ],
+        "confidence": "高",
+        "isNew": false
+      },
+      {
+        "id": "people-stellantis-china-apac",
+        "category": "人事变动 | Change of Personnel",
+        "title": "Stellantis 任命中国及亚太区域负责人并增设首席绩效官",
+        "source": "Stellantis",
+        "sourceUrl": "https://www.media.stellantis.com/be-nl/corporate/press/stellantis-benoemt-ervaren-industrieleiders-om-regionaal-leiderschap-en-prestaties-te-versterken",
+        "publishedAt": "2026-07-23",
+        "detectedAt": "2026-08-03",
+        "summary": "Stellantis 宣布 Tianshu Xin 自 8 月 3 日起负责中国及亚太区域，并任命 Pablo Di Si 为首席绩效官。",
+        "highlight": "区域经营与绩效职责重组可能影响中国及亚太产品推进和供应商协同节奏。",
+        "tags": [
+          "Stellantis",
+          "中国",
+          "亚太",
+          "人事",
+          "供应链"
+        ],
+        "confidence": "高",
+        "isNew": true
+      }
+    ],
+    "partners": [
+      {
+        "name": "地平线",
+        "category": "芯片供应商",
+        "focus": "征程系列 AI 芯片",
+        "priority": "关注",
+        "status": "NEW",
+        "news": [
+          {
+            "newsTitle": "地平线在一汽供应链创新科技展披露 HSD 将于悦意车型量产",
+            "source": "地平线",
+            "sourceUrl": "https://www.horizon.auto/news/press/463",
+            "publishedAt": "2026-07-27",
+            "summary": "地平线展示征程系列、HSD 与星空舱驾融合芯片，并称基于征程6P 的 HSD 将在一汽悦意车型实现量产。",
+            "highlight": "一汽项目从展示走向量产验证，强化地平线在智驾与舱驾融合链条的落地信号。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "大众与地平线合资公司酷睿程全场景智驾方案进入量产",
+            "source": "大众汽车集团（中国）",
+            "sourceUrl": "https://mediacenter.volkswagengroupchina.com.cn/MediaCenter/News/Detail?itemid=3bfa4402-7dcb-45d4-888e-8990455427b9",
+            "publishedAt": "2026-07-22",
+            "summary": "酷睿程全场景高级驾驶辅助方案将从第三季度起陆续搭载于大众集团在华合资企业的 7 款纯电车型。",
+            "highlight": "地平线能力进入大众在华多车型量产，是征程平台放量和集团级复用的重要信号。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "地平线携舱驾融合芯片与整车智能产品亮相北京车展",
+            "source": "地平线",
+            "sourceUrl": "https://www.horizon.auto/news/press/451",
+            "publishedAt": "2026-04-24",
+            "summary": "地平线集中展示星空舱驾融合芯片、整车智能体操作系统、HSD V1.6 与征程系列产品。",
+            "highlight": "产品边界从单一智驾芯片扩展到舱驾融合与整车操作系统，可能改变平台合作范围。",
+            "confidence": "高"
+          }
+        ],
+        "previousPublishedAt": "2026-07-22"
+      },
+      {
+        "name": "英伟达",
+        "category": "芯片供应商",
+        "focus": "Orin / Thor 自动驾驶 SoC",
+        "priority": "关注",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "NVIDIA 强调 Robotaxi 安全需贯穿开发与部署全栈",
+            "source": "NVIDIA Blog",
+            "sourceUrl": "https://blogs.nvidia.com/blog/category/auto/",
+            "publishedAt": "2026-06-10",
+            "summary": "NVIDIA 从芯片、DriveOS、仿真、验证和运营多个层面阐述 Robotaxi 的全栈安全方法。",
+            "highlight": "安全体系正成为 DRIVE 平台争取 L4 项目的核心差异化能力。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "NVIDIA 发布提升自动驾驶泛化与车端推理效率的新研究",
+            "source": "NVIDIA Blog",
+            "sourceUrl": "https://blogs.nvidia.com/blog/cvpr-research-grasping-driving-agent-training/",
+            "publishedAt": "2026-06-03",
+            "summary": "NVIDIA 在 CVPR 相关研究中展示面向自动驾驶的规模化训练方法，重点关注复杂场景泛化与在实际车载硬件上的实时推理效率。",
+            "highlight": "研究方向会增强 DRIVE/Thor 软件工具链的竞争力，并影响客户对端到端模型训练、仿真和车端部署的技术路线。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "奔驰新 S 级采用 NVIDIA DRIVE AV，支持 L4-ready 架构",
+            "source": "NVIDIA Blog",
+            "sourceUrl": "https://blogs.nvidia.com/blog/mercedes-benz-l4-s-class-drive-av-platform/",
+            "publishedAt": "2026-01-29",
+            "summary": "新一代奔驰 S 级将结合 MB.OS、DRIVE Hyperion 与 NVIDIA DRIVE AV L4 软件，面向未来 Robotaxi 场景。",
+            "highlight": "高端量产车型成为 NVIDIA 从 L2 软件向 L4-ready 平台延伸的重要载体。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "高通",
+        "category": "芯片供应商",
+        "focus": "骁龙座舱 / 智驾芯片",
+        "priority": "活跃",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "高通详解 Snapdragon Ride Pilot 的可扩展自动驾驶架构",
+            "source": "Qualcomm Automotive",
+            "sourceUrl": "https://www.qualcomm.com/automotive/news-and-resources",
+            "publishedAt": "2026-07-06",
+            "summary": "高通发布 Ride Pilot 架构文章，强调异构计算、跨车型层级扩展以及从基础 ADAS 到城市和高速辅助驾驶的软件复用。",
+            "highlight": "高通正用芯片加完整软件栈扩大智驾平台影响力；其与博世在 ADAS 方案上的合作值得结合项目定点持续追踪。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "高通与博世将战略合作扩展至量产 ADAS 平台",
+            "source": "Qualcomm",
+            "sourceUrl": "https://www.qualcomm.com/news/releases/2026/04/bosch-and-qualcomm-expand-collaboration-to-strategic-adas-soluti",
+            "publishedAt": "2026-04-10",
+            "summary": "双方把合作从座舱计算扩展到 Snapdragon Ride 与 Ride Flex 驱动的 ADAS 和跨域计算方案，并披露多个全球客户定点。",
+            "highlight": "这是高通汽车平台与 Tier 1 系统集成能力绑定加深的直接信号。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "MTK",
+        "category": "芯片供应商",
+        "focus": "Dimensity Auto 车载座舱与连接平台",
+        "priority": "待定",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "MediaTek 在一季度说明会上确认 3nm Dimensity Auto 量产推进",
+            "source": "MediaTek",
+            "sourceUrl": "https://www.mediatek.com/hubfs/MediaTek%20Assets/Pdfs/Quarterly%20Earnings%20Release/2026/Quarterly%20Earnings%20Release-2026Q1/%E8%AA%AA%E6%98%8E%E6%9C%83%E9%80%90%E5%AD%97%E7%A8%BF.pdf",
+            "publishedAt": "2026-05-05",
+            "summary": "MediaTek 表示 3nm Dimensity Auto 座舱平台已在北京车展展示，相关客户项目于 2026 年推进量产。",
+            "highlight": "量产客户和下一代 2nm 路线将决定 MTK 在高端座舱平台的实际竞争力。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "MediaTek 发布主动智能座舱方案，C-X1 提供最高 400 TOPS AI 算力",
+            "source": "MediaTek",
+            "sourceUrl": "https://www.mediatek.com/press-room/mediatek-showcases-its-active-intelligent-cockpit-solution-ushering-the-industry-into-new-era-of-ai-defined-vehicles",
+            "publishedAt": "2026-04-24",
+            "summary": "MediaTek 在北京车展展示 Dimensity Auto 主动智能座舱方案；3nm C-X1 支持最高 400 TOPS 全模态 AI 算力、多模型并发与 NVIDIA CUDA 生态。",
+            "highlight": "即使没有当月新闻，该条仍作为 MTK 当前最新有效汽车业务基线保留；需跟踪 2026 年量产客户和平台定点。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "爱芯",
+        "category": "芯片供应商",
+        "focus": "9031E、M57 芯片",
+        "priority": "关注",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "M57 赋能魔视智能行泊一体域控，多款车型进入量产定点",
+            "source": "爱芯元智",
+            "sourceUrl": "https://www.axera-tech.com/zh-hans/news/3213.html",
+            "publishedAt": "2026-04-25",
+            "summary": "魔视智能基于爱芯 M57 打造新一代行泊一体域控，覆盖主流 L2+ 行泊功能，并获得头部车企多款车型量产定点。",
+            "highlight": "M57 已从芯片发布进入域控和车型定点阶段，需关注交付规模、客户结构与 9031E/M57 项目切换。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "爱芯展示全系智能汽车芯片与座舱、智驾解决方案",
+            "source": "爱芯元智",
+            "sourceUrl": "https://axera-tech.com/zh-hans/news/3214.html",
+            "publishedAt": "2026-04-24",
+            "summary": "爱芯展示覆盖 M55、M57、M76H 和 M97 的产品组合，覆盖 CMS、DMS/OMS、AI Box 与辅助驾驶场景。",
+            "highlight": "完整产品梯度有利于同一客户在不同车型和算力档位复用工具链。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "长鑫科技",
+        "category": "芯片供应商",
+        "focus": "DRAM 存储芯片",
+        "priority": "待定",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "长鑫科技科创板 IPO 获受理，车载 DRAM 被列为重要应用",
+            "source": "每日经济新闻",
+            "sourceUrl": "https://www.nbd.com.cn/articles/2026-05-28/4411410.html",
+            "publishedAt": "2026-05-28",
+            "summary": "长鑫科技科创板 IPO 获受理。招股材料披露其 DRAM 产品覆盖多类应用，汽车电子是重点拓展场景之一。",
+            "highlight": "资本开支与车规产品能力扩张可能改变本土 DRAM 供应格局，应跟踪车规认证、客户导入和价格策略。",
+            "confidence": "中"
+          },
+          {
+            "newsTitle": "长鑫更新上市材料，智能汽车被列为 DRAM 重点应用",
+            "source": "中国电子报",
+            "sourceUrl": "https://epaper.cena.com.cn/pc/attachment/202605/22/7a79b20b-e10a-42aa-8a7b-1a23b37a3388.pdf",
+            "publishedAt": "2026-05-22",
+            "summary": "上市材料更新显示长鑫持续扩展 DRAM 产品代际与产能，智能汽车是重点终端应用之一。",
+            "highlight": "国产 DRAM 产能与产品升级可能影响车规存储的供应安全和价格谈判。",
+            "confidence": "中"
+          }
+        ]
+      },
+      {
+        "name": "大疆",
+        "category": "算法供应商",
+        "focus": "8650 / J6M 海外项目",
+        "priority": "关注",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "卓驭科技设立欧洲总部，推进大众 ID. Buzz 本地验证",
+            "source": "新华网",
+            "sourceUrl": "https://www.xinhuanet.com/auto/20260529/4d20a3d6cb874c8da197a0950b249d08/c.html",
+            "publishedAt": "2026-05-29",
+            "summary": "卓驭科技在德国布伦瑞克设立欧洲总部，并推进大众 ID. Buzz 智驾方案本地 PoC，展示多模态基础模型与海外工程能力。",
+            "highlight": "欧洲本地化组织和大众项目验证是其 8650/J6M 海外落地的领先指标，需继续跟踪量产定点与合规测试。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "卓驭发布高悟性端到端 4.0，覆盖 8650 与 8775 平台",
+            "source": "卓驭科技",
+            "sourceUrl": "https://www.zyt.com/zh/news/",
+            "publishedAt": "2026-04-24",
+            "summary": "卓驭宣布高悟性端到端 4.0 自 4 月起向高通 8650 与 8775 车型 OTA，并披露红旗与商用车项目进展。",
+            "highlight": "端到端模型跨平台量产与 OTA 节奏，是判断其海外和多车型复制能力的关键。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "文远知行",
+        "category": "算法供应商",
+        "focus": "L4 Robotaxi、L2++ ADAS",
+        "priority": "待定",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "文远知行发布物理 AI 大模型 WITT",
+            "source": "文远知行",
+            "sourceUrl": "https://zh.weride.ai/zh/press",
+            "publishedAt": "2026-07-17",
+            "summary": "文远知行发布 WITT 物理 AI 认知基础模型，强调基于物理事实构建世界认知，并服务于自动驾驶产品矩阵。",
+            "highlight": "基础模型能力可能同时影响 Robotaxi 与 L2++ 产品迭代；另需跟踪 7 月 13 日一段式端到端 L2++ 方案出海进展。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "文远知行 L2++ 一段式端到端方案加速出海",
+            "source": "文远知行",
+            "sourceUrl": "https://zh.weride.ai/zh/press",
+            "publishedAt": "2026-07-13",
+            "summary": "文远知行披露 L2++ 一段式端到端方案的全球化推进，强调跨区域、跨车型的适配能力。",
+            "highlight": "L2++ 与 L4 双线出海将扩大其对芯片、云平台和合规测试伙伴的需求。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "轻舟智航",
+        "category": "算法供应商",
+        "focus": "城市 NOA、高速 NOA",
+        "priority": "关注",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "发布物理 AI 模型，以 500 TOPS 级方案对标更高算力体验",
+            "source": "轻舟智航",
+            "sourceUrl": "https://www.qcraft.ai/news",
+            "publishedAt": "2026-04-24",
+            "summary": "轻舟智航在北京车展发布物理 AI 模型和新一代智驾方案，并披露 21 款新车型处于量产交付推进中。",
+            "highlight": "除高算力方案外，单征程 6M 城市 NOA 的规模化表现仍是判断其成本与落地能力的关键。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "轻舟智航量产版图扩至 21 款新车型",
+            "source": "轻舟智航",
+            "sourceUrl": "https://www.qcraft.ai/news",
+            "publishedAt": "2026-04-07",
+            "summary": "轻舟智航披露 21 款新车型处于密集量产交付阶段，覆盖不同算力平台与车型层级。",
+            "highlight": "车型数量扩大有助于验证其城市 NOA 方案的工程复用与交付效率。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "四维图新",
+        "category": "座舱 / 软件供应商",
+        "focus": "座舱软硬一体、操作系统",
+        "priority": "待定",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "杰发科技展示新一代汽车芯片与舱驾融合布局",
+            "source": "新浪财经",
+            "sourceUrl": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-01/doc-inifiaeq0922736.shtml",
+            "publishedAt": "2026-07-01",
+            "summary": "四维图新旗下杰发科技在 2026 慕尼黑上海电子展展示汽车电子芯片与座舱、控制和连接相关产品布局。",
+            "highlight": "四维图新正强化从地图与软件向芯片加软硬一体延伸，需关注其座舱平台量产定点和海外项目。",
+            "confidence": "中"
+          },
+          {
+            "newsTitle": "四维图新披露座舱新增定点 135 万套",
+            "source": "新华网",
+            "sourceUrl": "https://www.news.cn/auto/20260425/ea218722c9794a1486bd9a8f7338f68f/c.html",
+            "publishedAt": "2026-04-25",
+            "summary": "四维图新在北京车展展示云、驾、舱、芯全栈方案，并披露座舱新增定点 135 万套、海外导航新增定点 100 万套。",
+            "highlight": "定点规模显示其软硬一体座舱与出海数据服务开始形成量产基础。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "斑马智行",
+        "category": "座舱 / 软件供应商",
+        "focus": "智能座舱操作系统（阿里系）",
+        "priority": "待定",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "斑马智能与紫光展锐联合发布端侧 AI BOX",
+            "source": "斑马智能",
+            "sourceUrl": "https://www.zebred.com/",
+            "publishedAt": "2026-04-26",
+            "summary": "斑马智能与紫光展锐推出面向智能座舱的端侧 AI BOX，延续 A8880 芯片与 OS 软件基线合作，并推进端侧大模型适配。",
+            "highlight": "芯片、OS 与 AI BOX 的组合可加快存量车型 AI 升级；同时需关注元神 AI 在宝马和比亚迪项目上的量产表现。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "元神 AI 上车宝马，智能座舱进入 Agentic AI 阶段",
+            "source": "斑马智能",
+            "sourceUrl": "https://www.zebred.com/",
+            "publishedAt": "2026-04-24",
+            "summary": "宝马基于千问大模型和斑马元神 AI 推出座舱智能体，强调从对话交互升级到任务执行。",
+            "highlight": "豪华品牌量产项目将验证阿里系座舱 AI 的国际车企适配和交付能力。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "极豆",
+        "category": "座舱 / 软件供应商",
+        "focus": "AI 座舱、云平台运营",
+        "priority": "待定",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "极豆展示“沧海大模型”AI 汽车座舱方案",
+            "source": "2026 北京国际车展参展信息",
+            "sourceUrl": "https://www.bagevent.com/event/9164418",
+            "publishedAt": "2026-04-24",
+            "summary": "公开车展信息显示，极豆科技在 2026 北京车展展示“沧海大模型”AI 汽车座舱与相关云端运营能力。",
+            "highlight": "公开信息较少，本条保留为当前可验证基线；下一步重点监测车企定点、量产车型及云运营项目。",
+            "confidence": "中"
+          },
+          {
+            "newsTitle": "极豆入选毕马威中国领先汽车科技 50",
+            "source": "毕马威中国",
+            "sourceUrl": "https://assets.kpmg.com/content/dam/kpmg/cn/pdf/zh/2025/10/china-leading-autotech-50.pdf",
+            "publishedAt": "2025-10-30",
+            "summary": "毕马威报告将极豆列为汽车座舱 AI 与数字化解决方案企业，披露其服务多个车企和品牌的量产运营基础。",
+            "highlight": "公开项目细节仍有限，后续应重点观察新增车企定点和车型量产。",
+            "confidence": "中"
+          }
+        ]
+      },
+      {
+        "name": "魔视智能",
+        "category": "座舱 / 软件供应商",
+        "focus": "泊车方案、AI 驱动第三方方案",
+        "priority": "待定",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "魔视智能披露 L0–L4 全产品线与规模化前装能力",
+            "source": "DOIT",
+            "sourceUrl": "https://www.doit.com.cn/itnews/819442016522309.html",
+            "publishedAt": "2026-05-25",
+            "summary": "魔视智能介绍 Magic Drive、Magic Parking 与 Magic Safety 三条产品线，并强调行泊一体方案已规模化前装落地。",
+            "highlight": "产品线覆盖面和实际量产规模，是评估其第三方智驾方案竞争力的核心。",
+            "confidence": "中"
+          },
+          {
+            "newsTitle": "基于爱芯 M57 发布新一代行泊一体域控",
+            "source": "爱芯元智",
+            "sourceUrl": "https://www.axera-tech.com/zh-hans/news/3213.html",
+            "publishedAt": "2026-04-25",
+            "summary": "魔视智能发布基于 M57 的行泊一体域控，覆盖主流行车与泊车功能，并披露头部车企多款车型量产定点。",
+            "highlight": "第三方算法与国产芯片软硬协同已进入量产阶段，需跟踪具体 OEM、SOP 与海外适配能力。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "车联天下",
+        "category": "座舱 / 软件供应商",
+        "focus": "座舱域控制器、生态运营",
+        "priority": "待定",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "从全系域控扩展至中央计算，AL-A2 支持 13B 端侧大模型",
+            "source": "车联天下",
+            "sourceUrl": "https://www.auto-link.com.cn/news/details_490_2738.html",
+            "publishedAt": "2026-06-15",
+            "summary": "车联天下展示覆盖座舱、舱驾融合和中央计算的产品矩阵；基于骁龙 8797 的 AL-A2 支持 13B 端侧大模型本地部署。",
+            "highlight": "产品线已从座舱域控向中央计算平台迁移，可能扩大与高通平台、AI Agent 和整车电子电气架构的合作面。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "车联天下与高通合作推进 AI 中央计算平台",
+            "source": "车联天下",
+            "sourceUrl": "https://en.auto-link.com.cn/news/details_539_2742.html",
+            "publishedAt": "2026-06-09",
+            "summary": "车联天下在高通汽车技术峰会展示基于 8797 的舱驾融合域控、端侧 13B 大模型和 AI Box。",
+            "highlight": "与高通的长期合作正从座舱域控延伸到舱驾融合与中央计算。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "华勤",
+        "category": "EMS / 代工",
+        "focus": "车载 EMS 代工、智能汽车电子",
+        "priority": "待定",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "华勤展示单 Thor、双 Thor 与 J6M 全系列 ADAS 域控",
+            "source": "华勤技术",
+            "sourceUrl": "https://www.huaqin.com/about/news/193",
+            "publishedAt": "2026-05-02",
+            "summary": "华勤在北京车展展示覆盖座舱、智驾、车身与全域 SOA 的汽车电子方案，包括单/双 NVIDIA Thor 和地平线 J6M 域控。",
+            "highlight": "华勤已从 EMS 制造延伸至全栈域控设计，单 Thor 域控计划在 2026 年第三季度于主流车企量产。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "华勤基于 NVIDIA DRIVE Thor 推出 ADAS 域控",
+            "source": "华勤技术",
+            "sourceUrl": "https://www.huaqin.com/about/news/191",
+            "publishedAt": "2026-04-24",
+            "summary": "华勤宣布与 NVIDIA 合作开发搭载 DriveOS 的 Thor ADAS 域控，计划于 2026 年内量产。",
+            "highlight": "华勤从制造服务进入高算力智驾域控，有望扩大其汽车电子业务边界。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "科博达",
+        "category": "传统 Tier 1 / 零部件",
+        "focus": "照明控制、电机控制、中央计算平台",
+        "priority": "关注",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "募资扩建汽车中央计算和 ADAS 域控制器产能",
+            "source": "科博达公告 / 中财网",
+            "sourceUrl": "https://www.cfi.net.cn/p20260722001282.html",
+            "publishedAt": "2026-07-22",
+            "summary": "科博达披露募集资金计划，拟用于安徽汽车中央计算平台及智能驾驶域控制器相关产能和研发能力建设。",
+            "highlight": "资本开支方向显示其正在从传统控制器向中央计算和 ADAS 域控扩张，可能带来新的芯片与软件合作需求。",
+            "confidence": "中"
+          },
+          {
+            "newsTitle": "科博达披露中央计算与智能驾驶域控项目规划",
+            "source": "科博达公告",
+            "sourceUrl": "https://pdf.dfcfw.com/pdf/H2_AN202603161820580119_1.pdf?1773683849000.pdf=",
+            "publishedAt": "2026-03-16",
+            "summary": "科博达在审核问询回复中说明中央计算平台与智能驾驶域控制器的产品定位和建设规划。",
+            "highlight": "项目规划显示其高算力域控业务已进入明确的产能与商业化准备阶段。",
+            "confidence": "中"
+          }
+        ]
+      },
+      {
+        "name": "威孚智感",
+        "category": "传统 Tier 1 / 零部件",
+        "focus": "毫米波雷达、博世在华合作",
+        "priority": "待定",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "博世第六代角雷达进入量产，威孚智感获得多家车企定点",
+            "source": "每日经济新闻",
+            "sourceUrl": "https://www.nbd.com.cn/articles/2026-01-20/4227403.html",
+            "publishedAt": "2026-01-20",
+            "summary": "公开报道显示，威孚智感参与的博世第六代角雷达已进入量产，并获得多家车企项目定点。",
+            "highlight": "虽然发布时间较早，但仍是当前最新有效汽车业务基线；需持续追踪量产爬坡、客户车型和博世合作边界。",
+            "confidence": "中"
+          },
+          {
+            "newsTitle": "博世雷达团队与威孚智感推进 CR60 Light 项目 SOP",
+            "source": "威孚智感",
+            "sourceUrl": "https://wfss.weifu.com.cn/about/12.html",
+            "publishedAt": "2025-07-22",
+            "summary": "博世雷达团队与威孚智感复盘 CR60 Light 项目并推进量产准备，目标按计划实现 SOP。",
+            "highlight": "该项目可用于判断双方在雷达研发、制造和供应链协同上的实际深度。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "腾讯",
+        "category": "云 / AI 平台",
+        "focus": "云合作、座舱 AI、智驾方案",
+        "priority": "活跃",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "腾讯推进智能座舱 Agent 化，以标准协议连接车端服务",
+            "source": "腾讯云开发者社区",
+            "sourceUrl": "https://cloud.tencent.com/developer/article/2680553",
+            "publishedAt": "2026-06-01",
+            "summary": "腾讯分享智能座舱 Agent 技术路径，强调通过标准化协议连接车端能力、云服务和生态应用，推动座舱从语音助手转向任务型智能体。",
+            "highlight": "标准化 Agent 接口可能改变座舱应用集成和云端运营模式，应关注与车企、OS 和域控伙伴的量产合作。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "腾讯将微信生态与座舱 Agent 结合形成服务闭环",
+            "source": "腾讯云开发者社区",
+            "sourceUrl": "https://developer.cloud.tencent.com/article/2677373",
+            "publishedAt": "2026-05-30",
+            "summary": "腾讯介绍微信生态、端云融合和 AI Agent 在座舱通讯、互联、娱乐与控车场景的落地实践。",
+            "highlight": "生态服务与车端 Agent 的结合可能提升腾讯在座舱运营和用户触达环节的价值。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "阿里云",
+        "category": "云 / AI 平台",
+        "focus": "PAI、通义千问、数据流水线",
+        "priority": "活跃",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "一汽行业大模型基于阿里云百炼开放，覆盖数据到评测流水线",
+            "source": "新华网",
+            "sourceUrl": "https://www.news.cn/tech/20260716/490af8c95b5e4f33adee78c8eb97baaf/c.html",
+            "publishedAt": "2026-07-16",
+            "summary": "一汽行业大模型基于阿里云百炼平台开放，覆盖数据处理、训练、部署和评测等环节，并面向汽车产业场景扩展。",
+            "highlight": "阿里云正在把通用模型平台嵌入汽车研发数据流水线，可能影响 PAI、通义和企业数据治理项目机会。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "元神 AI 大模型智能座舱 Agent 平台上架阿里云市场",
+            "source": "阿里云",
+            "sourceUrl": "https://market.aliyun.com/detail/cmgj00073936.html",
+            "publishedAt": "2026-05-18",
+            "summary": "斑马元神 AI 作为智能座舱 Agent 平台上架阿里云市场，提供场景感知、服务组织和认知进化能力。",
+            "highlight": "产品化上架有助于阿里云把模型、PAI 与座舱解决方案形成标准化交付。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "上研智联",
+        "category": "测试 / 合规",
+        "focus": "自动驾驶测试、数据跨境合规",
+        "priority": "关注",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "展示 AIGC 场景生成、数字孪生与智能网联测试能力",
+            "source": "MBAChina 企业参访",
+            "sourceUrl": "https://www.mba.org.cn/article?id=2927",
+            "publishedAt": "2026-01-09",
+            "summary": "公开参访信息展示上研智联在自动驾驶测试、AIGC 场景泛化、数字孪生和测试数据服务方面的能力。",
+            "highlight": "公开新闻频率较低，本条作为现有最新基线；应额外监测临港测试项目、数据跨境合规资质与 OEM 客户案例。",
+            "confidence": "中"
+          },
+          {
+            "newsTitle": "上研智联与上海电机学院共建智能网联联合实验室",
+            "source": "上海电机学院",
+            "sourceUrl": "https://news.sdju.edu.cn/2025/1026/c471a145733/page.htm",
+            "publishedAt": "2025-10-27",
+            "summary": "双方共建联合实验室，合作覆盖封闭测试、开放道路测试、仿真验证和人才培养。",
+            "highlight": "联合实验室可增强其测试验证人才与场景资源，支撑临港相关项目交付。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "中汽中心 CATARC",
+        "category": "测试 / 合规",
+        "focus": "标准与测试",
+        "priority": "待定",
+        "status": "NO CHANGE",
+        "news": [
+          {
+            "newsTitle": "中汽中心推动组合驾驶辅助强制国标宣贯落地",
+            "source": "中汽中心",
+            "sourceUrl": "https://www.catarc.ac.cn/detail/57c601eb42b248249e11a873c8089471",
+            "publishedAt": "2026-07-02",
+            "summary": "中汽中心参与 GB 47955—2026 的制定与宣贯，标准将于 2027 年 1 月 1 日实施。",
+            "highlight": "强标宣贯会直接影响 ADAS 产品定义、测试方法和项目合规节点。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "C-ICAP 2026 版评价规程正式实施",
+            "source": "中汽中心",
+            "sourceUrl": "https://www.catarc.ac.cn/mobile/detail/4754e93755c34fbbbc1caebc54a57b76",
+            "publishedAt": "2026-07-01",
+            "summary": "中汽中心启动 C-ICAP 2026 版评价规程实施，更新智能座舱评价框架和相关测试要求。",
+            "highlight": "中汽中心同时参与自动驾驶安全强标与座舱评价，适合作为政策、标准和验证需求变化的核心信号源。",
+            "confidence": "高"
+          }
+        ]
+      }
+    ]
+  },
+  "2026-07-30": {
+    "generatedAt": "2026-07-30T08:00:00+08:00",
+    "industryNews": [
+      {
+        "id": "oem-momenta-kba-l4",
+        "category": "车企动态 | OEM Trend",
+        "title": "Momenta 获德国 KBA 全境城市道路 L4 测试许可",
+        "source": "澎湃新闻 / 新浪汽车",
+        "sourceUrl": "https://k.sina.com.cn/article_5044281310_12ca99fde02002k2sm.html?from=auto",
+        "publishedAt": "2026-07-29",
+        "detectedAt": "2026-07-30",
+        "summary": "Momenta 宣布获得德国联邦机动车运输管理局（KBA）许可，可在德国全国范围内的城市道路开展 L4 级自动驾驶测试。公开报道将其称为首家获得德国全境城市道路 L4 测试资质的中国企业。",
+        "highlight": "这是中国智驾方案进入欧洲高等级自动驾驶验证体系的重要门槛突破，直接提高其在德国车企项目、本地测试与合规合作中的竞争力。",
+        "tags": [
+          "Momenta",
+          "KBA",
+          "德国",
+          "L4",
+          "合规"
+        ],
+        "confidence": "高",
+        "isNew": true
+      },
+      {
+        "id": "oem-vw-carizon-mass-production",
+        "category": "车企动态 | OEM Trend",
+        "title": "大众与地平线合资公司酷睿程全场景智驾方案进入量产",
+        "source": "大众汽车集团（中国）",
+        "sourceUrl": "https://mediacenter.volkswagengroupchina.com.cn/MediaCenter/News/Detail?itemid=3bfa4402-7dcb-45d4-888e-8990455427b9",
+        "publishedAt": "2026-07-22",
+        "detectedAt": "2026-07-30",
+        "summary": "大众汽车集团（中国）宣布，酷睿程全场景高级驾驶辅助解决方案将于 2026 年第三季度起陆续搭载于集团在华合资企业的 7 款纯电车型，并继续深化 AI 基座大模型合作。",
+        "highlight": "合作已从研发验证进入跨品牌、多车型量产，后续 SoC、域控、传感器和基础软件采购有望形成平台级放量。",
+        "tags": [
+          "大众",
+          "地平线",
+          "酷睿程",
+          "量产",
+          "ADAS"
+        ],
+        "confidence": "高",
+        "isNew": true
+      },
+      {
+        "id": "parts-chip-price-pressure",
+        "category": "零部件企业 | Parts Enterprises",
+        "title": "AI 需求挤占成熟制程与存储产能，汽车电子出现涨价与缺货压力",
+        "source": "快科技 / 新浪财经",
+        "sourceUrl": "https://finance.sina.com.cn/tech/roll/2026-07-03/doc-inifpkay3642974.shtml",
+        "publishedAt": "2026-07-03",
+        "detectedAt": "2026-07-30",
+        "summary": "报道指出，AI 基础设施需求正推高存储、功率半导体、电容和 PCB 等多个环节的供需压力，部分汽车电子品类的缺货风险高于单纯价格上涨风险。",
+        "highlight": "建议把 DRAM、功率器件和高阶 PCB 的报价与交期列为周度采购信号；消费电子侧涨价可能沿供应链传导至车规产品。",
+        "tags": [
+          "芯片",
+          "DRAM",
+          "功率器件",
+          "涨价",
+          "交期"
+        ],
+        "confidence": "中",
+        "isNew": false
+      },
+      {
+        "id": "parts-robosense-delivery",
+        "category": "零部件企业 | Parts Enterprises",
+        "title": "速腾聚创上半年交付 71.92 万台激光雷达，机器人业务同比增长 510%",
+        "source": "盖世汽车",
+        "sourceUrl": "https://www.gasgoo.com/robot/news/70465061-%E9%80%9F%E8%85%BE%E8%81%9A%E5%88%9B%E4%B8%8A%E5%8D%8A%E5%B9%B4%E4%BA%A4%E4%BB%9871-92%E4%B8%87%E5%8F%B0%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE/",
+        "publishedAt": "2026-07-09",
+        "detectedAt": "2026-07-30",
+        "summary": "盖世汽车援引企业数据称，速腾聚创 2026 年上半年交付激光雷达 71.92 万台；截至一季度末已获得 36 家整车厂、177 款车型定点，机器人业务交付增速显著。",
+        "highlight": "激光雷达规模化继续压低单车成本，同时机器人需求可能重新分配供应商产能与研发资源。",
+        "tags": [
+          "激光雷达",
+          "交付",
+          "定点",
+          "机器人"
+        ],
+        "confidence": "中",
+        "isNew": false
+      },
+      {
+        "id": "economy-bosch-cariad-ai-stack",
+        "category": "产经聚焦 | Industrial Economy",
+        "title": "博世与 CARIAD 推进 AI 驱动 L2 软件栈，支持跨车型平台复用",
+        "source": "车质网 / 盖世汽车",
+        "sourceUrl": "https://www.12365auto.com/news/20260703/571293.shtml",
+        "publishedAt": "2026-07-03",
+        "detectedAt": "2026-07-30",
+        "summary": "博世与大众集团软件公司 CARIAD 推进 AI 驱动的 L2 驾驶软件栈，目标是在不同细分市场和车辆平台上复用，并持续扩展感知、规划和驾驶功能。",
+        "highlight": "跨平台软件栈会强化软硬件接口标准化，影响智驾 SoC、传感器、域控和验证工具的进入方式。",
+        "tags": [
+          "博世",
+          "CARIAD",
+          "L2",
+          "软件栈",
+          "平台化"
+        ],
+        "confidence": "中",
+        "isNew": false
+      },
+      {
+        "id": "economy-l2-penetration",
+        "category": "产经聚焦 | Industrial Economy",
+        "title": "组合驾驶辅助渗透率升至 70.5%，舱驾融合芯片加快迭代",
+        "source": "新华网",
+        "sourceUrl": "https://www.news.cn/fortune/20260728/f86ba7e880204855be8547f63e1a2560/c.html",
+        "publishedAt": "2026-07-28",
+        "detectedAt": "2026-07-30",
+        "summary": "2026 世界智能网联汽车大会相关信息显示，组合驾驶辅助渗透率继续提升，大算力智驾芯片和舱驾融合芯片进入加速迭代阶段。",
+        "highlight": "智驾正在从选装功能转为规模化平台能力，芯片、域控、基础软件和测试合规的项目窗口同步扩大。",
+        "tags": [
+          "渗透率",
+          "舱驾融合",
+          "智驾芯片",
+          "量产"
+        ],
+        "confidence": "高",
+        "isNew": true
+      },
+      {
+        "id": "policy-gb47955",
+        "category": "政策动态 | Policy Situation",
+        "title": "组合驾驶辅助安全强制国标 GB 47955—2026 正式发布",
+        "source": "工业和信息化部",
+        "sourceUrl": "https://www.miit.gov.cn/jgsj/zbys/gzdt/art/2026/art_597aed2718264440a0caa19e883f8d74.html",
+        "publishedAt": "2026-07-02",
+        "detectedAt": "2026-07-30",
+        "summary": "工信部发布《智能网联汽车 组合驾驶辅助系统安全要求》强制性国家标准，覆盖功能、人机交互、数据记录、企业安全保障以及场地和道路试验，拟于 2027 年 1 月 1 日实施。",
+        "highlight": "所有 L2/NOA 相关项目需要提前对照新强标做差距分析，尤其是驾驶员状态检测、用户告知、数据记录和道路试验。",
+        "tags": [
+          "GB47955",
+          "强制国标",
+          "ADAS",
+          "测试",
+          "合规"
+        ],
+        "confidence": "高",
+        "isNew": false
+      },
+      {
+        "id": "policy-cicap-2026",
+        "category": "政策动态 | Policy Situation",
+        "title": "C-ICAP 2026 版规程开始实施，智能座舱评价要求升级",
+        "source": "中汽中心",
+        "sourceUrl": "https://www.catarc.ac.cn/mobile/detail/4754e93755c34fbbbc1caebc54a57b76",
+        "publishedAt": "2026-07-01",
+        "detectedAt": "2026-07-30",
+        "summary": "中汽中心 C-ICAP 2026 版评价规程自 7 月 1 日起实施，对智能座舱的人机交互、功能体验和安全相关能力提出新的评价框架。",
+        "highlight": "座舱 OS、域控、语音大模型和人机交互供应商需要把新规程转化为产品需求与测试用例。",
+        "tags": [
+          "C-ICAP",
+          "智能座舱",
+          "测评",
+          "合规"
+        ],
+        "confidence": "高",
+        "isNew": false
+      },
+      {
+        "id": "people-bosch-ceo",
+        "category": "人事变动 | Change of Personnel",
+        "title": "Christian Fischer 于 7 月 1 日出任博世集团管理董事会主席",
+        "source": "博世集团",
+        "sourceUrl": "https://www.grupo-bosch.es/prensa/2026/christian-fischer-asumira-la-presidencia-del-consejo-de-administracion-de-bosch-el-proximo-1-de-julio/",
+        "publishedAt": "2026-07-01",
+        "detectedAt": "2026-07-30",
+        "summary": "Christian Fischer 接任博世集团管理董事会主席，新的最高管理层分工于 7 月 1 日生效。",
+        "highlight": "集团最高管理层更替可能带来业务组合、软件与 AI 投资以及区域合作优先级的调整，需跟踪其首轮战略表态。",
+        "tags": [
+          "博世",
+          "CEO",
+          "管理层",
+          "战略"
+        ],
+        "confidence": "高",
+        "isNew": false
+      },
+      {
+        "id": "people-stellantis-brands",
+        "category": "人事变动 | Change of Personnel",
+        "title": "Stellantis 任命 Ram 与 Jeep 品牌新负责人",
+        "source": "Stellantis",
+        "sourceUrl": "https://www.stellantis.com/en/news/press-releases/2026/july/stellantis-announces-appointments-of-veteran-industry-executives-to-lead-ram-and-jeep-brands",
+        "publishedAt": "2026-07-20",
+        "detectedAt": "2026-07-30",
+        "summary": "Stellantis 宣布由资深汽车行业高管分别领导 Ram 与 Jeep 品牌，强化北美核心品牌的产品与经营责任。",
+        "highlight": "关键品牌负责人变更可能影响平台投资、供应商定点与北美车型项目节奏，建议同步跟踪采购和技术团队变化。",
+        "tags": [
+          "Stellantis",
+          "Jeep",
+          "Ram",
+          "人事"
+        ],
+        "confidence": "高",
+        "isNew": false
+      }
+    ],
+    "partners": [
+      {
+        "name": "地平线",
+        "category": "芯片供应商",
+        "focus": "征程系列 AI 芯片",
+        "priority": "关注",
+        "status": "BASELINE",
+        "news": [
+          {
+            "newsTitle": "大众与地平线合资公司酷睿程全场景智驾方案进入量产",
+            "source": "大众汽车集团（中国）",
+            "sourceUrl": "https://mediacenter.volkswagengroupchina.com.cn/MediaCenter/News/Detail?itemid=3bfa4402-7dcb-45d4-888e-8990455427b9",
+            "publishedAt": "2026-07-22",
+            "summary": "酷睿程全场景高级驾驶辅助方案将从第三季度起陆续搭载于大众集团在华合资企业的 7 款纯电车型。",
+            "highlight": "地平线能力进入大众在华多车型量产，是征程平台放量和集团级复用的重要信号。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "地平线携舱驾融合芯片与整车智能产品亮相北京车展",
+            "source": "地平线",
+            "sourceUrl": "https://www.horizon.auto/news/press/451",
+            "publishedAt": "2026-04-24",
+            "summary": "地平线集中展示星空舱驾融合芯片、整车智能体操作系统、HSD V1.6 与征程系列产品。",
+            "highlight": "产品边界从单一智驾芯片扩展到舱驾融合与整车操作系统，可能改变平台合作范围。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "英伟达",
+        "category": "芯片供应商",
+        "focus": "Orin / Thor 自动驾驶 SoC",
+        "priority": "关注",
+        "status": "BASELINE",
+        "news": [
+          {
+            "newsTitle": "NVIDIA 强调 Robotaxi 安全需贯穿开发与部署全栈",
+            "source": "NVIDIA Blog",
+            "sourceUrl": "https://blogs.nvidia.com/blog/category/auto/",
+            "publishedAt": "2026-06-10",
+            "summary": "NVIDIA 从芯片、DriveOS、仿真、验证和运营多个层面阐述 Robotaxi 的全栈安全方法。",
+            "highlight": "安全体系正成为 DRIVE 平台争取 L4 项目的核心差异化能力。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "NVIDIA 发布提升自动驾驶泛化与车端推理效率的新研究",
+            "source": "NVIDIA Blog",
+            "sourceUrl": "https://blogs.nvidia.com/blog/cvpr-research-grasping-driving-agent-training/",
+            "publishedAt": "2026-06-03",
+            "summary": "NVIDIA 在 CVPR 相关研究中展示面向自动驾驶的规模化训练方法，重点关注复杂场景泛化与在实际车载硬件上的实时推理效率。",
+            "highlight": "研究方向会增强 DRIVE/Thor 软件工具链的竞争力，并影响客户对端到端模型训练、仿真和车端部署的技术路线。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "奔驰新 S 级采用 NVIDIA DRIVE AV，支持 L4-ready 架构",
+            "source": "NVIDIA Blog",
+            "sourceUrl": "https://blogs.nvidia.com/blog/mercedes-benz-l4-s-class-drive-av-platform/",
+            "publishedAt": "2026-01-29",
+            "summary": "新一代奔驰 S 级将结合 MB.OS、DRIVE Hyperion 与 NVIDIA DRIVE AV L4 软件，面向未来 Robotaxi 场景。",
+            "highlight": "高端量产车型成为 NVIDIA 从 L2 软件向 L4-ready 平台延伸的重要载体。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "高通",
+        "category": "芯片供应商",
+        "focus": "骁龙座舱 / 智驾芯片",
+        "priority": "活跃",
+        "status": "BASELINE",
+        "news": [
+          {
+            "newsTitle": "高通详解 Snapdragon Ride Pilot 的可扩展自动驾驶架构",
+            "source": "Qualcomm Automotive",
+            "sourceUrl": "https://www.qualcomm.com/automotive/news-and-resources",
+            "publishedAt": "2026-07-06",
+            "summary": "高通发布 Ride Pilot 架构文章，强调异构计算、跨车型层级扩展以及从基础 ADAS 到城市和高速辅助驾驶的软件复用。",
+            "highlight": "高通正用芯片加完整软件栈扩大智驾平台影响力；其与博世在 ADAS 方案上的合作值得结合项目定点持续追踪。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "高通与博世将战略合作扩展至量产 ADAS 平台",
+            "source": "Qualcomm",
+            "sourceUrl": "https://www.qualcomm.com/news/releases/2026/04/bosch-and-qualcomm-expand-collaboration-to-strategic-adas-soluti",
+            "publishedAt": "2026-04-10",
+            "summary": "双方把合作从座舱计算扩展到 Snapdragon Ride 与 Ride Flex 驱动的 ADAS 和跨域计算方案，并披露多个全球客户定点。",
+            "highlight": "这是高通汽车平台与 Tier 1 系统集成能力绑定加深的直接信号。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "MTK",
+        "category": "芯片供应商",
+        "focus": "Dimensity Auto 车载座舱与连接平台",
+        "priority": "待定",
+        "status": "BASELINE",
+        "news": [
+          {
+            "newsTitle": "MediaTek 在一季度说明会上确认 3nm Dimensity Auto 量产推进",
+            "source": "MediaTek",
+            "sourceUrl": "https://www.mediatek.com/hubfs/MediaTek%20Assets/Pdfs/Quarterly%20Earnings%20Release/2026/Quarterly%20Earnings%20Release-2026Q1/%E8%AA%AA%E6%98%8E%E6%9C%83%E9%80%90%E5%AD%97%E7%A8%BF.pdf",
+            "publishedAt": "2026-05-05",
+            "summary": "MediaTek 表示 3nm Dimensity Auto 座舱平台已在北京车展展示，相关客户项目于 2026 年推进量产。",
+            "highlight": "量产客户和下一代 2nm 路线将决定 MTK 在高端座舱平台的实际竞争力。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "MediaTek 发布主动智能座舱方案，C-X1 提供最高 400 TOPS AI 算力",
+            "source": "MediaTek",
+            "sourceUrl": "https://www.mediatek.com/press-room/mediatek-showcases-its-active-intelligent-cockpit-solution-ushering-the-industry-into-new-era-of-ai-defined-vehicles",
+            "publishedAt": "2026-04-24",
+            "summary": "MediaTek 在北京车展展示 Dimensity Auto 主动智能座舱方案；3nm C-X1 支持最高 400 TOPS 全模态 AI 算力、多模型并发与 NVIDIA CUDA 生态。",
+            "highlight": "即使没有当月新闻，该条仍作为 MTK 当前最新有效汽车业务基线保留；需跟踪 2026 年量产客户和平台定点。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "爱芯",
+        "category": "芯片供应商",
+        "focus": "9031E、M57 芯片",
+        "priority": "关注",
+        "status": "BASELINE",
+        "news": [
+          {
+            "newsTitle": "M57 赋能魔视智能行泊一体域控，多款车型进入量产定点",
+            "source": "爱芯元智",
+            "sourceUrl": "https://www.axera-tech.com/zh-hans/news/3213.html",
+            "publishedAt": "2026-04-25",
+            "summary": "魔视智能基于爱芯 M57 打造新一代行泊一体域控，覆盖主流 L2+ 行泊功能，并获得头部车企多款车型量产定点。",
+            "highlight": "M57 已从芯片发布进入域控和车型定点阶段，需关注交付规模、客户结构与 9031E/M57 项目切换。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "爱芯展示全系智能汽车芯片与座舱、智驾解决方案",
+            "source": "爱芯元智",
+            "sourceUrl": "https://axera-tech.com/zh-hans/news/3214.html",
+            "publishedAt": "2026-04-24",
+            "summary": "爱芯展示覆盖 M55、M57、M76H 和 M97 的产品组合，覆盖 CMS、DMS/OMS、AI Box 与辅助驾驶场景。",
+            "highlight": "完整产品梯度有利于同一客户在不同车型和算力档位复用工具链。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "长鑫科技",
+        "category": "芯片供应商",
+        "focus": "DRAM 存储芯片",
+        "priority": "待定",
+        "status": "BASELINE",
+        "news": [
+          {
+            "newsTitle": "长鑫科技科创板 IPO 获受理，车载 DRAM 被列为重要应用",
+            "source": "每日经济新闻",
+            "sourceUrl": "https://www.nbd.com.cn/articles/2026-05-28/4411410.html",
+            "publishedAt": "2026-05-28",
+            "summary": "长鑫科技科创板 IPO 获受理。招股材料披露其 DRAM 产品覆盖多类应用，汽车电子是重点拓展场景之一。",
+            "highlight": "资本开支与车规产品能力扩张可能改变本土 DRAM 供应格局，应跟踪车规认证、客户导入和价格策略。",
+            "confidence": "中"
+          },
+          {
+            "newsTitle": "长鑫更新上市材料，智能汽车被列为 DRAM 重点应用",
+            "source": "中国电子报",
+            "sourceUrl": "https://epaper.cena.com.cn/pc/attachment/202605/22/7a79b20b-e10a-42aa-8a7b-1a23b37a3388.pdf",
+            "publishedAt": "2026-05-22",
+            "summary": "上市材料更新显示长鑫持续扩展 DRAM 产品代际与产能，智能汽车是重点终端应用之一。",
+            "highlight": "国产 DRAM 产能与产品升级可能影响车规存储的供应安全和价格谈判。",
+            "confidence": "中"
+          }
+        ]
+      },
+      {
+        "name": "大疆",
+        "category": "算法供应商",
+        "focus": "8650 / J6M 海外项目",
+        "priority": "关注",
+        "status": "BASELINE",
+        "news": [
+          {
+            "newsTitle": "卓驭科技设立欧洲总部，推进大众 ID. Buzz 本地验证",
+            "source": "新华网",
+            "sourceUrl": "https://www.xinhuanet.com/auto/20260529/4d20a3d6cb874c8da197a0950b249d08/c.html",
+            "publishedAt": "2026-05-29",
+            "summary": "卓驭科技在德国布伦瑞克设立欧洲总部，并推进大众 ID. Buzz 智驾方案本地 PoC，展示多模态基础模型与海外工程能力。",
+            "highlight": "欧洲本地化组织和大众项目验证是其 8650/J6M 海外落地的领先指标，需继续跟踪量产定点与合规测试。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "卓驭发布高悟性端到端 4.0，覆盖 8650 与 8775 平台",
+            "source": "卓驭科技",
+            "sourceUrl": "https://www.zyt.com/zh/news/",
+            "publishedAt": "2026-04-24",
+            "summary": "卓驭宣布高悟性端到端 4.0 自 4 月起向高通 8650 与 8775 车型 OTA，并披露红旗与商用车项目进展。",
+            "highlight": "端到端模型跨平台量产与 OTA 节奏，是判断其海外和多车型复制能力的关键。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "文远知行",
+        "category": "算法供应商",
+        "focus": "L4 Robotaxi、L2++ ADAS",
+        "priority": "待定",
+        "status": "BASELINE",
+        "news": [
+          {
+            "newsTitle": "文远知行发布物理 AI 大模型 WITT",
+            "source": "文远知行",
+            "sourceUrl": "https://zh.weride.ai/zh/press",
+            "publishedAt": "2026-07-17",
+            "summary": "文远知行发布 WITT 物理 AI 认知基础模型，强调基于物理事实构建世界认知，并服务于自动驾驶产品矩阵。",
+            "highlight": "基础模型能力可能同时影响 Robotaxi 与 L2++ 产品迭代；另需跟踪 7 月 13 日一段式端到端 L2++ 方案出海进展。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "文远知行 L2++ 一段式端到端方案加速出海",
+            "source": "文远知行",
+            "sourceUrl": "https://zh.weride.ai/zh/press",
+            "publishedAt": "2026-07-13",
+            "summary": "文远知行披露 L2++ 一段式端到端方案的全球化推进，强调跨区域、跨车型的适配能力。",
+            "highlight": "L2++ 与 L4 双线出海将扩大其对芯片、云平台和合规测试伙伴的需求。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "轻舟智航",
+        "category": "算法供应商",
+        "focus": "城市 NOA、高速 NOA",
+        "priority": "关注",
+        "status": "BASELINE",
+        "news": [
+          {
+            "newsTitle": "发布物理 AI 模型，以 500 TOPS 级方案对标更高算力体验",
+            "source": "轻舟智航",
+            "sourceUrl": "https://www.qcraft.ai/news",
+            "publishedAt": "2026-04-24",
+            "summary": "轻舟智航在北京车展发布物理 AI 模型和新一代智驾方案，并披露 21 款新车型处于量产交付推进中。",
+            "highlight": "除高算力方案外，单征程 6M 城市 NOA 的规模化表现仍是判断其成本与落地能力的关键。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "轻舟智航量产版图扩至 21 款新车型",
+            "source": "轻舟智航",
+            "sourceUrl": "https://www.qcraft.ai/news",
+            "publishedAt": "2026-04-07",
+            "summary": "轻舟智航披露 21 款新车型处于密集量产交付阶段，覆盖不同算力平台与车型层级。",
+            "highlight": "车型数量扩大有助于验证其城市 NOA 方案的工程复用与交付效率。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "四维图新",
+        "category": "座舱 / 软件供应商",
+        "focus": "座舱软硬一体、操作系统",
+        "priority": "待定",
+        "status": "BASELINE",
+        "news": [
+          {
+            "newsTitle": "杰发科技展示新一代汽车芯片与舱驾融合布局",
+            "source": "新浪财经",
+            "sourceUrl": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-01/doc-inifiaeq0922736.shtml",
+            "publishedAt": "2026-07-01",
+            "summary": "四维图新旗下杰发科技在 2026 慕尼黑上海电子展展示汽车电子芯片与座舱、控制和连接相关产品布局。",
+            "highlight": "四维图新正强化从地图与软件向芯片加软硬一体延伸，需关注其座舱平台量产定点和海外项目。",
+            "confidence": "中"
+          },
+          {
+            "newsTitle": "四维图新披露座舱新增定点 135 万套",
+            "source": "新华网",
+            "sourceUrl": "https://www.news.cn/auto/20260425/ea218722c9794a1486bd9a8f7338f68f/c.html",
+            "publishedAt": "2026-04-25",
+            "summary": "四维图新在北京车展展示云、驾、舱、芯全栈方案，并披露座舱新增定点 135 万套、海外导航新增定点 100 万套。",
+            "highlight": "定点规模显示其软硬一体座舱与出海数据服务开始形成量产基础。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "斑马智行",
+        "category": "座舱 / 软件供应商",
+        "focus": "智能座舱操作系统（阿里系）",
+        "priority": "待定",
+        "status": "BASELINE",
+        "news": [
+          {
+            "newsTitle": "斑马智能与紫光展锐联合发布端侧 AI BOX",
+            "source": "斑马智能",
+            "sourceUrl": "https://www.zebred.com/",
+            "publishedAt": "2026-04-26",
+            "summary": "斑马智能与紫光展锐推出面向智能座舱的端侧 AI BOX，延续 A8880 芯片与 OS 软件基线合作，并推进端侧大模型适配。",
+            "highlight": "芯片、OS 与 AI BOX 的组合可加快存量车型 AI 升级；同时需关注元神 AI 在宝马和比亚迪项目上的量产表现。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "元神 AI 上车宝马，智能座舱进入 Agentic AI 阶段",
+            "source": "斑马智能",
+            "sourceUrl": "https://www.zebred.com/",
+            "publishedAt": "2026-04-24",
+            "summary": "宝马基于千问大模型和斑马元神 AI 推出座舱智能体，强调从对话交互升级到任务执行。",
+            "highlight": "豪华品牌量产项目将验证阿里系座舱 AI 的国际车企适配和交付能力。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "极豆",
+        "category": "座舱 / 软件供应商",
+        "focus": "AI 座舱、云平台运营",
+        "priority": "待定",
+        "status": "BASELINE",
+        "news": [
+          {
+            "newsTitle": "极豆展示“沧海大模型”AI 汽车座舱方案",
+            "source": "2026 北京国际车展参展信息",
+            "sourceUrl": "https://www.bagevent.com/event/9164418",
+            "publishedAt": "2026-04-24",
+            "summary": "公开车展信息显示，极豆科技在 2026 北京车展展示“沧海大模型”AI 汽车座舱与相关云端运营能力。",
+            "highlight": "公开信息较少，本条保留为当前可验证基线；下一步重点监测车企定点、量产车型及云运营项目。",
+            "confidence": "中"
+          },
+          {
+            "newsTitle": "极豆入选毕马威中国领先汽车科技 50",
+            "source": "毕马威中国",
+            "sourceUrl": "https://assets.kpmg.com/content/dam/kpmg/cn/pdf/zh/2025/10/china-leading-autotech-50.pdf",
+            "publishedAt": "2025-10-30",
+            "summary": "毕马威报告将极豆列为汽车座舱 AI 与数字化解决方案企业，披露其服务多个车企和品牌的量产运营基础。",
+            "highlight": "公开项目细节仍有限，后续应重点观察新增车企定点和车型量产。",
+            "confidence": "中"
+          }
+        ]
+      },
+      {
+        "name": "魔视智能",
+        "category": "座舱 / 软件供应商",
+        "focus": "泊车方案、AI 驱动第三方方案",
+        "priority": "待定",
+        "status": "BASELINE",
+        "news": [
+          {
+            "newsTitle": "魔视智能披露 L0–L4 全产品线与规模化前装能力",
+            "source": "DOIT",
+            "sourceUrl": "https://www.doit.com.cn/itnews/819442016522309.html",
+            "publishedAt": "2026-05-25",
+            "summary": "魔视智能介绍 Magic Drive、Magic Parking 与 Magic Safety 三条产品线，并强调行泊一体方案已规模化前装落地。",
+            "highlight": "产品线覆盖面和实际量产规模，是评估其第三方智驾方案竞争力的核心。",
+            "confidence": "中"
+          },
+          {
+            "newsTitle": "基于爱芯 M57 发布新一代行泊一体域控",
+            "source": "爱芯元智",
+            "sourceUrl": "https://www.axera-tech.com/zh-hans/news/3213.html",
+            "publishedAt": "2026-04-25",
+            "summary": "魔视智能发布基于 M57 的行泊一体域控，覆盖主流行车与泊车功能，并披露头部车企多款车型量产定点。",
+            "highlight": "第三方算法与国产芯片软硬协同已进入量产阶段，需跟踪具体 OEM、SOP 与海外适配能力。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "车联天下",
+        "category": "座舱 / 软件供应商",
+        "focus": "座舱域控制器、生态运营",
+        "priority": "待定",
+        "status": "BASELINE",
+        "news": [
+          {
+            "newsTitle": "从全系域控扩展至中央计算，AL-A2 支持 13B 端侧大模型",
+            "source": "车联天下",
+            "sourceUrl": "https://www.auto-link.com.cn/news/details_490_2738.html",
+            "publishedAt": "2026-06-15",
+            "summary": "车联天下展示覆盖座舱、舱驾融合和中央计算的产品矩阵；基于骁龙 8797 的 AL-A2 支持 13B 端侧大模型本地部署。",
+            "highlight": "产品线已从座舱域控向中央计算平台迁移，可能扩大与高通平台、AI Agent 和整车电子电气架构的合作面。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "车联天下与高通合作推进 AI 中央计算平台",
+            "source": "车联天下",
+            "sourceUrl": "https://en.auto-link.com.cn/news/details_539_2742.html",
+            "publishedAt": "2026-06-09",
+            "summary": "车联天下在高通汽车技术峰会展示基于 8797 的舱驾融合域控、端侧 13B 大模型和 AI Box。",
+            "highlight": "与高通的长期合作正从座舱域控延伸到舱驾融合与中央计算。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "华勤",
+        "category": "EMS / 代工",
+        "focus": "车载 EMS 代工、智能汽车电子",
+        "priority": "待定",
+        "status": "BASELINE",
+        "news": [
+          {
+            "newsTitle": "华勤展示单 Thor、双 Thor 与 J6M 全系列 ADAS 域控",
+            "source": "华勤技术",
+            "sourceUrl": "https://www.huaqin.com/about/news/193",
+            "publishedAt": "2026-05-02",
+            "summary": "华勤在北京车展展示覆盖座舱、智驾、车身与全域 SOA 的汽车电子方案，包括单/双 NVIDIA Thor 和地平线 J6M 域控。",
+            "highlight": "华勤已从 EMS 制造延伸至全栈域控设计，单 Thor 域控计划在 2026 年第三季度于主流车企量产。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "华勤基于 NVIDIA DRIVE Thor 推出 ADAS 域控",
+            "source": "华勤技术",
+            "sourceUrl": "https://www.huaqin.com/about/news/191",
+            "publishedAt": "2026-04-24",
+            "summary": "华勤宣布与 NVIDIA 合作开发搭载 DriveOS 的 Thor ADAS 域控，计划于 2026 年内量产。",
+            "highlight": "华勤从制造服务进入高算力智驾域控，有望扩大其汽车电子业务边界。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "科博达",
+        "category": "传统 Tier 1 / 零部件",
+        "focus": "照明控制、电机控制、中央计算平台",
+        "priority": "关注",
+        "status": "BASELINE",
+        "news": [
+          {
+            "newsTitle": "募资扩建汽车中央计算和 ADAS 域控制器产能",
+            "source": "科博达公告 / 中财网",
+            "sourceUrl": "https://www.cfi.net.cn/p20260722001282.html",
+            "publishedAt": "2026-07-22",
+            "summary": "科博达披露募集资金计划，拟用于安徽汽车中央计算平台及智能驾驶域控制器相关产能和研发能力建设。",
+            "highlight": "资本开支方向显示其正在从传统控制器向中央计算和 ADAS 域控扩张，可能带来新的芯片与软件合作需求。",
+            "confidence": "中"
+          },
+          {
+            "newsTitle": "科博达披露中央计算与智能驾驶域控项目规划",
+            "source": "科博达公告",
+            "sourceUrl": "https://pdf.dfcfw.com/pdf/H2_AN202603161820580119_1.pdf?1773683849000.pdf=",
+            "publishedAt": "2026-03-16",
+            "summary": "科博达在审核问询回复中说明中央计算平台与智能驾驶域控制器的产品定位和建设规划。",
+            "highlight": "项目规划显示其高算力域控业务已进入明确的产能与商业化准备阶段。",
+            "confidence": "中"
+          }
+        ]
+      },
+      {
+        "name": "威孚智感",
+        "category": "传统 Tier 1 / 零部件",
+        "focus": "毫米波雷达、博世在华合作",
+        "priority": "待定",
+        "status": "BASELINE",
+        "news": [
+          {
+            "newsTitle": "博世第六代角雷达进入量产，威孚智感获得多家车企定点",
+            "source": "每日经济新闻",
+            "sourceUrl": "https://www.nbd.com.cn/articles/2026-01-20/4227403.html",
+            "publishedAt": "2026-01-20",
+            "summary": "公开报道显示，威孚智感参与的博世第六代角雷达已进入量产，并获得多家车企项目定点。",
+            "highlight": "虽然发布时间较早，但仍是当前最新有效汽车业务基线；需持续追踪量产爬坡、客户车型和博世合作边界。",
+            "confidence": "中"
+          },
+          {
+            "newsTitle": "博世雷达团队与威孚智感推进 CR60 Light 项目 SOP",
+            "source": "威孚智感",
+            "sourceUrl": "https://wfss.weifu.com.cn/about/12.html",
+            "publishedAt": "2025-07-22",
+            "summary": "博世雷达团队与威孚智感复盘 CR60 Light 项目并推进量产准备，目标按计划实现 SOP。",
+            "highlight": "该项目可用于判断双方在雷达研发、制造和供应链协同上的实际深度。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "腾讯",
+        "category": "云 / AI 平台",
+        "focus": "云合作、座舱 AI、智驾方案",
+        "priority": "活跃",
+        "status": "BASELINE",
+        "news": [
+          {
+            "newsTitle": "腾讯推进智能座舱 Agent 化，以标准协议连接车端服务",
+            "source": "腾讯云开发者社区",
+            "sourceUrl": "https://cloud.tencent.com/developer/article/2680553",
+            "publishedAt": "2026-06-01",
+            "summary": "腾讯分享智能座舱 Agent 技术路径，强调通过标准化协议连接车端能力、云服务和生态应用，推动座舱从语音助手转向任务型智能体。",
+            "highlight": "标准化 Agent 接口可能改变座舱应用集成和云端运营模式，应关注与车企、OS 和域控伙伴的量产合作。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "腾讯将微信生态与座舱 Agent 结合形成服务闭环",
+            "source": "腾讯云开发者社区",
+            "sourceUrl": "https://developer.cloud.tencent.com/article/2677373",
+            "publishedAt": "2026-05-30",
+            "summary": "腾讯介绍微信生态、端云融合和 AI Agent 在座舱通讯、互联、娱乐与控车场景的落地实践。",
+            "highlight": "生态服务与车端 Agent 的结合可能提升腾讯在座舱运营和用户触达环节的价值。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "阿里云",
+        "category": "云 / AI 平台",
+        "focus": "PAI、通义千问、数据流水线",
+        "priority": "活跃",
+        "status": "BASELINE",
+        "news": [
+          {
+            "newsTitle": "一汽行业大模型基于阿里云百炼开放，覆盖数据到评测流水线",
+            "source": "新华网",
+            "sourceUrl": "https://www.news.cn/tech/20260716/490af8c95b5e4f33adee78c8eb97baaf/c.html",
+            "publishedAt": "2026-07-16",
+            "summary": "一汽行业大模型基于阿里云百炼平台开放，覆盖数据处理、训练、部署和评测等环节，并面向汽车产业场景扩展。",
+            "highlight": "阿里云正在把通用模型平台嵌入汽车研发数据流水线，可能影响 PAI、通义和企业数据治理项目机会。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "元神 AI 大模型智能座舱 Agent 平台上架阿里云市场",
+            "source": "阿里云",
+            "sourceUrl": "https://market.aliyun.com/detail/cmgj00073936.html",
+            "publishedAt": "2026-05-18",
+            "summary": "斑马元神 AI 作为智能座舱 Agent 平台上架阿里云市场，提供场景感知、服务组织和认知进化能力。",
+            "highlight": "产品化上架有助于阿里云把模型、PAI 与座舱解决方案形成标准化交付。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "上研智联",
+        "category": "测试 / 合规",
+        "focus": "自动驾驶测试、数据跨境合规",
+        "priority": "关注",
+        "status": "BASELINE",
+        "news": [
+          {
+            "newsTitle": "展示 AIGC 场景生成、数字孪生与智能网联测试能力",
+            "source": "MBAChina 企业参访",
+            "sourceUrl": "https://www.mba.org.cn/article?id=2927",
+            "publishedAt": "2026-01-09",
+            "summary": "公开参访信息展示上研智联在自动驾驶测试、AIGC 场景泛化、数字孪生和测试数据服务方面的能力。",
+            "highlight": "公开新闻频率较低，本条作为现有最新基线；应额外监测临港测试项目、数据跨境合规资质与 OEM 客户案例。",
+            "confidence": "中"
+          },
+          {
+            "newsTitle": "上研智联与上海电机学院共建智能网联联合实验室",
+            "source": "上海电机学院",
+            "sourceUrl": "https://news.sdju.edu.cn/2025/1026/c471a145733/page.htm",
+            "publishedAt": "2025-10-27",
+            "summary": "双方共建联合实验室，合作覆盖封闭测试、开放道路测试、仿真验证和人才培养。",
+            "highlight": "联合实验室可增强其测试验证人才与场景资源，支撑临港相关项目交付。",
+            "confidence": "高"
+          }
+        ]
+      },
+      {
+        "name": "中汽中心 CATARC",
+        "category": "测试 / 合规",
+        "focus": "标准与测试",
+        "priority": "待定",
+        "status": "BASELINE",
+        "news": [
+          {
+            "newsTitle": "中汽中心推动组合驾驶辅助强制国标宣贯落地",
+            "source": "中汽中心",
+            "sourceUrl": "https://www.catarc.ac.cn/detail/57c601eb42b248249e11a873c8089471",
+            "publishedAt": "2026-07-02",
+            "summary": "中汽中心参与 GB 47955—2026 的制定与宣贯，标准将于 2027 年 1 月 1 日实施。",
+            "highlight": "强标宣贯会直接影响 ADAS 产品定义、测试方法和项目合规节点。",
+            "confidence": "高"
+          },
+          {
+            "newsTitle": "C-ICAP 2026 版评价规程正式实施",
+            "source": "中汽中心",
+            "sourceUrl": "https://www.catarc.ac.cn/mobile/detail/4754e93755c34fbbbc1caebc54a57b76",
+            "publishedAt": "2026-07-01",
+            "summary": "中汽中心启动 C-ICAP 2026 版评价规程实施，更新智能座舱评价框架和相关测试要求。",
+            "highlight": "中汽中心同时参与自动驾驶安全强标与座舱评价，适合作为政策、标准和验证需求变化的核心信号源。",
+            "confidence": "高"
+          }
+        ]
+      }
+    ]
+  }
+}

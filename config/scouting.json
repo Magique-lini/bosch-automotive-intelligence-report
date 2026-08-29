@@ -1,0 +1,54 @@
+{
+  "timezone": "Asia/Shanghai",
+  "industryWindowDays": 30,
+  "industryTargetMin": 15,
+  "industryTargetMax": 24,
+  "retentionDays": 20,
+  "minimumIndustryItemsPerCategory": 2,
+  "partnerFreshnessDays": 365,
+  "partnerNewsMin": 2,
+  "partnerNewsMax": 3,
+  "industryCategories": [
+    "车企动态 | OEM Trend",
+    "零部件企业 | Parts Enterprises",
+    "产经聚焦 | Industrial Economy",
+    "政策动态 | Policy Situation",
+    "人事变动 | Change of Personnel"
+  ],
+  "preferredIndustrySources": [
+    "整车厂、Partner 与 Tier 1 官方新闻中心",
+    "工信部、市场监管总局、KBA、欧盟委员会等监管机构",
+    "中汽中心、中国汽车工业协会、交易所公告",
+    "盖世汽车、亿欧汽车、第一财经、财新、新华网、路透社"
+  ],
+  "industrySearchThemes": [
+    "自动驾驶 L2 L2+ L2++ L3 L4 Robotaxi 认证 许可 测试",
+    "汽车芯片 SoC DRAM 存储 功率器件 涨价 缺货 交期 产能",
+    "智能座舱 舱驾融合 域控制器 中央计算 操作系统 大模型",
+    "智能网联汽车 法规 强制标准 数据跨境 合规 测试 认证",
+    "汽车公司 CEO CTO 采购 研发 品牌负责人 任命 离职"
+  ],
+  "partners": [
+    {"name":"地平线","category":"芯片供应商","focus":"征程系列 AI 芯片","priority":"关注","searchQuery":"地平线","searchTerms":["地平线 征程 汽车 最新","Horizon Robotics Journey automotive latest"]},
+    {"name":"英伟达","category":"芯片供应商","focus":"Orin / Thor 自动驾驶 SoC","priority":"关注","searchQuery":"NVIDIA automotive","searchTerms":["NVIDIA DRIVE Orin Thor automotive latest"]},
+    {"name":"高通","category":"芯片供应商","focus":"骁龙座舱 / 智驾芯片","priority":"活跃","searchQuery":"Qualcomm automotive","searchTerms":["Qualcomm Snapdragon Automotive Ride Cockpit latest"]},
+    {"name":"MTK","category":"芯片供应商","focus":"Dimensity Auto 车载座舱与连接平台","priority":"待定","searchQuery":"MediaTek automotive","searchTerms":["MediaTek Dimensity Auto automotive latest"]},
+    {"name":"爱芯","category":"芯片供应商","focus":"9031E、M57 芯片","priority":"关注","searchQuery":"爱芯","searchTerms":["爱芯 M57 9031E 汽车 最新"]},
+    {"name":"长鑫科技","category":"芯片供应商","focus":"DRAM 存储芯片","priority":"待定","searchQuery":"长鑫科技","searchTerms":["长鑫科技 DRAM 汽车 车规 最新"]},
+    {"name":"大疆","category":"算法供应商","focus":"8650 / J6M 海外项目","priority":"关注","searchQuery":"卓驭科技","searchTerms":["卓驭科技 大疆车载 8650 J6M 海外 最新"]},
+    {"name":"文远知行","category":"算法供应商","focus":"L4 Robotaxi、L2++ ADAS","priority":"待定","searchQuery":"文远知行","searchTerms":["文远知行 Robotaxi L2++ 最新"]},
+    {"name":"轻舟智航","category":"算法供应商","focus":"城市 NOA、高速 NOA","priority":"关注","searchQuery":"轻舟智航","searchTerms":["轻舟智航 城市NOA 高速NOA 最新"]},
+    {"name":"四维图新","category":"座舱 / 软件供应商","focus":"座舱软硬一体、操作系统","priority":"待定","searchQuery":"四维图新","searchTerms":["四维图新 座舱 操作系统 汽车 最新"]},
+    {"name":"斑马智行","category":"座舱 / 软件供应商","focus":"智能座舱操作系统（阿里系）","priority":"待定","searchQuery":"斑马智行","searchTerms":["斑马智行 智能座舱 OS 最新"]},
+    {"name":"极豆","category":"座舱 / 软件供应商","focus":"AI 座舱、云平台运营","priority":"待定","searchQuery":"极豆科技","searchTerms":["极豆科技 AI座舱 汽车 最新"]},
+    {"name":"魔视智能","category":"座舱 / 软件供应商","focus":"泊车方案、AI 驱动第三方方案","priority":"待定","searchQuery":"魔视智能","searchTerms":["魔视智能 行泊一体 泊车 最新"]},
+    {"name":"车联天下","category":"座舱 / 软件供应商","focus":"座舱域控制器、生态运营","priority":"待定","searchQuery":"车联天下","searchTerms":["车联天下 座舱域控制器 中央计算 最新"]},
+    {"name":"华勤","category":"EMS / 代工","focus":"车载 EMS 代工、智能汽车电子","priority":"待定","searchQuery":"华勤汽车电子","searchTerms":["华勤 汽车电子 EMS 域控 最新"]},
+    {"name":"科博达","category":"传统 Tier 1 / 零部件","focus":"照明控制、电机控制、中央计算平台","priority":"关注","searchQuery":"科博达","searchTerms":["科博达 中央计算 域控制器 最新"]},
+    {"name":"威孚智感","category":"传统 Tier 1 / 零部件","focus":"毫米波雷达、博世在华合作","priority":"待定","searchQuery":"威孚智感","searchTerms":["威孚智感 博世 毫米波雷达 最新"]},
+    {"name":"腾讯","category":"云 / AI 平台","focus":"云合作、座舱 AI、智驾方案","priority":"活跃","searchQuery":"腾讯汽车","searchTerms":["腾讯云 汽车 座舱AI 智驾 最新"]},
+    {"name":"阿里云","category":"云 / AI 平台","focus":"PAI、通义千问、数据流水线","priority":"活跃","searchQuery":"阿里云汽车","searchTerms":["阿里云 汽车 PAI 通义 数据流水线 最新"]},
+    {"name":"上研智联","category":"测试 / 合规","focus":"自动驾驶测试、数据跨境合规","priority":"关注","searchQuery":"上研智联","searchTerms":["上研智联 自动驾驶测试 数据跨境 最新"]},
+    {"name":"中汽中心 CATARC","category":"测试 / 合规","focus":"标准与测试","priority":"待定","searchQuery":"中汽中心","searchTerms":["中汽中心 CATARC 智能网联 标准 测试 最新"]}
+  ]
+}
